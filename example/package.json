@@ -1,0 +1,15 @@
+{
+	"name": "test",
+	"description": "Testing the reallysimple package",
+	"version": "0.4.0",
+	"author": "Dave Winer <dave@scripting.com>",
+	"license": "MIT",
+	"main": "test.js",
+	"dependencies": {
+		"daveutils": "*",
+		"reallysimple": "*"
+	},
+	"engines": {
+		"node": "*"
+	}
+}

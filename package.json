@@ -1,0 +1,23 @@
+{
+	"name": "reallysimple", 
+	"description": "Reads an RSS-like feed and calls back with a JavaScript structure, hiding all the history. It really is simple. ;-)",
+	"version": "0.4.1", 
+	"author": "Dave Winer <dave@scripting.com>",
+	"license": "MIT",
+	"files": [
+		"reallysimple.js"
+		],
+	"main": "reallysimple.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/scripting/reallysimple.git"
+		},
+	"dependencies" : {
+		"opml": "*",
+		"daveutils": "*",
+		"davefeedread": "*"
+		},
+	"engines": {
+		"node": "*"
+		}
+	}
