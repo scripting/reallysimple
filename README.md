@@ -1,16 +1,22 @@
 # reallysimple
 
-Reads an RSS-like feed and calls back with a JavaScript structure, hiding all the history.
+JavaScript code to read a feed. Calls back with a JavaScript structure, hiding all the history.
+
+#### What formats are supported?
+
+RSS, Atom, and RDF.
 
 #### Why?
 
-If it's easier to use RSS, more people will use it. If programmers can quickly put together an app that uses RSS, people will try out more ideas, add RSS support to more apps. I see this as a good thing.
+To make reading a feed from a JavaScript app as easy as possible. 
 
-I also want to include RSS verbs in a scripting language I'm working on. For scripting, simplicity is everything. 
+To hide all the history to get it out of your way. 
+
+If developers can quickly put together an app that uses feeds, people will try out more ideas, add feed support to more apps.
+
+I needed to simplify feed reading for the scripting system in Drummer. For scripting, simplicity is everything. Why not share the simplicity with lower level code.
 
 There probably is a small tradeoff in performance, you can probably write faster code by going straight to the feedparser level. And that's fine for applications that require the maximum performance, perhaps where you're reading a thousand feeds per sectond. 
-
-#### An example
 
 #### A coding example
 
@@ -34,9 +40,11 @@ Here's what shows up in the console when you run that code.
 
 #### What we build on
 
-Thanks to Dan MacTough for the feedparser package which we build on.
+Thanks to Dan MacTough for the <a href="https://www.npmjs.com/package/feedparser">feedparser</a> package.
 
-It also builds on the davefeedread package, which simplifies the programming interface to feedparser, and returns the same complicated structure returned by feedparser. 
+It also builds on the davefeedread package, which simplifies the programming interface to feedparser.
+
+This package further simplifies the struct returned by <a href="https://www.npmjs.com/package/davefeedread">davefeedread</a>.
 
 #### Work notes
 

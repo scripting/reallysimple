@@ -1,18 +1,18 @@
-var myProductName = "reallysimple"; myVersion = "0.4.1";   
+var myProductName = "reallysimple"; myVersion = "0.4.3";   
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
 
 const utils = require ("daveutils");
 const request = require ("request");
-const feedRead1 = require ("davefeedread");
+const davefeedread = require ("davefeedread");
 
 const allowedHeadNames = [
 	"title", "link", "description", "language", "copyright", "managingEditor", "webMaster", "lastBuildDate", "pubDate", "category",
 	"generator", "docs", "cloud", "ttl", "image", "rating", "textInput", "skipHours", "skipDays", "source:account", "source:localtime"
 	];
 const allowedItemNames = [
-	"title", "link", "description", "author", "category", "comments", "enclosure", "guid", "pubDate", "source", "source:outline", "source:likes"
+	"title", "link", "description", "author", "category", "comments", "enclosures", "guid", "pubDate", "source", "source:outline", "source:likes"
 	];
 
 var config = {
@@ -153,7 +153,14 @@ function convertFeed (oldFeed) {
 							newItem.outline = val;
 							}
 						else {
-							newItem [x] = val;
+							if (x == "enclosures") {
+								if (item.enclosures.length > 0) {
+									newItem.enclosure = item.enclosures [0];
+									}
+								}
+							else {
+								newItem [x] = val;
+								}
 							}
 						}
 					});
@@ -170,7 +177,7 @@ function convertFeed (oldFeed) {
 	}
 
 function readFeed (url, callback) {
-	feedRead1.parseUrl (url, config.timeOutSecs, function (err, theFeed) {
+	davefeedread.parseUrl (url, config.timeOutSecs, function (err, theFeed) {
 		if (err) {
 			callback (err);
 			}
@@ -179,4 +186,3 @@ function readFeed (url, callback) {
 			}
 		});
 	}
-
