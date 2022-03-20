@@ -2,7 +2,7 @@ var myProductName = "test"; myVersion = "0.4.0";
 
 const fs = require ("fs");
 const utils = require ("daveutils");
-const reallysimple = require ("../reallysimple.js");
+const reallysimple = require ("reallysimple");
 
 const urlfeed = "http://scripting.com/rss.xml";
 

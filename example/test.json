@@ -17,7 +17,7 @@
     "accounts": {
         "twitter": "davewiner"
     },
-    "localtime": "Sun, March 20, 2022 12:03 PM EDT",
+    "localtime": "Sun, March 20, 2022 1:19 PM EDT",
     "items": [
         {
             "description": "Scott Hanson: <a href=\"https://github.com/scotthansonde/DrummerNotes/blob/main/buildingElectron.md\">Building Electron apps for Linux and Windows</a>. We're looking for <a href=\"https://github.com/scotthansonde/DrummerNotes/issues/1\">feedback</a> from people who have successfully built Linux and Windows versions of Electron apps.",
@@ -33,12 +33,12 @@
             }
         },
         {
-            "description": "<a href=\"https://twitter.com/ST_Culture/status/1505470787993673729\">Anne Tyler</a>: \"It would be very foolish for me to write, let’s say, a novel from the viewpoint of a black man, but I think I should be allowed to do it.\" What a world, where such an accomplished and respected author feels so intimidated.",
+            "description": "<a href=\"https://twitter.com/ST_Culture/status/1505470787993673729\">Anne Tyler</a>: \"It would be very foolish for me to write, let’s say, a novel from the viewpoint of a black man, but I think I should be allowed to do it.\" What a world, where such an accomplished and respected author feels this intimidated.",
             "pubDate": "2022-03-20T14:56:23.000Z",
             "link": "http://scripting.com/2022/03/20.html#a145623",
             "guid": "http://scripting.com/2022/03/20.html#a145623",
             "outline": {
-                "text": "<a href=\"https://twitter.com/ST_Culture/status/1505470787993673729\">Anne Tyler</a>: \"It would be very foolish for me to write, let’s say, a novel from the viewpoint of a black man, but I think I should be allowed to do it.\" What a world, where such an accomplished and respected author feels so intimidated.",
+                "text": "<a href=\"https://twitter.com/ST_Culture/status/1505470787993673729\">Anne Tyler</a>: \"It would be very foolish for me to write, let’s say, a novel from the viewpoint of a black man, but I think I should be allowed to do it.\" What a world, where such an accomplished and respected author feels this intimidated.",
                 "created": "Sun, 20 Mar 2022 14:56:23 GMT",
                 "type": "outline",
                 "flincalendar": "true",
@@ -116,9 +116,11 @@
             "pubDate": "2022-03-19T17:12:45.000Z",
             "link": "http://scripting.com/2022/03/19.html#a171245",
             "guid": "http://scripting.com/2022/03/19.html#a171245",
-            "enclosureUrl": "http://scripting.com/2022/03/19/whyTheNYTEditorialWasAGoodSign.m4a",
-            "enclosureType": "audio/mpeg",
-            "enclosureLength": "7070251",
+            "enclosure": {
+                "url": "http://scripting.com/2022/03/19/whyTheNYTEditorialWasAGoodSign.m4a",
+                "type": "audio/mpeg",
+                "length": "7070251"
+            },
             "outline": {
                 "text": "Podcast: <a href=\"http://scripting.com/2022/03/19/whyTheNYTEditorialWasAGoodSign.m4a\">Why the NYT editorial is a good sign</a>.",
                 "created": "Sat, 19 Mar 2022 17:12:45 GMT",
@@ -392,9 +394,11 @@
             "pubDate": "2022-03-16T13:28:16.000Z",
             "link": "http://scripting.com/2022/03/16.html#a132816",
             "guid": "http://scripting.com/2022/03/16.html#a132816",
-            "enclosureUrl": "http://scripting.com/2022/03/16/whyIWentToHarvard.m4a",
-            "enclosureType": "audio/mpeg",
-            "enclosureLength": "12192270",
+            "enclosure": {
+                "url": "http://scripting.com/2022/03/16/whyIWentToHarvard.m4a",
+                "type": "audio/mpeg",
+                "length": "12192270"
+            },
             "outline": {
                 "text": "<a href=\"http://scripting.com/2022/03/16/whyIWentToHarvard.m4a\">23-minute podcast</a> on the contribution <a href=\"http://scripting.com/2022/03/15.html#a153454\">Chris Lydon</a> and <a href=\"https://www.linkedin.com/in/mary-mcgrath-962765/\">Mary McGrath</a> are making, and why we need a core of capable <a href=\"http://drummer.scripting.com/\">Drummer</a> users to test each new feature or we can't move. Also why I wanted to be at Harvard in 2003. And how lucky it was that Chris was there too. I ramble a lot, if you listen to me, you know that. But I do eventually get to the point. <span class=\"spOldSchoolEmoji\">😄</span>",
                 "created": "Wed, 16 Mar 2022 13:28:16 GMT",
