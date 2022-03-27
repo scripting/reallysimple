@@ -1,6 +1,6 @@
 # reallysimple
 
-JavaScript code to read a feed. Calls back with a JavaScript structure, hiding all the history.
+JavaScript code to read a feed. Calls back with a simple JavaScript object, easily represented in JSON. Hides all the history.
 
 #### What formats are supported?
 
@@ -8,7 +8,7 @@ RSS, Atom, and RDF.
 
 #### Why?
 
-To make reading a feed from a JavaScript app as easy as possible. 
+I wanted to make reading a feed from a JavaScript app as easy as possible. 
 
 To hide all the history to get it out of your way. 
 
@@ -47,6 +47,14 @@ It also builds on the davefeedread package, which simplifies the programming int
 This package further simplifies the struct returned by <a href="https://www.npmjs.com/package/davefeedread">davefeedread</a>.
 
 #### Work notes
+
+3/21/22; 10:19:22 AM by DW
+
+Reviewing the way we represent links in items in the API. 
+
+The question is this -- how can we get a link to the item from the item. 
+
+The answer, on reflection -- rely on the link element as the permalink. 
 
 3/7/22; 10:27:47 AM by DW
 

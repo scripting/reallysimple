@@ -1,10 +1,11 @@
-var myProductName = "reallysimple"; myVersion = "0.4.3";   
+var myProductName = "reallysimple"; myVersion = "0.4.5";   
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
 
 const utils = require ("daveutils");
 const request = require ("request");
+const opml = require ("opml");
 const davefeedread = require ("davefeedread");
 
 const allowedHeadNames = [
@@ -95,6 +96,19 @@ function convertFeed (oldFeed) {
 			}
 		return (theNewOutline);
 		}
+	function removeExtraAttributes (theNode) {
+		function visit (theNode) {
+			if (theNode.flincalendar !== undefined) {
+				delete theNode.flincalendar;
+				}
+			if (theNode.subs !== undefined) {
+				theNode.subs.forEach (function (sub) {
+					visit (sub);
+					});
+				}
+			}
+		visit (theNode);
+		}
 	function getHeadValuesFromFirstItem () { //3/6/22 by DW
 		if (oldFeed.items.length > 0) {
 			var item = oldFeed.items [0];
@@ -150,6 +164,7 @@ function convertFeed (oldFeed) {
 					if (x == name) {
 						if (x == "source:outline") {
 							val = convertOutline (item ["source:outline"]);
+							removeExtraAttributes (val); //3/27/22 by DW
 							newItem.outline = val;
 							}
 						else {
