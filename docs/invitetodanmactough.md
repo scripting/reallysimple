@@ -1,6 +1,6 @@
 # Invite to Dan
 
-The first invite for this repo went to Dan MacTough who wrote the node-feedparser package that the reallysimple package builds on. 
+The first invite for this repo went to Dan MacTough who wrote the <a href="https://github.com/danmactough/node-feedparser">node-feedparser</a> package that the reallysimple package builds on. 
 
 ### The email
 
