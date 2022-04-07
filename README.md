@@ -22,19 +22,7 @@ There probably is a small tradeoff in performance, you can probably write faster
 
 Here's how you call the package.
 
-const reallysimple = require ("reallysimple");
-
-const url = "http://scripting.com/rss.xml";
-
-reallysimple.readFeed (url, function (err, theFeed) {
-
-if (!err) {
-
-console.log ("theFeed == " + JSON.stringify (theFeed));
-
-}
-
-}):
+```javascriptconst reallysimple = require ("reallysimple");const url = "http://scripting.com/rss.xml";reallysimple.readFeed (url, function (err, theFeed) {	if (!err) {		console.log ("theFeed == " + JSON.stringify (theFeed));		}	}):```
 
 Here's what shows up in the console when you run that code. 
 

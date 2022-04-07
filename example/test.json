@@ -1,7 +1,7 @@
 {
     "title": "Scripting News",
-    "description": "It's even worse than it appears.",
-    "pubDate": "2022-03-27T15:29:21.000Z",
+    "description": "It's even worse than it appears..",
+    "pubDate": "2022-04-03T13:52:15.000Z",
     "link": "http://scripting.com/",
     "language": "en-us",
     "copyright": "&copy; copyright 1994-2022 Dave Winer.",
@@ -17,983 +17,236 @@
     "accounts": {
         "twitter": "davewiner"
     },
-    "localtime": "Sun, March 27, 2022 11:32 AM EDT",
+    "localtime": "Sun, April 3, 2022 11:46 AM EDT",
     "items": [
         {
-            "description": "Defunding Fox News is an essential first step to healing America.",
-            "pubDate": "2022-03-27T15:17:48.000Z",
-            "link": "http://scripting.com/2022/03/27.html#a151748",
-            "guid": "http://scripting.com/2022/03/27.html#a151748",
+            "description": "Will I ever stop using <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> or is this a chronic addiction?",
+            "pubDate": "2022-04-03T13:35:01.000Z",
+            "link": "http://scripting.com/2022/04/03.html#a133501",
+            "guid": "http://scripting.com/2022/04/03.html#a133501",
             "outline": {
-                "text": "Defunding Fox News is an essential first step to healing America.",
-                "created": "Sun, 27 Mar 2022 15:17:48 GMT",
+                "text": "Will I ever stop using <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> or is this a chronic addiction?",
+                "created": "Sun, 03 Apr 2022 13:35:01 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/27.html#a151748"
+                "permalink": "http://scripting.com/2022/04/03.html#a133501"
             }
         },
         {
-            "description": "While we're facing the truth that sometimes regime change is the answer, we must also get Fox News off the public news network. Ask Ukraine about that. Their first impulse was to let their equivalent of Fox News continue to poison them in the name of free speech. Ultimately they realized what Twitter did, freedom only goes so far. Countries can have free speech in their Constitution, but that's not a <a href=\"https://en.wikipedia.org/wiki/The_Constitution_is_not_a_suicide_pact\">suicide pact</a>. The root of our problem is Fox. Every day they weaken us. It's time to say enough. Let Tucker Carlson find a new way to spread his poison.",
-            "pubDate": "2022-03-27T15:29:21.000Z",
-            "link": "http://scripting.com/2022/03/27.html#a152921",
-            "guid": "http://scripting.com/2022/03/27.html#a152921",
+            "description": "Ken Smith <a href=\"https://twitter.com/KenSmith/status/1510577457979662339\">says</a> Twitter is anti-writer. Hmm. Interesting thought.",
+            "pubDate": "2022-04-03T13:52:15.000Z",
+            "link": "http://scripting.com/2022/04/03.html#a135215",
+            "guid": "http://scripting.com/2022/04/03.html#a135215",
             "outline": {
-                "text": "While we're facing the truth that sometimes regime change is the answer, we must also get Fox News off the public news network. Ask Ukraine about that. Their first impulse was to let their equivalent of Fox News continue to poison them in the name of free speech. Ultimately they realized what Twitter did, freedom only goes so far. Countries can have free speech in their Constitution, but that's not a <a href=\"https://en.wikipedia.org/wiki/The_Constitution_is_not_a_suicide_pact\">suicide pact</a>. The root of our problem is Fox. Every day they weaken us. It's time to say enough. Let Tucker Carlson find a new way to spread his poison.",
-                "created": "Sun, 27 Mar 2022 15:29:21 GMT",
+                "text": "Ken Smith <a href=\"https://twitter.com/KenSmith/status/1510577457979662339\">says</a> Twitter is anti-writer. Hmm. Interesting thought.",
+                "created": "Sun, 03 Apr 2022 13:52:15 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/27.html#a152921"
+                "permalink": "http://scripting.com/2022/04/03.html#a135215"
             }
         },
         {
-            "description": "It's interesting to review the <a href=\"http://scripting.com/2021/01/\">archive</a> for January 2021.",
-            "pubDate": "2022-03-27T15:09:47.000Z",
-            "link": "http://scripting.com/2022/03/27.html#a150947",
-            "guid": "http://scripting.com/2022/03/27.html#a150947",
+            "description": "One  of  these  decades  the tech industry is going to grow the fuck up and stop insisting on being the boy wonder and respect what has been accomplished before they showed up. Then we won’t have to constantly be retooling and ripping up the pavement and starting over.",
+            "pubDate": "2022-04-03T13:51:50.000Z",
+            "link": "http://scripting.com/2022/04/03.html#a135150",
+            "guid": "http://scripting.com/2022/04/03.html#a135150",
             "outline": {
-                "text": "It's interesting to review the <a href=\"http://scripting.com/2021/01/\">archive</a> for January 2021.",
-                "created": "Sun, 27 Mar 2022 15:09:47 GMT",
+                "text": "One  of  these  decades  the tech industry is going to grow the fuck up and stop insisting on being the boy wonder and respect what has been accomplished before they showed up. Then we won’t have to constantly be retooling and ripping up the pavement and starting over.",
+                "created": "Sun, 03 Apr 2022 13:51:50 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/27.html#a150947"
+                "permalink": "http://scripting.com/2022/04/03.html#a135150"
             }
         },
         {
-            "description": "Whenever a pundit criticizes Biden on TV, an angry voice in my head asks: Compared to what? We've had the comparison, you know. Four harrowing years of it.",
-            "pubDate": "2022-03-27T15:06:29.000Z",
-            "link": "http://scripting.com/2022/03/27.html#a150629",
-            "guid": "http://scripting.com/2022/03/27.html#a150629",
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2022/04/03/mii.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I am soooo glad that <a href=\"https://nintendoswitchsports.nintendo.com/?cid=N1101-01:ch=pdpd\">sports</a> are coming to the <a href=\"https://en.wikipedia.org/wiki/Nintendo_Switch\">Nintendo Switch</a>. Now I will use mine. I thought they would, of course, have ported <a href=\"https://en.wikipedia.org/wiki/Wii_Sports\">Wii Sports</a> to the Switch as the first thing. Kind of like MacWrite and MacPaint. I never bought any other software for my Wii. The fact that I could play tennis in my living room, or golf or go bowling -- that's all I ever wanted. I imagine the new Sports will do a bunch of things the original couldn't, they've had fourteen years to work on it.",
+            "pubDate": "2022-04-03T13:35:16.000Z",
+            "link": "http://scripting.com/2022/04/03.html#a133516",
+            "guid": "http://scripting.com/2022/04/03.html#a133516",
             "outline": {
-                "text": "Whenever a pundit criticizes Biden on TV, an angry voice in my head asks: Compared to what? We've had the comparison, you know. Four harrowing years of it.",
-                "created": "Sun, 27 Mar 2022 15:06:29 GMT",
+                "text": "I am soooo glad that <a href=\"https://nintendoswitchsports.nintendo.com/?cid=N1101-01:ch=pdpd\">sports</a> are coming to the <a href=\"https://en.wikipedia.org/wiki/Nintendo_Switch\">Nintendo Switch</a>. Now I will use mine. I thought they would, of course, have ported <a href=\"https://en.wikipedia.org/wiki/Wii_Sports\">Wii Sports</a> to the Switch as the first thing. Kind of like MacWrite and MacPaint. I never bought any other software for my Wii. The fact that I could play tennis in my living room, or golf or go bowling -- that's all I ever wanted. I imagine the new Sports will do a bunch of things the original couldn't, they've had fourteen years to work on it.",
+                "created": "Sun, 03 Apr 2022 13:35:16 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/27.html#a150629"
+                "image": "http://scripting.com/images/2022/04/03/mii.png",
+                "permalink": "http://scripting.com/2022/04/03.html#a133516"
             }
         },
         {
-            "description": "Spoiler alert. I was pretty sure I had the answer to today's Wordle puzzle, so I did a <a href=\"https://www.youtube.com/watch?v=bdSa5kJb-yw\">screen recording</a> of the reveal, to capture the animation, so I could experience it over and over. Now you can too. But of course if you haven't solved today's puzzle -- this is a spoiler.",
-            "pubDate": "2022-03-27T14:20:52.000Z",
-            "link": "http://scripting.com/2022/03/27.html#a142052",
-            "guid": "http://scripting.com/2022/03/27.html#a142052",
+            "description": "I'm working on a piece of software built around a single closure. The data type that's at the center of the user experience. When you create it as a closure, it is very easy to tweak it up. Every instance of a closure is a little world unto itself. You have to set up protocols for the outside world to speak to the object. That's good because there can't be any other interactions. When debugging you just have to look there. And when there are no deeply hidden bugs, its deliciously easy to work on. But when you type <code>[feedItem, theFeed]</code> when you really meant <code>{feedItem, theFeed}</code>, and your eyes are imperfect as mine are, and you tend to see what you expect to see in debugging, and miss the little subtle mistakes. Whether you use square or curly brackets makes all the difference in the world. It can turn rich structures into <code>undefined</code>. And all the debugging code in the world doesn't help until you see the square brackets are where there should be curly ones. I think this is a lot like Wordle. The pattern has to be seen by the subconscious. You don't move on until you've solved the problem. But unlike Wordle you get as many tries as it takes.",
+            "pubDate": "2022-04-03T13:28:38.000Z",
+            "link": "http://scripting.com/2022/04/03.html#a132838",
+            "guid": "http://scripting.com/2022/04/03.html#a132838",
             "outline": {
-                "text": "Spoiler alert. I was pretty sure I had the answer to today's Wordle puzzle, so I did a <a href=\"https://www.youtube.com/watch?v=bdSa5kJb-yw\">screen recording</a> of the reveal, to capture the animation, so I could experience it over and over. Now you can too. But of course if you haven't solved today's puzzle -- this is a spoiler.",
-                "created": "Sun, 27 Mar 2022 14:20:52 GMT",
+                "text": "I'm working on a piece of software built around a single closure. The data type that's at the center of the user experience. When you create it as a closure, it is very easy to tweak it up. Every instance of a closure is a little world unto itself. You have to set up protocols for the outside world to speak to the object. That's good because there can't be any other interactions. When debugging you just have to look there. And when there are no deeply hidden bugs, its deliciously easy to work on. But when you type <code>[feedItem, theFeed]</code> when you really meant <code>{feedItem, theFeed}</code>, and your eyes are imperfect as mine are, and you tend to see what you expect to see in debugging, and miss the little subtle mistakes. Whether you use square or curly brackets makes all the difference in the world. It can turn rich structures into <code>undefined</code>. And all the debugging code in the world doesn't help until you see the square brackets are where there should be curly ones. I think this is a lot like Wordle. The pattern has to be seen by the subconscious. You don't move on until you've solved the problem. But unlike Wordle you get as many tries as it takes.",
+                "created": "Sun, 03 Apr 2022 13:28:38 GMT",
                 "type": "outline",
-                "urlvideo": "https://www.youtube.com/watch?v=bdSa5kJb-yw",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/27.html#a142052"
+                "permalink": "http://scripting.com/2022/04/03.html#a132838"
             }
         },
         {
-            "description": "<img src=\"http://scripting.com/images/2022/03/27/wordle.png\">",
-            "pubDate": "2022-03-27T14:09:04.000Z",
-            "link": "http://scripting.com/2022/03/27.html#a140904",
-            "guid": "http://scripting.com/2022/03/27.html#a140904",
+            "description": "BTW, written explanations of <a href=\"https://en.wikipedia.org/wiki/Closure_(computer_programming)\">closures</a> always read like gobbledygook. Here's what I would say. A closure is an <i>instance</i> of a function, as opposed to a <i>call</i> to a function, but they start life as a call. If when you call the function, it still has work to do, in the form of local functions that run every second or minute, for example, or to respond to messages from the outside, such as a click on an object it created (and is linked into the DOM), or an HTTP request, then all its data sticks around. And it's private to the function, no one else can get at it. That helps you keep the overall program simpler, there are fewer things that can go wrong.  Now as I read this I'm not sure I got it, but it's close. I guess the thing is I've never written an interpreter for a language that has closures. In my experience that's when you really understand a piece of machinery, when it stops being magic -- when you've implemented it.",
+            "pubDate": "2022-04-03T13:44:25.000Z",
+            "link": "http://scripting.com/2022/04/03.html#a134425",
+            "guid": "http://scripting.com/2022/04/03.html#a134425",
             "outline": {
-                "text": "<img src=\"http://scripting.com/images/2022/03/27/wordle.png\">",
-                "created": "Sun, 27 Mar 2022 14:09:04 GMT",
+                "text": "BTW, written explanations of <a href=\"https://en.wikipedia.org/wiki/Closure_(computer_programming)\">closures</a> always read like gobbledygook. Here's what I would say. A closure is an <i>instance</i> of a function, as opposed to a <i>call</i> to a function, but they start life as a call. If when you call the function, it still has work to do, in the form of local functions that run every second or minute, for example, or to respond to messages from the outside, such as a click on an object it created (and is linked into the DOM), or an HTTP request, then all its data sticks around. And it's private to the function, no one else can get at it. That helps you keep the overall program simpler, there are fewer things that can go wrong.  Now as I read this I'm not sure I got it, but it's close. I guess the thing is I've never written an interpreter for a language that has closures. In my experience that's when you really understand a piece of machinery, when it stops being magic -- when you've implemented it.",
+                "created": "Sun, 03 Apr 2022 13:44:25 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/27.html#a140904"
+                "permalink": "http://scripting.com/2022/04/03.html#a134425"
             }
         },
         {
-            "title": "The Putinites in America",
-            "description": "<p>So much disappointment in what Biden said about Putin. As I've <a href=\"https://twitter.com/davewiner/status/1508069853193773057\">said</a>, I don't care. Putin has to go, whether or not Biden said it out loud. </p>\n<p>But there's a much more dangerous despot-in-waiting here in the good old US of A.</p>\n<p>He tried to overthrow the government and came incredibly close to doing it. I remember while it was going on, wondering if the entire US Congress was being executed while we were watching the riot. If the attackers had been somewhat better organized, that's exactly what would have been going on. And how would our country ever recover from that. </p>\n<p>The coup didn't work, but that was only luck. The organizers are still free, and they're getting ready for Coup II and this one is going to work. They're using our own laws to pre-rig the outcome of the next national election.</p>\n<p>So to President Biden, who was refreshingly honest and open about Putin (and I don't think it was a gaffe, btw) what are we going to do about the Putinites in America?</p>\n<p>PS: The only punishment for Trump was he lost his TWTR.</p>\n<p>PPS: No one scanned them for weapons as they entered the Capitol. That the Capitol was completely undefended can't have been an accident. I wasn't born yesterday and neither were you. If that had happened in another country would have believed there wasn't help on the inside?</p>",
-            "pubDate": "2022-03-27T14:55:34.000Z",
-            "link": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica",
-            "guid": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica",
+            "description": "A user said he’d be more inclined to use <a href=\"http://drummer.scripting.com/\">Drummer</a> if i planned for it to continue to work after I stop working. First, yes I did plan the best I could. All your files are in an <a href=\"http://opml.org/\">open format</a> which can be read by most outliners. You can easily and quickly download all your files with a <a href=\"http://docserver.scripting.com/drummer/general.opml#1634478289000\">single command</a>. You should do it frequently. If you want Drummer to keep going, help out next time there are new features, get involved in testing. Anyone can do it. It should be possible for me to introduce a new fix or feature and find out if there are any problems within a few hours. That's what the process needs from users, at least to be somewhat viable going forward.",
+            "pubDate": "2022-04-02T17:52:47.000Z",
+            "link": "http://scripting.com/2022/04/02.html#a175247",
+            "guid": "http://scripting.com/2022/04/02.html#a175247",
             "outline": {
-                "text": "The Putinites in America",
-                "created": "Sun, 27 Mar 2022 14:55:34 GMT",
+                "text": "A user said he’d be more inclined to use <a href=\"http://drummer.scripting.com/\">Drummer</a> if i planned for it to continue to work after I stop working. First, yes I did plan the best I could. All your files are in an <a href=\"http://opml.org/\">open format</a> which can be read by most outliners. You can easily and quickly download all your files with a <a href=\"http://docserver.scripting.com/drummer/general.opml#1634478289000\">single command</a>. You should do it frequently. If you want Drummer to keep going, help out next time there are new features, get involved in testing. Anyone can do it. It should be possible for me to introduce a new fix or feature and find out if there are any problems within a few hours. That's what the process needs from users, at least to be somewhat viable going forward.",
+                "created": "Sat, 02 Apr 2022 17:52:47 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica",
+                "permalink": "http://scripting.com/2022/04/02.html#a175247"
+            }
+        },
+        {
+            "description": "One of the streaming entertainment services should have a user interface like <a href=\"https://www.metacritic.com/\">MetaCritic</a>.",
+            "pubDate": "2022-04-02T14:14:34.000Z",
+            "link": "http://scripting.com/2022/04/02.html#a141434",
+            "guid": "http://scripting.com/2022/04/02.html#a141434",
+            "outline": {
+                "text": "One of the streaming entertainment services should have a user interface like <a href=\"https://www.metacritic.com/\">MetaCritic</a>.",
+                "created": "Sat, 02 Apr 2022 14:14:34 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/04/02.html#a141434"
+            }
+        },
+        {
+            "title": "Today's Wordle",
+            "description": "<p>I sat down at the breakfast table to solve the <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> puzzle for the day. I was sad to solve it in less than a minute. Now what to do? Guess I have to get to work! </p>\n<p>BTW -- I find that only my subconscious mind can solve the puzzle, to actually see the solution. I can analytically arrange for the clues to be available to my subconsciousl but the word pops into my conscious mind in an instant. I have no awareness of the process.</p>\n<p>Usually I'm sure when I have the answer. Today I wasn't even sure the correct word was actually a word! What a nice surprise when all five letters came up green and then did their <a href=\"https://www.youtube.com/watch?v=bdSa5kJb-yw\">little dance</a>. </p>\n<p><img src=\"http://scripting.com/images/2022/04/02/wordle.png\"></p>",
+            "pubDate": "2022-04-02T12:50:42.000Z",
+            "link": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle",
+            "guid": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle",
+            "outline": {
+                "text": "Today's Wordle",
+                "created": "Sat, 02 Apr 2022 12:50:42 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle",
                 "subs": [
                     {
-                        "text": "So much disappointment in what Biden said about Putin. As I've <a href=\"https://twitter.com/davewiner/status/1508069853193773057\">said</a>, I don't care. Putin has to go, whether or not Biden said it out loud.",
-                        "created": "Sun, 27 Mar 2022 14:55:41 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica#a145541"
+                        "text": "I sat down at the breakfast table to solve the <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> puzzle for the day. I was sad to solve it in less than a minute. Now what to do? Guess I have to get to work!",
+                        "created": "Sat, 02 Apr 2022 12:50:46 GMT",
+                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125046"
                     },
                     {
-                        "text": "But there's a much more dangerous despot-in-waiting here in the good old US of A.",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica#aNaNNaNNaN"
+                        "text": "BTW -- I find that only my subconscious mind can solve the puzzle, to actually see the solution. I can analytically arrange for the clues to be available to my subconsciousl but the word pops into my conscious mind in an instant. I have no awareness of the process.",
+                        "created": "Sat, 02 Apr 2022 12:51:36 GMT",
+                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125136"
                     },
                     {
-                        "text": "He tried to overthrow the government and came incredibly close to doing it. I remember while it was going on, wondering if the entire US Congress was being executed while we were watching the riot. If the attackers had been somewhat better organized, that's exactly what would have been going on. And how would our country ever recover from that.",
-                        "created": "Sun, 27 Mar 2022 15:23:50 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica#a152350"
+                        "text": "Usually I'm sure when I have the answer. Today I wasn't even sure the correct word was actually a word! What a nice surprise when all five letters came up green and then did their <a href=\"https://www.youtube.com/watch?v=bdSa5kJb-yw\">little dance</a>.",
+                        "created": "Sat, 02 Apr 2022 12:52:12 GMT",
+                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125212"
                     },
                     {
-                        "text": "The coup didn't work, but that was only luck. The organizers are still free, and they're getting ready for Coup II and this one is going to work. They're using our own laws to pre-rig the outcome of the next national election.",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica#aNaNNaNNaN"
-                    },
-                    {
-                        "text": "So to President Biden, who was refreshingly honest and open about Putin (and I don't think it was a gaffe, btw) what are we going to do about the Putinites in America?",
-                        "created": "Sun, 27 Mar 2022 15:01:55 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica#a150155"
-                    },
-                    {
-                        "text": "PS: The only punishment for Trump was he lost his TWTR.",
-                        "created": "Sun, 27 Mar 2022 15:01:56 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica#a150156"
-                    },
-                    {
-                        "text": "PPS: No one scanned them for weapons as they entered the Capitol. That the Capitol was completely undefended can't have been an accident. I wasn't born yesterday and neither were you. If that had happened in another country would have believed there wasn't help on the inside?",
-                        "created": "Sun, 27 Mar 2022 15:03:47 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/27/145534.html?title=thePutinitesInAmerica#a150347"
+                        "text": "<img src=\"http://scripting.com/images/2022/04/02/wordle.png\">",
+                        "created": "Sat, 02 Apr 2022 12:53:19 GMT",
+                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125319"
                     }
                 ]
             }
         },
         {
-            "description": "It's nice to see two people you know on Facebook are friends only because you know both of them. Like Dan Conover and Steve Goodman. Cori Kesler and NakedJen. I'm sure I'll think of others. A visible legacy. In basketball, an assist.",
-            "pubDate": "2022-03-26T14:56:58.000Z",
-            "link": "http://scripting.com/2022/03/26.html#a145658",
-            "guid": "http://scripting.com/2022/03/26.html#a145658",
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2021/08/27/businessmanWithAGun.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I hate April 1 on the web and esp in news orgs, whose <i>business</i> is posting stuff that's true. I tend to take things literally as I read them, and puzzle my way through strange news, until it hits that I've been burned. I waste a fair amount of time on April 1 wading through this nonsense. The only thing you can do is let people know in advance that if they troll you with one of these things, if it's on a system where I can block you, that's what I do. If it's a news org, I try to remember never to trust anything they write, because they clearly have no respect for their own mission. So I posted a <a href=\"https://www.facebook.com/dave.winer.12/posts/1729710617236336?comment_id=1729845797222818\">message</a> on <a href=\"http://scripting.com/images/2022/04/01/fbwarningaboutapril1garbage.png\">FB</a> and <a href=\"https://twitter.com/davewiner/status/1509848417098518534\">Twitter</a> establishing this rule, and wouldn't you know it, some people actually post \"jokes\" there. Mostly it's harrassment. Bitterness I guess. They don't like life, so they drop little turds on message threads to get attention. Yes I block them. Yes, it's tiresome. There is a certain amount of overhead to maintaining one's integrity. If you say you're going to block someone, you have to actually do it. Kind of like the <a href=\"https://www.youtube.com/watch?v=oGfvV3Syud8\">second to last scene</a> in <a href=\"https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)\">No Country for Old Men</a>, if you remember it.  I got here the <a href=\"http://scripting.com/images/2022/04/01/gotHereTheSameWayTheCoinDid.png\">same way</a> the coin did. Gotta do what I gotta do.",
+            "pubDate": "2022-04-01T16:55:52.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a165552",
+            "guid": "http://scripting.com/2022/04/01.html#a165552",
             "outline": {
-                "text": "It's nice to see two people you know on Facebook are friends only because you know both of them. Like Dan Conover and Steve Goodman. Cori Kesler and NakedJen. I'm sure I'll think of others. A visible legacy. In basketball, an assist.",
-                "created": "Sat, 26 Mar 2022 14:56:58 GMT",
+                "text": "I hate April 1 on the web and esp in news orgs, whose <i>business</i> is posting stuff that's true. I tend to take things literally as I read them, and puzzle my way through strange news, until it hits that I've been burned. I waste a fair amount of time on April 1 wading through this nonsense. The only thing you can do is let people know in advance that if they troll you with one of these things, if it's on a system where I can block you, that's what I do. If it's a news org, I try to remember never to trust anything they write, because they clearly have no respect for their own mission. So I posted a <a href=\"https://www.facebook.com/dave.winer.12/posts/1729710617236336?comment_id=1729845797222818\">message</a> on <a href=\"http://scripting.com/images/2022/04/01/fbwarningaboutapril1garbage.png\">FB</a> and <a href=\"https://twitter.com/davewiner/status/1509848417098518534\">Twitter</a> establishing this rule, and wouldn't you know it, some people actually post \"jokes\" there. Mostly it's harrassment. Bitterness I guess. They don't like life, so they drop little turds on message threads to get attention. Yes I block them. Yes, it's tiresome. There is a certain amount of overhead to maintaining one's integrity. If you say you're going to block someone, you have to actually do it. Kind of like the <a href=\"https://www.youtube.com/watch?v=oGfvV3Syud8\">second to last scene</a> in <a href=\"https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)\">No Country for Old Men</a>, if you remember it.  I got here the <a href=\"http://scripting.com/images/2022/04/01/gotHereTheSameWayTheCoinDid.png\">same way</a> the coin did. Gotta do what I gotta do.",
+                "created": "Fri, 01 Apr 2022 16:55:52 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/26.html#a145658"
+                "image": "http://scripting.com/images/2021/08/27/businessmanWithAGun.png",
+                "permalink": "http://scripting.com/2022/04/01.html#a165552"
             }
         },
         {
-            "description": "<img src=\"http://scripting.com/images/2022/03/26/oyWordle.png\">",
-            "pubDate": "2022-03-26T21:03:46.000Z",
-            "link": "http://scripting.com/2022/03/26.html#a210346",
-            "guid": "http://scripting.com/2022/03/26.html#a210346",
+            "description": "I love <a href=\"https://en.wikipedia.org/wiki/Dickinson_(TV_series)\">Dickinson</a> on AppleTV+.",
+            "pubDate": "2022-04-01T20:53:09.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a205309",
+            "guid": "http://scripting.com/2022/04/01.html#a205309",
             "outline": {
-                "text": "<img src=\"http://scripting.com/images/2022/03/26/oyWordle.png\">",
-                "created": "Sat, 26 Mar 2022 21:03:46 GMT",
+                "text": "I love <a href=\"https://en.wikipedia.org/wiki/Dickinson_(TV_series)\">Dickinson</a> on AppleTV+.",
+                "created": "Fri, 01 Apr 2022 20:53:09 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/26.html#a210346"
+                "permalink": "http://scripting.com/2022/04/01.html#a205309"
             }
         },
         {
-            "title": "I remember Watergate",
-            "description": "<p>I remember Watergate and the Gerald Ford pardon of Richard Nixon. Because right now that's the prior art. That's the event we're paying for now, and it seems as if we're about to repeat the mistake Ford made. While all the attention is focused on Putin and Ukraine. </p>\n<p>I remember Watergate. And I remember the <a href=\"https://en.wikipedia.org/wiki/Pardon_of_Richard_Nixon\">pardon</a>, and remember that some people were very angry about it but I wasn't -- I was relieved. Finally we could stop obsessing over Nixon. He was obviously guilty right from the outset. Yet it took what seemed an incredibly long time to get from the initial reports of the break-in to his waving goodbye from the White House lawn as he left for the last time. That was the way I wanted to remember Nixon. Humiliated, brought down, going <a href=\"https://www.youtube.com/watch?v=XTFsoElX-a0\">off to exile</a> to spend the rest of his days wondering what if he hadn't cheated. Because the <a href=\"https://wapo.st/3iF4Rpe\">heart</a> of Watergate is the same issue as the heart of Trump, only what Trump did was a million times worse. We excused Nixon. I guess Trump, who is also old enough to remember it (he's ten years older than me) wasn't too concerned about paying a price if his attempted coup didn't work. Now they're getting ready to do it again, they're doing it in the open, and it looks like a perfect plan. If it works, we've already had the last real national election in the US. From now-on they will all be Putinesqe parodies of fair elections. </p>\n<p><a href=\"https://www.youtube.com/watch?v=XTFsoElX-a0\">Nixon's farewell</a>, 1974.</p>\n<p>So here we are.</p>\n<p>Can you imagine how the rest of the world sees the January 6 attack on the US Capitol?</p>\n<p>Spoiler: It scares the shit out of them. Because the main product the US sells is safety. Our financial system is where the world stores their money for safe keeping.</p>\n<p>What scares them even more? We haven't done anything about it. Trump and all the people who organized the coup are free. No prospect of any punishment. The can do it again and again.</p>\n<p>If you're smart you're looking for the next safe place to put your savings.</p>\n<p>I want to know this -- why isn't journalism running constant articles, reports and panels on this topic:</p>\n<p>When will Trump be charged?</p>\n<p>We failed to learn the lesson from Nixon it seems. </p>\n<p>Maybe one of the networks should give time to Dan Rather to look at the story from that angle. Every night at an assigned time. Rather reported Watergate. No doubt he remember.</p>\n<p>PS: One thing that seems evident after the Putin attack on Ukraine. The only people outside the US who want the Repubs to win are other despots whose people would <a href=\"https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu#Death\">kill</a> them if they could. </p>",
-            "pubDate": "2022-03-26T13:57:58.000Z",
-            "link": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate",
-            "guid": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate",
+            "description": "How does the market feel about a <a href=\"https://twitter.com/Twitter/status/1509951255388504066\">public company</a> making forward-looking April Fool jokes?",
+            "pubDate": "2022-04-01T20:50:08.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a205008",
+            "guid": "http://scripting.com/2022/04/01.html#a205008",
             "outline": {
-                "text": "I remember Watergate",
-                "created": "Sat, 26 Mar 2022 13:57:58 GMT",
+                "text": "How does the market feel about a <a href=\"https://twitter.com/Twitter/status/1509951255388504066\">public company</a> making forward-looking April Fool jokes?",
+                "created": "Fri, 01 Apr 2022 20:50:08 GMT",
                 "type": "outline",
-                "metaimage": "http://scripting.com/images/2022/03/26/nixonFarewell.png",
-                "description": "The main product the US sells is safety.",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate",
-                "subs": [
-                    {
-                        "text": "I remember Watergate and the Gerald Ford pardon of Richard Nixon. Because right now that's the prior art. That's the event we're paying for now, and it seems as if we're about to repeat the mistake Ford made. While all the attention is focused on Putin and Ukraine.",
-                        "created": "Sat, 26 Mar 2022 13:58:04 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a135804"
-                    },
-                    {
-                        "text": "I remember Watergate. And I remember the <a href=\"https://en.wikipedia.org/wiki/Pardon_of_Richard_Nixon\">pardon</a>, and remember that some people were very angry about it but I wasn't -- I was relieved. Finally we could stop obsessing over Nixon. He was obviously guilty right from the outset. Yet it took what seemed an incredibly long time to get from the initial reports of the break-in to his waving goodbye from the White House lawn as he left for the last time. That was the way I wanted to remember Nixon. Humiliated, brought down, going <a href=\"https://www.youtube.com/watch?v=XTFsoElX-a0\">off to exile</a> to spend the rest of his days wondering what if he hadn't cheated. Because the <a href=\"https://wapo.st/3iF4Rpe\">heart</a> of Watergate is the same issue as the heart of Trump, only what Trump did was a million times worse. We excused Nixon. I guess Trump, who is also old enough to remember it (he's ten years older than me) wasn't too concerned about paying a price if his attempted coup didn't work. Now they're getting ready to do it again, they're doing it in the open, and it looks like a perfect plan. If it works, we've already had the last real national election in the US. From now-on they will all be Putinesqe parodies of fair elections.",
-                        "created": "Sat, 26 Mar 2022 14:00:08 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140008"
-                    },
-                    {
-                        "text": "<a href=\"https://www.youtube.com/watch?v=XTFsoElX-a0\">Nixon's farewell</a>, 1974.",
-                        "created": "Sat, 26 Mar 2022 14:11:26 GMT",
-                        "inlineimage": "http://scripting.com/images/2022/03/26/nixonFarewell.png",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a141126"
-                    },
-                    {
-                        "text": "So here we are.",
-                        "created": "Sat, 26 Mar 2022 14:10:41 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a141041"
-                    },
-                    {
-                        "text": "Can you imagine how the rest of the world sees the January 6 attack on the US Capitol?",
-                        "created": "Sat, 26 Mar 2022 14:05:19 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140519"
-                    },
-                    {
-                        "text": "Spoiler: It scares the shit out of them. Because the main product the US sells is safety. Our financial system is where the world stores their money for safe keeping.",
-                        "created": "Sat, 26 Mar 2022 14:05:30 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140530"
-                    },
-                    {
-                        "text": "What scares them even more? We haven't done anything about it. Trump and all the people who organized the coup are free. No prospect of any punishment. The can do it again and again.",
-                        "created": "Sat, 26 Mar 2022 14:05:40 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140540"
-                    },
-                    {
-                        "text": "If you're smart you're looking for the next safe place to put your savings.",
-                        "created": "Sat, 26 Mar 2022 14:05:59 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140559"
-                    },
-                    {
-                        "text": "I want to know this -- why isn't journalism running constant articles, reports and panels on this topic:",
-                        "created": "Sat, 26 Mar 2022 14:06:08 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140608"
-                    },
-                    {
-                        "text": "When will Trump be charged?",
-                        "created": "Sat, 26 Mar 2022 14:06:13 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140613"
-                    },
-                    {
-                        "text": "We failed to learn the lesson from Nixon it seems.",
-                        "created": "Sat, 26 Mar 2022 14:06:18 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140618"
-                    },
-                    {
-                        "text": "Maybe one of the networks should give time to Dan Rather to look at the story from that angle. Every night at an assigned time. Rather reported Watergate. No doubt he remember.",
-                        "created": "Sat, 26 Mar 2022 14:06:49 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a140649"
-                    },
-                    {
-                        "text": "PS: One thing that seems evident after the Putin attack on Ukraine. The only people outside the US who want the Repubs to win are other despots whose people would <a href=\"https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu#Death\">kill</a> them if they could.",
-                        "created": "Sat, 26 Mar 2022 14:23:27 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/26/135758.html?title=iRememberWatergate#a142327"
-                    }
-                ]
+                "permalink": "http://scripting.com/2022/04/01.html#a205008"
             }
         },
         {
-            "description": "Good morning sports fans! <span class=\"spOldSchoolEmoji\">⚾</span>",
-            "pubDate": "2022-03-25T14:51:43.000Z",
-            "link": "http://scripting.com/2022/03/25.html#a145143",
-            "guid": "http://scripting.com/2022/03/25.html#a145143",
+            "description": "I end all my Peloton workouts, while I do a few cool-down laps, with two songs. <a href=\"https://www.youtube.com/watch?v=azdwsXLmrHE\">Radio Gaga</a> and <a href=\"https://www.youtube.com/watch?v=t1Jm5epJr10\">I Am The Walrus</a>. They're my reward for taking care of myself, which is of course its own reward.",
+            "pubDate": "2022-04-01T20:46:27.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a204627",
+            "guid": "http://scripting.com/2022/04/01.html#a204627",
             "outline": {
-                "text": "Good morning sports fans! <span class=\"spOldSchoolEmoji\">⚾</span>",
-                "created": "Fri, 25 Mar 2022 14:51:43 GMT",
+                "text": "I end all my Peloton workouts, while I do a few cool-down laps, with two songs. <a href=\"https://www.youtube.com/watch?v=azdwsXLmrHE\">Radio Gaga</a> and <a href=\"https://www.youtube.com/watch?v=t1Jm5epJr10\">I Am The Walrus</a>. They're my reward for taking care of myself, which is of course its own reward.",
+                "created": "Fri, 01 Apr 2022 20:46:27 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/25.html#a145143"
+                "permalink": "http://scripting.com/2022/04/01.html#a204627"
             }
         },
         {
-            "description": "When I finish a programming session, the top note in my outline is always how I'm going to start the next session. Otherwise I get the \"staring at a blank sheet of paper\" thing. My judgement on the next thing is much better at the end than at the beginning of a session.",
-            "pubDate": "2022-03-25T17:36:44.000Z",
-            "link": "http://scripting.com/2022/03/25.html#a173644",
-            "guid": "http://scripting.com/2022/03/25.html#a173644",
+            "description": "I heard a BBC reporter ask a Ukrainian official if they would attack Russian military in Russia. What kind of question is that. Of course they would. It's a war. Russia attacked Ukraine. All of Russia is a fair target for the Ukraine military.",
+            "pubDate": "2022-04-01T13:32:53.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a133253",
+            "guid": "http://scripting.com/2022/04/01.html#a133253",
             "outline": {
-                "text": "When I finish a programming session, the top note in my outline is always how I'm going to start the next session. Otherwise I get the \"staring at a blank sheet of paper\" thing. My judgement on the next thing is much better at the end than at the beginning of a session.",
-                "created": "Fri, 25 Mar 2022 17:36:44 GMT",
+                "text": "I heard a BBC reporter ask a Ukrainian official if they would attack Russian military in Russia. What kind of question is that. Of course they would. It's a war. Russia attacked Ukraine. All of Russia is a fair target for the Ukraine military.",
+                "created": "Fri, 01 Apr 2022 13:32:53 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/25.html#a173644"
+                "permalink": "http://scripting.com/2022/04/01.html#a133253"
             }
         },
         {
-            "description": "Wouldn't it be cool if we had a channel that could speak directly to the Russian people to tell them that many of us in the US are of Russian descent, we celebrate the culture, but we can't have you guys invading sovereign countries, and that's our main problem with Russia.",
-            "pubDate": "2022-03-25T15:51:51.000Z",
-            "link": "http://scripting.com/2022/03/25.html#a155151",
-            "guid": "http://scripting.com/2022/03/25.html#a155151",
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2021/09/17/simpsonsBeeGuy.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">There are too many niches in tech. Niches are defended by lack of interop. You can see categories being born with limited interop, features vendors can say deliver interop, it would be hard to argue, but they don't deliver much practical interop for users. That's why the tech industry was so ho-hum about RSS. Where's the fun for them if they can't lock users into a niche product and then another and another? As a technologist, what gets me excited about computer networks are all the combinations users can make, but that works only if there's <i>lots</i> of interop.",
+            "pubDate": "2022-04-01T14:01:37.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a140137",
+            "guid": "http://scripting.com/2022/04/01.html#a140137",
             "outline": {
-                "text": "Wouldn't it be cool if we had a channel that could speak directly to the Russian people to tell them that many of us in the US are of Russian descent, we celebrate the culture, but we can't have you guys invading sovereign countries, and that's our main problem with Russia.",
-                "created": "Fri, 25 Mar 2022 15:51:51 GMT",
+                "text": "There are too many niches in tech. Niches are defended by lack of interop. You can see categories being born with limited interop, features vendors can say deliver interop, it would be hard to argue, but they don't deliver much practical interop for users. That's why the tech industry was so ho-hum about RSS. Where's the fun for them if they can't lock users into a niche product and then another and another? As a technologist, what gets me excited about computer networks are all the combinations users can make, but that works only if there's <i>lots</i> of interop.",
+                "created": "Fri, 01 Apr 2022 14:01:37 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/25.html#a155151"
+                "image": "http://scripting.com/images/2021/09/17/simpsonsBeeGuy.png",
+                "permalink": "http://scripting.com/2022/04/01.html#a140137"
             }
         },
         {
-            "description": "When we got to the bottom of why people hated us for hosting their blogs for free it was this. They thought that if they did a blog, people would listen to them. They thought we were promising that. We weren't, we had no illusions about that.",
-            "pubDate": "2022-03-25T16:21:50.000Z",
-            "link": "http://scripting.com/2022/03/25.html#a162150",
-            "guid": "http://scripting.com/2022/03/25.html#a162150",
+            "description": "Welcome to the month of April. The usual <a href=\"http://scripting.com/2022/03/01/134432.html?title=theMonthlyRitual\">monthly rollover</a> is done. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/03.opml\">archive</a> for March.",
+            "pubDate": "2022-04-01T13:21:41.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a132141",
+            "guid": "http://scripting.com/2022/04/01.html#a132141",
             "outline": {
-                "text": "When we got to the bottom of why people hated us for hosting their blogs for free it was this. They thought that if they did a blog, people would listen to them. They thought we were promising that. We weren't, we had no illusions about that.",
-                "created": "Fri, 25 Mar 2022 16:21:50 GMT",
+                "text": "Welcome to the month of April. The usual <a href=\"http://scripting.com/2022/03/01/134432.html?title=theMonthlyRitual\">monthly rollover</a> is done. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/03.opml\">archive</a> for March.",
+                "created": "Fri, 01 Apr 2022 13:21:41 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/25.html#a162150"
+                "permalink": "http://scripting.com/2022/04/01.html#a132141"
             }
         },
         {
-            "description": "I gotta say the <a href=\"http://daytona.scripting.com/?q=tesla&collection=scriptingnews\">Tesla</a> grows on you. I love driving it places. I'm using the driving assist more and more. Still keeping my eyes on it to be sure it's not driving off the road. But I really enjoy driving in a way I haven't in a long time.",
-            "pubDate": "2022-03-25T21:29:39.000Z",
-            "link": "http://scripting.com/2022/03/25.html#a212939",
-            "guid": "http://scripting.com/2022/03/25.html#a212939",
+            "description": "<img src=\"http://scripting.com/images/2022/04/01/wordle.png\">",
+            "pubDate": "2022-04-01T13:27:19.000Z",
+            "link": "http://scripting.com/2022/04/01.html#a132719",
+            "guid": "http://scripting.com/2022/04/01.html#a132719",
             "outline": {
-                "text": "I gotta say the <a href=\"http://daytona.scripting.com/?q=tesla&collection=scriptingnews\">Tesla</a> grows on you. I love driving it places. I'm using the driving assist more and more. Still keeping my eyes on it to be sure it's not driving off the road. But I really enjoy driving in a way I haven't in a long time.",
-                "created": "Fri, 25 Mar 2022 21:29:39 GMT",
+                "text": "<img src=\"http://scripting.com/images/2022/04/01/wordle.png\">",
+                "created": "Fri, 01 Apr 2022 13:27:19 GMT",
                 "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/25.html#a212939"
-            }
-        },
-        {
-            "description": "The idea that software is a process was the big idea in <a href=\"http://scripting.com/davenet/1995/09/03/wemakeshittysoftware.html\">We Make Shitty Software</a> in September 1995.   Here's a <a href=\"http://scripting.com/images/2022/03/25/shittyQuote.png\">screen shot</a> of the relevant portion. I got a lot of shit from devs who said they don't make shitty software, but in fact, they do. All devs do. Those that don't know they do don't know to set up a process that accounts for the shittiness of their software. A corollary -- some of the shittiest software is made by devs who think their software <i>isn't</i> shitty.",
-            "pubDate": "2022-03-25T17:44:42.000Z",
-            "link": "http://scripting.com/2022/03/25.html#a174442",
-            "guid": "http://scripting.com/2022/03/25.html#a174442",
-            "outline": {
-                "text": "The idea that software is a process was the big idea in <a href=\"http://scripting.com/davenet/1995/09/03/wemakeshittysoftware.html\">We Make Shitty Software</a> in September 1995.   Here's a <a href=\"http://scripting.com/images/2022/03/25/shittyQuote.png\">screen shot</a> of the relevant portion. I got a lot of shit from devs who said they don't make shitty software, but in fact, they do. All devs do. Those that don't know they do don't know to set up a process that accounts for the shittiness of their software. A corollary -- some of the shittiest software is made by devs who think their software <i>isn't</i> shitty.",
-                "created": "Fri, 25 Mar 2022 17:44:42 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/25.html#a174442"
-            }
-        },
-        {
-            "title": "Frida Kahlo",
-            "description": "<p><a href=\"https://www.kahlo.org/still-life-with-parrot-and-fruit/\">Still Life with Parrot and Fruit</a>, 1951.</p>",
-            "pubDate": "2022-03-25T21:26:26.000Z",
-            "link": "http://scripting.com/2022/03/25/212626.html?title=fridaKahlo",
-            "guid": "http://scripting.com/2022/03/25/212626.html?title=fridaKahlo",
-            "outline": {
-                "text": "Frida Kahlo",
-                "created": "Fri, 25 Mar 2022 21:26:26 GMT",
-                "type": "outline",
-                "metaimage": "http://scripting.com/images/2022/03/25/stillLifeWithParrot.png",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/25/212626.html?title=fridaKahlo",
-                "subs": [
-                    {
-                        "text": "<a href=\"https://www.kahlo.org/still-life-with-parrot-and-fruit/\">Still Life with Parrot and Fruit</a>, 1951.",
-                        "created": "Fri, 25 Mar 2022 21:26:33 GMT",
-                        "inlineimage": "http://scripting.com/images/2022/03/25/stillLifeWithParrot.png",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/25/212626.html?title=fridaKahlo#a212633"
-                    }
-                ]
-            }
-        },
-        {
-            "description": "My <a href=\"https://twitter.com/i/communities/1506783411016450048\">first post</a> to the Scripting News \"community\" on Twitter.",
-            "pubDate": "2022-03-24T15:07:15.000Z",
-            "link": "http://scripting.com/2022/03/24.html#a150715",
-            "guid": "http://scripting.com/2022/03/24.html#a150715",
-            "outline": {
-                "text": "My <a href=\"https://twitter.com/i/communities/1506783411016450048\">first post</a> to the Scripting News \"community\" on Twitter.",
-                "created": "Thu, 24 Mar 2022 15:07:15 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/24.html#a150715"
-            }
-        },
-        {
-            "description": "Putin must not have known how much power he had. Ukraine is small potatoes. He was the czar of one half of the political system of the US. It was a real possibility his party would control the whole government again in 2024. A lot of times people don't know how successful they've been.",
-            "pubDate": "2022-03-24T18:27:10.000Z",
-            "link": "http://scripting.com/2022/03/24.html#a182710",
-            "guid": "http://scripting.com/2022/03/24.html#a182710",
-            "outline": {
-                "text": "Putin must not have known how much power he had. Ukraine is small potatoes. He was the czar of one half of the political system of the US. It was a real possibility his party would control the whole government again in 2024. A lot of times people don't know how successful they've been.",
-                "created": "Thu, 24 Mar 2022 18:27:10 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/24.html#a182710"
-            }
-        },
-        {
-            "description": "The point of yesterday's <a href=\"http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion\">philosophical question</a> was this. The Constitution says the government may not search you unless there's <a href=\"https://en.wikipedia.org/wiki/Fourth_Amendment_to_the_United_States_Constitution#:~:text=The%20government%20has%20probable%20cause,or%20was%20committing%20a%20crime.\">probable cause</a>. That doesn't mean that people you invite to enter your house should be allowed to go through your private stuff. It may not be illegal, but we still recognize it as wrong. In the same way, you have \"free speech\" in America, even when it isn't the government restricting your speech, when it's your employer, school, family or friends. No law prohibits them from doing it, so you don't need to make that much-belabored <a href=\"https://xkcd.com/1357/\">point</a>, but being intolerant of other people's opinions is still, as far as I'm concerned, and many other Americans of all persuasions, wrong, un-American.",
-            "pubDate": "2022-03-24T13:47:45.000Z",
-            "link": "http://scripting.com/2022/03/24.html#a134745",
-            "guid": "http://scripting.com/2022/03/24.html#a134745",
-            "outline": {
-                "text": "The point of yesterday's <a href=\"http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion\">philosophical question</a> was this. The Constitution says the government may not search you unless there's <a href=\"https://en.wikipedia.org/wiki/Fourth_Amendment_to_the_United_States_Constitution#:~:text=The%20government%20has%20probable%20cause,or%20was%20committing%20a%20crime.\">probable cause</a>. That doesn't mean that people you invite to enter your house should be allowed to go through your private stuff. It may not be illegal, but we still recognize it as wrong. In the same way, you have \"free speech\" in America, even when it isn't the government restricting your speech, when it's your employer, school, family or friends. No law prohibits them from doing it, so you don't need to make that much-belabored <a href=\"https://xkcd.com/1357/\">point</a>, but being intolerant of other people's opinions is still, as far as I'm concerned, and many other Americans of all persuasions, wrong, un-American.",
-                "created": "Thu, 24 Mar 2022 13:47:45 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/24.html#a134745"
-            }
-        },
-        {
-            "description": "<img src=\"http://scripting.com/images/2022/03/24/wordleOnAThursday.png\">",
-            "pubDate": "2022-03-24T13:46:28.000Z",
-            "link": "http://scripting.com/2022/03/24.html#a134628",
-            "guid": "http://scripting.com/2022/03/24.html#a134628",
-            "outline": {
-                "text": "<img src=\"http://scripting.com/images/2022/03/24/wordleOnAThursday.png\">",
-                "created": "Thu, 24 Mar 2022 13:46:28 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/24.html#a134628"
-            }
-        },
-        {
-            "title": "Are African-Americans fungible?",
-            "description": "<p>First let me say up front that, of course, African-Americans are <i>not</i> fungible. It's a stupid question, but I didn't raise it -- the Supreme Court process did, over many decades of the comings and goings of black justices and also women.   </p>\n<p>So -- are racism and genderism part of the Supreme Court process? Yes they are and I can prove it.</p>\n<p>When <a href=\"https://en.wikipedia.org/wiki/Thurgood_Marshall\">Thurgood Marshall</a> retired, the Repubs replaced him with <a href=\"https://www.google.com/search?q=who+replaced+thurgood+marshall\">Clarence Thomas</a>. Thus the \"African-American\" seat's significance was supposedly preserved. Marshall was the Supreme Court's first African-American justice. Thomas is the second.  </p>\n<p>African-Americans are fungible, they seemed to say. Of course Marshall and Thomas, even though both were black, were almost exact opposites in philosophy and rage-suppression. The former was very liberal, a highly respected scholar, and the latter is fascist and resentful, and the depths of his depravity are only now <a href=\"https://www.npr.org/2022/03/14/1086535100/wife-of-justice-thomas-rebuts-claims-of-conflict-of-interest\">starting</a> to be explored.</p>\n<p>And when <a href=\"https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg\">RBG</a> died, she was replaced with <a href=\"https://en.wikipedia.org/wiki/Amy_Coney_Barrett\">ACB</a>. Yes both are women, and thus women are considered fungible as well, as far as the Supreme Court is concerned, at least by some people, in some sense. Politically, ACB is the opposite of RBG, probably is committed to reversing all of RBG's accomplishments. Yet the number of women on the court remains the same.</p>\n<p>Of course <a href=\"https://en.wikipedia.org/wiki/Clarence_Thomas\">Clarence Thomas</a> is in the hospital while the <a href=\"https://en.wikipedia.org/wiki/Ketanji_Brown_Jackson\">Ketanji Brown Jackson</a> hearings are going on, which gets you to consider that the number of AA's on the court would be preserved if KBJ was ratified and the unspeakable happens to CT.</p>\n<p>PS: I actually love the term <a href=\"http://daytona.scripting.com/?q=fungible&collection=scriptingnews\">fungible</a> for some reason, always have, so I was somewhat delighted that the latest tech scam are NFTs where the F stands for fungible. This means I get to think of this word more often and that generally makes me happy for some odd reason. I hope the scamminess of NFTs doesn't end up spoiling that, or maybe I'm wrong and NFTs are the basis for a new capitalism? I have been wrong before. </p>",
-            "pubDate": "2022-03-24T16:00:06.000Z",
-            "link": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible",
-            "guid": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible",
-            "outline": {
-                "text": "Are African-Americans fungible?",
-                "created": "Thu, 24 Mar 2022 16:00:06 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible",
-                "subs": [
-                    {
-                        "text": "First let me say up front that, of course, African-Americans are <i>not</i> fungible. It's a stupid question, but I didn't raise it -- the Supreme Court process did, over many decades of the comings and goings of black justices and also women.",
-                        "created": "Thu, 24 Mar 2022 16:07:17 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible#a160717"
-                    },
-                    {
-                        "text": "So -- are racism and genderism part of the Supreme Court process? Yes they are and I can prove it.",
-                        "created": "Thu, 24 Mar 2022 16:00:25 GMT",
-                        "flnumberedsubs": "true",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible#a160025"
-                    },
-                    {
-                        "text": "When <a href=\"https://en.wikipedia.org/wiki/Thurgood_Marshall\">Thurgood Marshall</a> retired, the Repubs replaced him with <a href=\"https://www.google.com/search?q=who+replaced+thurgood+marshall\">Clarence Thomas</a>. Thus the \"African-American\" seat's significance was supposedly preserved. Marshall was the Supreme Court's first African-American justice. Thomas is the second.",
-                        "created": "Thu, 24 Mar 2022 16:00:30 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible#a160030"
-                    },
-                    {
-                        "text": "African-Americans are fungible, they seemed to say. Of course Marshall and Thomas, even though both were black, were almost exact opposites in philosophy and rage-suppression. The former was very liberal, a highly respected scholar, and the latter is fascist and resentful, and the depths of his depravity are only now <a href=\"https://www.npr.org/2022/03/14/1086535100/wife-of-justice-thomas-rebuts-claims-of-conflict-of-interest\">starting</a> to be explored.",
-                        "created": "Thu, 24 Mar 2022 16:01:57 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible#a160157"
-                    },
-                    {
-                        "text": "And when <a href=\"https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg\">RBG</a> died, she was replaced with <a href=\"https://en.wikipedia.org/wiki/Amy_Coney_Barrett\">ACB</a>. Yes both are women, and thus women are considered fungible as well, as far as the Supreme Court is concerned, at least by some people, in some sense. Politically, ACB is the opposite of RBG, probably is committed to reversing all of RBG's accomplishments. Yet the number of women on the court remains the same.",
-                        "created": "Thu, 24 Mar 2022 16:00:31 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible#a160031"
-                    },
-                    {
-                        "text": "Of course <a href=\"https://en.wikipedia.org/wiki/Clarence_Thomas\">Clarence Thomas</a> is in the hospital while the <a href=\"https://en.wikipedia.org/wiki/Ketanji_Brown_Jackson\">Ketanji Brown Jackson</a> hearings are going on, which gets you to consider that the number of AA's on the court would be preserved if KBJ was ratified and the unspeakable happens to CT.",
-                        "created": "Thu, 24 Mar 2022 16:01:02 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible#a160102"
-                    },
-                    {
-                        "text": "PS: I actually love the term <a href=\"http://daytona.scripting.com/?q=fungible&collection=scriptingnews\">fungible</a> for some reason, always have, so I was somewhat delighted that the latest tech scam are NFTs where the F stands for fungible. This means I get to think of this word more often and that generally makes me happy for some odd reason. I hope the scamminess of NFTs doesn't end up spoiling that, or maybe I'm wrong and NFTs are the basis for a new capitalism? I have been wrong before.",
-                        "created": "Thu, 24 Mar 2022 16:08:38 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/160006.html?title=areAfricanamericansFungible#a160838"
-                    }
-                ]
-            }
-        },
-        {
-            "title": "Vasily Polenov",
-            "description": "<p><a href=\"https://www.wikiart.org/en/vasily-polenov/voria-1882\">Voria</a>, 1882.</p>",
-            "pubDate": "2022-03-25T02:05:21.000Z",
-            "link": "http://scripting.com/2022/03/24/020521.html?title=vasilyPolenov",
-            "guid": "http://scripting.com/2022/03/24/020521.html?title=vasilyPolenov",
-            "outline": {
-                "text": "Vasily Polenov",
-                "created": "Fri, 25 Mar 2022 02:05:21 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/24/020521.html?title=vasilyPolenov",
-                "subs": [
-                    {
-                        "text": "<a href=\"https://www.wikiart.org/en/vasily-polenov/voria-1882\">Voria</a>, 1882.",
-                        "created": "Fri, 25 Mar 2022 02:06:32 GMT",
-                        "inlineimage": "http://scripting.com/images/2022/03/24/voria.png",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/24/020521.html?title=vasilyPolenov#a020632"
-                    }
-                ]
-            }
-        },
-        {
-            "description": "What would Ukraine do?",
-            "pubDate": "2022-03-23T15:27:08.000Z",
-            "link": "http://scripting.com/2022/03/23.html#a152708",
-            "guid": "http://scripting.com/2022/03/23.html#a152708",
-            "outline": {
-                "text": "What would Ukraine do?",
-                "created": "Wed, 23 Mar 2022 15:27:08 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/23.html#a152708"
-            }
-        },
-        {
-            "description": "When I signed on Twitter earlier this evening I was offered a chance to create a community, <a href=\"https://twitter.com/i/communities/1506783411016450048\">so I did</a>. Not sure how to use this. In the meantime if you read my blog, go ahead and sign up.",
-            "pubDate": "2022-03-24T01:59:41.000Z",
-            "link": "http://scripting.com/2022/03/23.html#a015941",
-            "guid": "http://scripting.com/2022/03/23.html#a015941",
-            "outline": {
-                "text": "When I signed on Twitter earlier this evening I was offered a chance to create a community, <a href=\"https://twitter.com/i/communities/1506783411016450048\">so I did</a>. Not sure how to use this. In the meantime if you read my blog, go ahead and sign up.",
-                "created": "Thu, 24 Mar 2022 01:59:41 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/23.html#a015941"
-            }
-        },
-        {
-            "description": "How art works. An artist asks a question and the viewer answers it.",
-            "pubDate": "2022-03-23T13:44:04.000Z",
-            "link": "http://scripting.com/2022/03/23.html#a134404",
-            "guid": "http://scripting.com/2022/03/23.html#a134404",
-            "outline": {
-                "text": "How art works. An artist asks a question and the viewer answers it.",
-                "created": "Wed, 23 Mar 2022 13:44:04 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/23.html#a134404"
-            }
-        },
-        {
-            "description": "Here's a wild idea. If Ukraine needs money and I bet they do, how about selling honorary Ukraine citizenships. Let us all sign up on their side, not just our political leaders. Maybe there are creative ways millions of people could help save Ukraine.",
-            "pubDate": "2022-03-23T15:29:11.000Z",
-            "link": "http://scripting.com/2022/03/23.html#a152911",
-            "guid": "http://scripting.com/2022/03/23.html#a152911",
-            "outline": {
-                "text": "Here's a wild idea. If Ukraine needs money and I bet they do, how about selling honorary Ukraine citizenships. Let us all sign up on their side, not just our political leaders. Maybe there are creative ways millions of people could help save Ukraine.",
-                "created": "Wed, 23 Mar 2022 15:29:11 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/23.html#a152911"
-            }
-        },
-        {
-            "description": "All the talk about cord cutting was bullshit, if you like sports, as I do. So if I want to watch the Knicks and the Mets, I also have to pay for Fox News. It took me a long time to figure that out. But in the end that's how it works.",
-            "pubDate": "2022-03-23T14:12:49.000Z",
-            "link": "http://scripting.com/2022/03/23.html#a141249",
-            "guid": "http://scripting.com/2022/03/23.html#a141249",
-            "outline": {
-                "text": "All the talk about cord cutting was bullshit, if you like sports, as I do. So if I want to watch the Knicks and the Mets, I also have to pay for Fox News. It took me a long time to figure that out. But in the end that's how it works.",
-                "created": "Wed, 23 Mar 2022 14:12:49 GMT",
-                "type": "tweet",
-                "tweetid": "1506635397954256902",
-                "tweetusername": "davewiner",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/23.html#a141249"
-            }
-        },
-        {
-            "description": "<img src=\"http://scripting.com/images/2022/03/23/wordleAlLaCarte.png\">",
-            "pubDate": "2022-03-23T18:28:25.000Z",
-            "link": "http://scripting.com/2022/03/23.html#a182825",
-            "guid": "http://scripting.com/2022/03/23.html#a182825",
-            "outline": {
-                "text": "<img src=\"http://scripting.com/images/2022/03/23/wordleAlLaCarte.png\">",
-                "created": "Wed, 23 Mar 2022 18:28:25 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/23.html#a182825"
-            }
-        },
-        {
-            "title": "A philosophical question",
-            "description": "<p>The Constitution says the government can't conduct unreasonable searches, without a warrent or probable cause. </p>\n<p>Suppose someone you have invited into your house goes through your private stuff. Reads your diary, your financial records, calendar, contacts list. Looks in your medicine cabinet, your collection of drugs, legal and illegal, sex toys. Etc. </p>\n<p>Should you be prevented from writing a tweet or a blog post about how it felt to be violated that way? Would it be fair to rebut the post by talking about the Constitution? Can you imagine someone actually doing that? (I can't, it would seem pretty cruel.)</p>\n<p>In this situation, with the question posed this way, it's ridiculous to think someone would be condemned for expressing their thoughts and feelings about being so violated. Note that I didn't say their rights were violated, in any legal sense. But their rights were violated in some sense.</p>\n<p>It might not be illegal for someone you invite into your house to violate your privacy, but legality isn't the only thing we're permitted to write about. </p>",
-            "pubDate": "2022-03-23T13:54:14.000Z",
-            "link": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion",
-            "guid": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion",
-            "outline": {
-                "text": "A philosophical question",
-                "created": "Wed, 23 Mar 2022 13:54:14 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion",
-                "subs": [
-                    {
-                        "text": "The Constitution says the government can't conduct unreasonable searches, without a warrent or probable cause.",
-                        "created": "Wed, 23 Mar 2022 13:58:03 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion#a135803"
-                    },
-                    {
-                        "text": "Suppose someone you have invited into your house goes through your private stuff. Reads your diary, your financial records, calendar, contacts list. Looks in your medicine cabinet, your collection of drugs, legal and illegal, sex toys. Etc.",
-                        "created": "Wed, 23 Mar 2022 13:58:44 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion#a135844"
-                    },
-                    {
-                        "text": "Should you be prevented from writing a tweet or a blog post about how it felt to be violated that way? Would it be fair to rebut the post by talking about the Constitution? Can you imagine someone actually doing that? (I can't, it would seem pretty cruel.)",
-                        "created": "Wed, 23 Mar 2022 13:58:00 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion#a135800"
-                    },
-                    {
-                        "text": "In this situation, with the question posed this way, it's ridiculous to think someone would be condemned for expressing their thoughts and feelings about being so violated. Note that I didn't say their rights were violated, in any legal sense. But their rights were violated in some sense.",
-                        "created": "Wed, 23 Mar 2022 13:59:29 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion#a135929"
-                    },
-                    {
-                        "text": "It might not be illegal for someone you invite into your house to violate your privacy, but legality isn't the only thing we're permitted to write about.",
-                        "created": "Wed, 23 Mar 2022 14:00:31 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/23/135414.html?title=aPhilosophicalQuestion#a140031"
-                    }
-                ]
-            }
-        },
-        {
-            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2022/03/21/beetle.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">Writing <a href=\"http://scripting.com/2022/03/21.html#a164137\">yesterday</a>, I stumbled across a concise summary of my tech philosophy. \"Not leaving the past behind, but also not being limited by it.\" The best stuff evolves, still supports the past while moving into new territory. Sometimes things get so out of control, like feeds in the early years of RSS, that the requirements are contradictory, it seems something has to give. Which are you -- Twitter or Google Reader? The two models are very different. I think there is a middle-ground.",
-            "pubDate": "2022-03-22T17:19:36.000Z",
-            "link": "http://scripting.com/2022/03/22.html#a171936",
-            "guid": "http://scripting.com/2022/03/22.html#a171936",
-            "outline": {
-                "text": "Writing <a href=\"http://scripting.com/2022/03/21.html#a164137\">yesterday</a>, I stumbled across a concise summary of my tech philosophy. \"Not leaving the past behind, but also not being limited by it.\" The best stuff evolves, still supports the past while moving into new territory. Sometimes things get so out of control, like feeds in the early years of RSS, that the requirements are contradictory, it seems something has to give. Which are you -- Twitter or Google Reader? The two models are very different. I think there is a middle-ground.",
-                "created": "Tue, 22 Mar 2022 17:19:36 GMT",
-                "type": "outline",
-                "image": "http://scripting.com/images/2022/03/21/beetle.png",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/22.html#a171936"
-            }
-        },
-        {
-            "description": "There are <a href=\"https://www.nytimes.com/2016/10/18/science/two-trillion-galaxies-at-the-very-least.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iaga3HNDm8SiP8eAoWG8EqKebVkIscp3jCfRdhHdbAmQPViz-JEekVxDhWor96alY4UZiE4oJmvGGMq2paHFZYJzQjXVEjrYuFu2O_4-BucLDm7BfDCgnN2Jg1h8ZN6fQn932gPlqnFDrZwjdVhj_giBJ0qQz8GYHSLrOCoX0slQKiObBna7gc2X_gIGm2A2I7BtM9TNVlaGlnET3hg4Gwj69g6ON8fOaf3KhFIa9OpyPxKSTQudNH1csV3E4vElLxqsqrPrAiMyKe1w_YwHaZSu9DUozu9_3KfcDhuuQqkg1fBaT8&smid=url-share\">two trillion galaxies</a> in the universe.",
-            "pubDate": "2022-03-22T15:48:00.000Z",
-            "link": "http://scripting.com/2022/03/22.html#a154800",
-            "guid": "http://scripting.com/2022/03/22.html#a154800",
-            "outline": {
-                "text": "There are <a href=\"https://www.nytimes.com/2016/10/18/science/two-trillion-galaxies-at-the-very-least.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iaga3HNDm8SiP8eAoWG8EqKebVkIscp3jCfRdhHdbAmQPViz-JEekVxDhWor96alY4UZiE4oJmvGGMq2paHFZYJzQjXVEjrYuFu2O_4-BucLDm7BfDCgnN2Jg1h8ZN6fQn932gPlqnFDrZwjdVhj_giBJ0qQz8GYHSLrOCoX0slQKiObBna7gc2X_gIGm2A2I7BtM9TNVlaGlnET3hg4Gwj69g6ON8fOaf3KhFIa9OpyPxKSTQudNH1csV3E4vElLxqsqrPrAiMyKe1w_YwHaZSu9DUozu9_3KfcDhuuQqkg1fBaT8&smid=url-share\">two trillion galaxies</a> in the universe.",
-                "created": "Tue, 22 Mar 2022 15:48:00 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/22.html#a154800"
-            }
-        },
-        {
-            "description": "I've been using Twitter's <a href=\"http://scripting.com/images/2022/03/22/twitterAsBlogPostEditor.png\">edit box</a> to write long posts, just because I have it open when I want to vent. Then I copy the text and paste it into the Scripting News outline. Edit it, review it and then decide it's not worth the trouble and hit the backspace key. Back to work.",
-            "pubDate": "2022-03-22T15:44:53.000Z",
-            "link": "http://scripting.com/2022/03/22.html#a154453",
-            "guid": "http://scripting.com/2022/03/22.html#a154453",
-            "outline": {
-                "text": "I've been using Twitter's <a href=\"http://scripting.com/images/2022/03/22/twitterAsBlogPostEditor.png\">edit box</a> to write long posts, just because I have it open when I want to vent. Then I copy the text and paste it into the Scripting News outline. Edit it, review it and then decide it's not worth the trouble and hit the backspace key. Back to work.",
-                "created": "Tue, 22 Mar 2022 15:44:53 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/22.html#a154453"
-            }
-        },
-        {
-            "description": "The nicest thing in <a href=\"http://daytona.scripting.com/?q=Wordle&collection=scriptingnews\">Wordle</a> is when type your next word and the letters, one by one, all come back green. The worst thing is when you have a 12-day streak, you feel compelled to do it the next day and the day after and on and on.",
-            "pubDate": "2022-03-22T21:14:35.000Z",
-            "link": "http://scripting.com/2022/03/22.html#a211435",
-            "guid": "http://scripting.com/2022/03/22.html#a211435",
-            "outline": {
-                "text": "The nicest thing in <a href=\"http://daytona.scripting.com/?q=Wordle&collection=scriptingnews\">Wordle</a> is when type your next word and the letters, one by one, all come back green. The worst thing is when you have a 12-day streak, you feel compelled to do it the next day and the day after and on and on.",
-                "created": "Tue, 22 Mar 2022 21:14:35 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/22.html#a211435"
-            }
-        },
-        {
-            "description": "<img src=\"http://scripting.com/images/2022/03/22/wordleDuJour.png\">",
-            "pubDate": "2022-03-22T21:19:30.000Z",
-            "link": "http://scripting.com/2022/03/22.html#a211930",
-            "guid": "http://scripting.com/2022/03/22.html#a211930",
-            "outline": {
-                "text": "<img src=\"http://scripting.com/images/2022/03/22/wordleDuJour.png\">",
-                "created": "Tue, 22 Mar 2022 21:19:30 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/22.html#a211930"
-            }
-        },
-        {
-            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2022/03/21/beetle.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I'm doing more work on feed reading, and realize the problem has never been with my feed reading software, rather it's the mess that was created around feed reading with the lack of working-together among the vendors. I've written about this <a href=\"http://scripting.com/2022/03/18.html#a161837\">before</a>. As I go deeper into this project, I'm becoming more resolved that I'm only going to support a subset of feeds. What will come out of it will not be a feed reader in the sense that people think of them for the last 20 or so years. They all try to read everything, and that makes it hard to go beyond the intersection of features found in all feeds. I don't see any point in producing yet another one of those. If people producing blogging software want to give this another shot, they should be ready to retool, a bit. Not very much. Maybe not at all (if you've been considerate in your feeds). And not breaking anything. This is absolute. I will not break anyone either with feeds I produce (I write a popular blog and make blogging software.) Which is a bit tricky because there are important features in my feeds that most readers don't support thanks to <a href=\"http://scripting.com/2013/03/15/oneGreatThingAboutTheDemiseOfGoogleReader.html\">Google</a>. This is how everything got broken. I want to go back to before this all became such a mess, and slowly and carefully pull through something beautifully simple and easy to work with. And then go from there. Not leaving the past behind, but also not being limited by it. It's possible. <span class=\"spOldSchoolEmoji\">🚀</span>",
-            "pubDate": "2022-03-21T16:41:37.000Z",
-            "link": "http://scripting.com/2022/03/21.html#a164137",
-            "guid": "http://scripting.com/2022/03/21.html#a164137",
-            "outline": {
-                "text": "I'm doing more work on feed reading, and realize the problem has never been with my feed reading software, rather it's the mess that was created around feed reading with the lack of working-together among the vendors. I've written about this <a href=\"http://scripting.com/2022/03/18.html#a161837\">before</a>. As I go deeper into this project, I'm becoming more resolved that I'm only going to support a subset of feeds. What will come out of it will not be a feed reader in the sense that people think of them for the last 20 or so years. They all try to read everything, and that makes it hard to go beyond the intersection of features found in all feeds. I don't see any point in producing yet another one of those. If people producing blogging software want to give this another shot, they should be ready to retool, a bit. Not very much. Maybe not at all (if you've been considerate in your feeds). And not breaking anything. This is absolute. I will not break anyone either with feeds I produce (I write a popular blog and make blogging software.) Which is a bit tricky because there are important features in my feeds that most readers don't support thanks to <a href=\"http://scripting.com/2013/03/15/oneGreatThingAboutTheDemiseOfGoogleReader.html\">Google</a>. This is how everything got broken. I want to go back to before this all became such a mess, and slowly and carefully pull through something beautifully simple and easy to work with. And then go from there. Not leaving the past behind, but also not being limited by it. It's possible. <span class=\"spOldSchoolEmoji\">🚀</span>",
-                "created": "Mon, 21 Mar 2022 16:41:37 GMT",
-                "type": "outline",
-                "image": "http://scripting.com/images/2022/03/21/beetle.png",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21.html#a164137"
-            }
-        },
-        {
-            "description": "2022: Really Simple Syndication has become anything but simple.",
-            "pubDate": "2022-03-21T16:57:34.000Z",
-            "link": "http://scripting.com/2022/03/21.html#a165734",
-            "guid": "http://scripting.com/2022/03/21.html#a165734",
-            "outline": {
-                "text": "2022: Really Simple Syndication has become anything but simple.",
-                "created": "Mon, 21 Mar 2022 16:57:34 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21.html#a165734"
-            }
-        },
-        {
-            "description": "<a href=\"https://www.youtube.com/watch?v=rpxZZFJKKYU\">Today's song</a>: \"Don't the sunrise look so pretty, never such a sight. Like a rollin' into New York City with the skyline in the morning light.\"",
-            "pubDate": "2022-03-21T13:37:52.000Z",
-            "link": "http://scripting.com/2022/03/21.html#a133752",
-            "guid": "http://scripting.com/2022/03/21.html#a133752",
-            "outline": {
-                "text": "<a href=\"https://www.youtube.com/watch?v=rpxZZFJKKYU\">Today's song</a>: \"Don't the sunrise look so pretty, never such a sight. Like a rollin' into New York City with the skyline in the morning light.\"",
-                "created": "Mon, 21 Mar 2022 13:37:52 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21.html#a133752"
-            }
-        },
-        {
-            "description": "I told Alexa to play George Harrison songs. She's playing the best ones. There are so many.",
-            "pubDate": "2022-03-22T00:18:32.000Z",
-            "link": "http://scripting.com/2022/03/21.html#a001832",
-            "guid": "http://scripting.com/2022/03/21.html#a001832",
-            "outline": {
-                "text": "I told Alexa to play George Harrison songs. She's playing the best ones. There are so many.",
-                "created": "Tue, 22 Mar 2022 00:18:32 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21.html#a001832"
-            }
-        },
-        {
-            "description": "I gotta say there are a few public figures who, if they died tonight, I'd do a little jig, drink a toast, in private of course. In anticipation my heart beats a little faster. Oh could we be so lucky! I'd put a George Harrison <a href=\"https://www.youtube.com/watch?v=lIbVWNy7HBk\">song</a> on the speaker, only <i>slightly</i> with sarcasm.",
-            "pubDate": "2022-03-22T00:18:09.000Z",
-            "link": "http://scripting.com/2022/03/21.html#a001809",
-            "guid": "http://scripting.com/2022/03/21.html#a001809",
-            "outline": {
-                "text": "I gotta say there are a few public figures who, if they died tonight, I'd do a little jig, drink a toast, in private of course. In anticipation my heart beats a little faster. Oh could we be so lucky! I'd put a George Harrison <a href=\"https://www.youtube.com/watch?v=lIbVWNy7HBk\">song</a> on the speaker, only <i>slightly</i> with sarcasm.",
-                "created": "Tue, 22 Mar 2022 00:18:09 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21.html#a001809"
-            }
-        },
-        {
-            "description": "I'm watching <a href=\"https://en.wikipedia.org/wiki/Severance_(TV_series)\">Severance</a> on AppleTV+. It's good science fiction, good acting, a bit of a mystery that unravels slowly. The cast is amazing.",
-            "pubDate": "2022-03-21T13:45:55.000Z",
-            "link": "http://scripting.com/2022/03/21.html#a134555",
-            "guid": "http://scripting.com/2022/03/21.html#a134555",
-            "outline": {
-                "text": "I'm watching <a href=\"https://en.wikipedia.org/wiki/Severance_(TV_series)\">Severance</a> on AppleTV+. It's good science fiction, good acting, a bit of a mystery that unravels slowly. The cast is amazing.",
-                "created": "Mon, 21 Mar 2022 13:45:55 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21.html#a134555"
-            }
-        },
-        {
-            "description": "<img src=\"http://scripting.com/images/2022/03/21/bonanzaWordle.png\">",
-            "pubDate": "2022-03-21T13:40:28.000Z",
-            "link": "http://scripting.com/2022/03/21.html#a134028",
-            "guid": "http://scripting.com/2022/03/21.html#a134028",
-            "outline": {
-                "text": "<img src=\"http://scripting.com/images/2022/03/21/bonanzaWordle.png\">",
-                "created": "Mon, 21 Mar 2022 13:40:28 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21.html#a134028"
-            }
-        },
-        {
-            "title": "If money is speech...",
-            "description": "<p><a href=\"https://twitter.com/JoeTrippi/status/1505904993223725058\">Joe Trippi tweets</a>: \"You're probably paying for Putin TV.\" </p>\n<p>He's right, you are. If you have a basic cable package that includes Fox News, you're paying your share to keep Tucker Carlson on the air. </p>\n<p>Joe, I think this would be an incredible political cause to raise a fuss about. Focus the spotlight on how we're subsidizing Fox. I think that law, whatever it is that makes this possible or necessary, needs to be changed.</p>\n<p>It's as fundamental as the First Amendment. I should not be required to fund speech that I find abhorrent. The Supreme Court ruled that <a href=\"https://en.wikipedia.org/wiki/Citizens_United_v._FEC\">money is speech</a>. Let's get some lawyers working on this! Make news. It's the kind of issue Repubs raise huge money on. And it pisses me off that my money goes to fund the destruction of our political system. </p>\n<p>PS: I wrote about this on <a href=\"http://scripting.com/2021/01/27.html#a160229\">1/27/2021</a>. </p>",
-            "pubDate": "2022-03-21T15:55:31.000Z",
-            "link": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech",
-            "guid": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech",
-            "outline": {
-                "text": "If money is speech...",
-                "created": "Mon, 21 Mar 2022 15:55:31 GMT",
-                "type": "outline",
-                "description": "I don't see why I should have to pay for Fox News if I find their view of things abhorrent.",
-                "metaimage": "http://scripting.com/images/2022/03/21/money.png",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech",
-                "subs": [
-                    {
-                        "text": "<a href=\"https://twitter.com/JoeTrippi/status/1505904993223725058\">Joe Trippi tweets</a>: \"You're probably paying for Putin TV.\"",
-                        "created": "Mon, 21 Mar 2022 15:55:45 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech#a155545"
-                    },
-                    {
-                        "text": "He's right, you are. If you have a basic cable package that includes Fox News, you're paying your share to keep Tucker Carlson on the air.",
-                        "created": "Mon, 21 Mar 2022 15:56:22 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech#a155622"
-                    },
-                    {
-                        "text": "Joe, I think this would be an incredible political cause to raise a fuss about. Focus the spotlight on how we're subsidizing Fox. I think that law, whatever it is that makes this possible or necessary, needs to be changed.",
-                        "created": "Mon, 21 Mar 2022 15:56:48 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech#a155648"
-                    },
-                    {
-                        "text": "It's as fundamental as the First Amendment. I should not be required to fund speech that I find abhorrent. The Supreme Court ruled that <a href=\"https://en.wikipedia.org/wiki/Citizens_United_v._FEC\">money is speech</a>. Let's get some lawyers working on this! Make news. It's the kind of issue Repubs raise huge money on. And it pisses me off that my money goes to fund the destruction of our political system.",
-                        "created": "Mon, 21 Mar 2022 15:57:23 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech#a155723"
-                    },
-                    {
-                        "text": "PS: I wrote about this on <a href=\"http://scripting.com/2021/01/27.html#a160229\">1/27/2021</a>.",
-                        "created": "Mon, 21 Mar 2022 16:05:54 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/21/155531.html?title=ifMoneyIsSpeech#a160554"
-                    }
-                ]
-            }
-        },
-        {
-            "title": "Doyle Dane Bernbach",
-            "description": "<p><a href=\"https://en.wikipedia.org/wiki/Think_Small\">Think small</a>, 1962. </p>",
-            "pubDate": "2022-03-22T00:07:29.000Z",
-            "link": "http://scripting.com/2022/03/21/000729.html?title=doyleDaneBernbach",
-            "guid": "http://scripting.com/2022/03/21/000729.html?title=doyleDaneBernbach",
-            "outline": {
-                "text": "Doyle Dane Bernbach",
-                "created": "Tue, 22 Mar 2022 00:07:29 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/21/000729.html?title=doyleDaneBernbach",
-                "subs": [
-                    {
-                        "text": "<a href=\"https://en.wikipedia.org/wiki/Think_Small\">Think small</a>, 1962.",
-                        "created": "Tue, 22 Mar 2022 00:07:36 GMT",
-                        "inlineimage": "http://scripting.com/images/2022/03/21/thinkSmall.png",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/21/000729.html?title=doyleDaneBernbach#a000736"
-                    }
-                ]
-            }
-        },
-        {
-            "description": "Scott Hanson: <a href=\"https://github.com/scotthansonde/DrummerNotes/blob/main/buildingElectron.md\">Building Electron apps for Linux and Windows</a>. We're looking for <a href=\"https://github.com/scotthansonde/DrummerNotes/issues/1\">feedback</a> from people who have successfully built Linux and Windows versions of Electron apps.",
-            "pubDate": "2022-03-20T14:17:33.000Z",
-            "link": "http://scripting.com/2022/03/20.html#a141733",
-            "guid": "http://scripting.com/2022/03/20.html#a141733",
-            "outline": {
-                "text": "Scott Hanson: <a href=\"https://github.com/scotthansonde/DrummerNotes/blob/main/buildingElectron.md\">Building Electron apps for Linux and Windows</a>. We're looking for <a href=\"https://github.com/scotthansonde/DrummerNotes/issues/1\">feedback</a> from people who have successfully built Linux and Windows versions of Electron apps.",
-                "created": "Sun, 20 Mar 2022 14:17:33 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/20.html#a141733"
-            }
-        },
-        {
-            "description": "Something I learned from reading <a href=\"https://www.amazon.com/Allow-Me-Retort-Black-Constitution/dp/1620976811\">Elie Mystal's book</a>. The Second Amendment’s original <a href=\"https://www.thedailybeast.com/how-slave-owners-dictated-the-language-of-the-2nd-amendment\">purpose</a> was to enable slavers in Virginia to put down a slave rebellion without depending on the federal government. It wasn't put in the Constitution so people could protect themselves against robbers, not that that's necessarily a bad thing, and if appropriate there could be laws that allow it specifically. But it isn't really a Constitutional right.",
-            "pubDate": "2022-03-20T22:30:05.000Z",
-            "link": "http://scripting.com/2022/03/20.html#a223005",
-            "guid": "http://scripting.com/2022/03/20.html#a223005",
-            "outline": {
-                "text": "Something I learned from reading <a href=\"https://www.amazon.com/Allow-Me-Retort-Black-Constitution/dp/1620976811\">Elie Mystal's book</a>. The Second Amendment’s original <a href=\"https://www.thedailybeast.com/how-slave-owners-dictated-the-language-of-the-2nd-amendment\">purpose</a> was to enable slavers in Virginia to put down a slave rebellion without depending on the federal government. It wasn't put in the Constitution so people could protect themselves against robbers, not that that's necessarily a bad thing, and if appropriate there could be laws that allow it specifically. But it isn't really a Constitutional right.",
-                "created": "Sun, 20 Mar 2022 22:30:05 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/20.html#a223005"
-            }
-        },
-        {
-            "description": "<a href=\"https://twitter.com/ST_Culture/status/1505470787993673729\">Anne Tyler</a>: \"It would be very foolish for me to write, let’s say, a novel from the viewpoint of a black man, but I think I should be allowed to do it.\" What a world, where such an accomplished and respected author feels this intimidated.",
-            "pubDate": "2022-03-20T14:56:23.000Z",
-            "link": "http://scripting.com/2022/03/20.html#a145623",
-            "guid": "http://scripting.com/2022/03/20.html#a145623",
-            "outline": {
-                "text": "<a href=\"https://twitter.com/ST_Culture/status/1505470787993673729\">Anne Tyler</a>: \"It would be very foolish for me to write, let’s say, a novel from the viewpoint of a black man, but I think I should be allowed to do it.\" What a world, where such an accomplished and respected author feels this intimidated.",
-                "created": "Sun, 20 Mar 2022 14:56:23 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/20.html#a145623"
-            }
-        },
-        {
-            "description": "My <a href=\"http://daytona.scripting.com/?q=human%20sushi&collection=scriptingnews\">human sushi</a> comment is up to <a href=\"http://scripting.com/images/2022/03/20/358.png\">358 likes</a> now.",
-            "pubDate": "2022-03-20T16:01:44.000Z",
-            "link": "http://scripting.com/2022/03/20.html#a160144",
-            "guid": "http://scripting.com/2022/03/20.html#a160144",
-            "outline": {
-                "text": "My <a href=\"http://daytona.scripting.com/?q=human%20sushi&collection=scriptingnews\">human sushi</a> comment is up to <a href=\"http://scripting.com/images/2022/03/20/358.png\">358 likes</a> now.",
-                "created": "Sun, 20 Mar 2022 16:01:44 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/20.html#a160144"
-            }
-        },
-        {
-            "title": "A Wordle hack",
-            "description": "<p><img class=\"imgRightMargin\" src=\"http://scripting.com/images/2022/03/20/wordleResult.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\"><a href=\"https://www.nytimes.com/games/wordle/index.html\">Wordle</a> is an addictive word game that became popular and then was bought by the NY Times. It's free to play, as far as I know (I have a NYT subscription so if it weren't free it's possible I might not know). The diagram to the right is a standard, produced by the game. It tells you how my last game went without giving away the answer. Even that part of the game is clever. </p>\n<p>Anyway, here's the hack...</p>\n<p>Suppose you know the second and third letters, as above, and have eliminated a fair number of consonants, and are sure the first letter is a consonant…</p>\n<p>Type one of the eligable consonants and the next two letters into a web browser and check out the auto completes. Repeat. That's how I figured out the answer to today's puzzle after I got to the situation in the third line. </p>\n<p>I'm pretty consistently getting the answer in four steps. In the first two steps I'm not trying to solve the puzzle, just gathering data. By the third, I constrain my guess by the information I've gathered so far, assuming I've got one or two hits.  </p>\n<p>In this case I got two green squares on the first one. I thought for sure I'd get the answer in three instead of four, but I hadn't eliminated enough consonants to be able to puzzle it out. I was surprised by how hard it was after step three, mostly because (I think) this was a weird word, letter-wise. </p>",
-            "pubDate": "2022-03-20T14:21:53.000Z",
-            "link": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack",
-            "guid": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack",
-            "outline": {
-                "text": "A Wordle hack",
-                "created": "Sun, 20 Mar 2022 14:21:53 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack",
-                "subs": [
-                    {
-                        "text": "<a href=\"https://www.nytimes.com/games/wordle/index.html\">Wordle</a> is an addictive word game that became popular and then was bought by the NY Times. It's free to play, as far as I know (I have a NYT subscription so if it weren't free it's possible I might not know). The diagram to the right is a standard, produced by the game. It tells you how my last game went without giving away the answer. Even that part of the game is clever.",
-                        "created": "Sun, 20 Mar 2022 14:44:23 GMT",
-                        "image": "http://scripting.com/images/2022/03/20/wordleResult.png",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack#a144423"
-                    },
-                    {
-                        "text": "Anyway, here's the hack...",
-                        "created": "Sun, 20 Mar 2022 14:46:51 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack#a144651"
-                    },
-                    {
-                        "text": "Suppose you know the second and third letters, as above, and have eliminated a fair number of consonants, and are sure the first letter is a consonant…",
-                        "created": "Sun, 20 Mar 2022 14:22:56 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack#a142256"
-                    },
-                    {
-                        "text": "Type one of the eligable consonants and the next two letters into a web browser and check out the auto completes. Repeat. That's how I figured out the answer to today's puzzle after I got to the situation in the third line.",
-                        "created": "Sun, 20 Mar 2022 14:23:13 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack#a142313"
-                    },
-                    {
-                        "text": "I'm pretty consistently getting the answer in four steps. In the first two steps I'm not trying to solve the puzzle, just gathering data. By the third, I constrain my guess by the information I've gathered so far, assuming I've got one or two hits.",
-                        "created": "Sun, 20 Mar 2022 14:23:55 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack#a142355"
-                    },
-                    {
-                        "text": "In this case I got two green squares on the first one. I thought for sure I'd get the answer in three instead of four, but I hadn't eliminated enough consonants to be able to puzzle it out. I was surprised by how hard it was after step three, mostly because (I think) this was a weird word, letter-wise.",
-                        "created": "Sun, 20 Mar 2022 14:24:56 GMT",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/20/142153.html?title=aWordleHack#a142456"
-                    }
-                ]
-            }
-        },
-        {
-            "title": "Edward Hopper",
-            "description": "<p><a href=\"https://www.artic.edu/artworks/50091/night-on-the-el-train\">Night on the El Train</a>, 1918.</p>",
-            "pubDate": "2022-03-20T23:00:01.000Z",
-            "link": "http://scripting.com/2022/03/20/230001.html?title=edwardHopper",
-            "guid": "http://scripting.com/2022/03/20/230001.html?title=edwardHopper",
-            "outline": {
-                "text": "Edward Hopper",
-                "created": "Sun, 20 Mar 2022 23:00:01 GMT",
-                "type": "outline",
-                "flincalendar": "true",
-                "permalink": "http://scripting.com/2022/03/20/230001.html?title=edwardHopper",
-                "subs": [
-                    {
-                        "text": "<a href=\"https://www.artic.edu/artworks/50091/night-on-the-el-train\">Night on the El Train</a>, 1918.",
-                        "created": "Sun, 20 Mar 2022 23:00:05 GMT",
-                        "inlineimage": "http://scripting.com/images/2022/03/20/nightOnTheElTrain.png",
-                        "flincalendar": "true",
-                        "permalink": "http://scripting.com/2022/03/20/230001.html?title=edwardHopper#a230005"
-                    }
-                ]
+                "permalink": "http://scripting.com/2022/04/01.html#a132719"
             }
         }
     ]
