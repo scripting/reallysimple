@@ -36,6 +36,10 @@ This package further simplifies the struct returned by <a href="https://www.npmj
 
 #### Work notes
 
+4/7/22; 11:37:16 AM by DW
+
+Clean up the readme file. Simplify the example app. Review docs. Start to invite collaborators to the repo, still private.
+
 3/21/22; 10:19:22 AM by DW
 
 Reviewing the way we represent links in items in the API. 
