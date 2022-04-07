@@ -22,9 +22,9 @@ There probably is a small tradeoff in performance, you can probably write faster
 
 Here's how you call the package.
 
-```javascriptconst reallysimple = require ("reallysimple");const url = "http://scripting.com/rss.xml";reallysimple.readFeed (url, function (err, theFeed) {	if (!err) {		console.log ("theFeed == " + JSON.stringify (theFeed));		}	}):```
+```javascriptconst fs = require ("fs");const reallysimple = require ("reallysimple");reallysimple.readFeed ("http://scripting.com/rss.xml", function (err, theFeed) {	if (!err) {		fs.writeFile ("test.json", JSON.stringify (theFeed, undefined, 4), function (err) {			});		}	});```
 
-Here's what shows up in the console when you run that code. 
+Here's <a href="https://github.com/scripting/reallysimple/blob/main/example/test.json">the file</a> that's created when you run that code. 
 
 #### What we build on
 
