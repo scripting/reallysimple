@@ -1,4 +1,4 @@
-var myProductName = "reallysimple"; myVersion = "0.4.5";    
+var myProductName = "reallysimple"; myVersion = "0.4.7";    
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -21,7 +21,12 @@ var config = {
 	}
 
 function isEmptyObject (obj) {
-	return (Object.keys (obj).length === 0);
+	try {
+		return (Object.keys (obj).length === 0);
+		}
+	catch (err) {
+		return (true); //6/8/22 by DW
+		}
 	}
 function getItemPermalink (item) { 
 	var rssguid = item ["rss:guid"], returnedval = undefined;
@@ -150,8 +155,10 @@ function convertFeed (oldFeed) {
 	
 	getHeadValuesFromFirstItem (); //3/6/22 by DW
 	
-	if (isEmptyObject (newFeed.image)) {
-		delete newFeed.image;
+	if (newFeed.image !== undefined) { //5/17/22 by DW
+		if (isEmptyObject (newFeed.image)) {
+			delete newFeed.image;
+			}
 		}
 	
 	newFeed.items = new Array ();
@@ -182,8 +189,10 @@ function convertFeed (oldFeed) {
 				}
 			}
 		newItem.guid = getItemPermalink (item);
-		if (isEmptyObject (newItem.source)) {
-			delete newItem.source;
+		if (newItem.source !== undefined) { //5/17/22 by DW
+			if (isEmptyObject (newItem.source)) {
+				delete newItem.source;
+				}
 			}
 		newFeed.items.push (newItem);
 		});
