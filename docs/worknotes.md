@@ -1,4 +1,10 @@
-#### 6/5/22; 12:39:33 PM by DW
+# Worknotes
+
+#### 6/11/22 by DW
+
+Announced on <a href="http://scripting.com/2022/06/11.html#a193356">Scripting News</a> and <a href="https://twitter.com/davewiner/status/1535708039621353472">Twitter</a>. 
+
+#### 6/5/22 by DW
 
 Put together the <a href="http://reallysimple.org/twentyYearsAgo.opml">notes</a> on how RSS 0.94 became RSS 2.0 in the summer of 2002.
 

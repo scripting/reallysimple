@@ -1,3 +1,5 @@
+# Invite to testers
+
 I've been working on a new Node package meant to be the absolutely final top-level API for reading feeds in a Node.js app, and to serve as reference code for other platforms.
 
 It takes all the history, in theory, and wraps it up into a concise, thoughtfully designed JavaScript object that makes no compromises to history. It won't reflect every feature in every feed out there. Make the job of using feeds as simple as it should be.
