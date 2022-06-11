@@ -2,7 +2,7 @@
 
 Node package that reads a fead in multiple formats and returns a simple JavaScript object. Hides the history.
 
-#### Code
+I always like to see the code first...
 
 ```javascriptconst fs = require ("fs");const reallysimple = require ("reallysimple");const urlFeed = "http://scripting.com/rss.xml";reallysimple.readFeed (urlFeed, function (err, theFeed) {	if (!err) {		const jsontext = JSON.stringify (theFeed, undefined, 4);		fs.writeFile ("test.json", jsontext, function (err) {			});		}	});```
 
