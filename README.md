@@ -1,6 +1,6 @@
 # reallysimple
 
-Node package that reads a fead in multiple formats and returns a simple JavaScript object. Hides the history.
+A Node package that reads RSS-like feeds in multiple formats and calls back with a simple, consistent JavaScript object. Hides the history.
 
 I always like to see the code first...
 
