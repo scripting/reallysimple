@@ -6,7 +6,7 @@ A Node package that reads RSS-like feeds and calls back with a simple, consisten
 
 I always like to see the code first...
 
-```javascriptconst fs = require ("fs");const reallysimple = require ("reallysimple");const urlFeed = "http://scripting.com/rss.xml";reallysimple.readFeed (urlFeed, function (err, theFeed) {	if (!err) {		const jsontext = JSON.stringify (theFeed, undefined, 4);		fs.writeFile ("test.json", jsontext, function (err) {			});		}	});```
+```javascriptconst fs = require ("fs");const reallysimple = require ("reallysimple");const urlFeed = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml";reallysimple.readFeed (urlFeed, function (err, theFeed) {	if (!err) {		const jsontext = JSON.stringify (theFeed, undefined, 4);		fs.writeFile ("test.json", jsontext, function (err) {			});		}	});```
 
 Here's <a href="https://github.com/scripting/reallysimple/blob/main/example/test.json">the file</a> that's created when you run the code. 
 
