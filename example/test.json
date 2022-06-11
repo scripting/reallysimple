@@ -4,7 +4,6 @@
     "link": "https://www.nytimes.com/section/world",
     "language": "en-us",
     "copyright": "Copyright 2022 The New York Times Company",
-    "cloud": {},
     "image": {
         "url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
         "title": "NYT > World News"
@@ -19,10 +18,7 @@
             "author": "Abdi Latif Dahir and Malin Fezehai",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/world/00somalia-hunger-promo/00somalia-hunger-swap-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -42,10 +38,7 @@
             "author": "Anton Troianovski and Ivan Nechepurenko",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/11/world/11russia-econ-01/11russia-econ-01-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -57,10 +50,7 @@
             "author": "Constant Méheut",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/11/world/11france-left-01/11france-left-01-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -72,10 +62,7 @@
             "author": "Sameer Yasir",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/06/world/00india-devy-profile-01/00india-devy-profile-01-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -87,10 +74,7 @@
             "author": "Thomas Gibbons-Neff, Andrew E. Kramer and Natalia Yermak",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/world/10ukraine-blog-ammunition-1/10ukraine-blog-ammunition-1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -102,10 +86,7 @@
             "author": "Megan Janetsky and María Silvia Trigo",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/world/08bolivia/08bolivia-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -117,10 +98,7 @@
             "author": "John Eligon",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/world/10safrica-farmgate-1/10safrica-farmgate-1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -132,10 +110,7 @@
             "author": "The New York Times",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/11/world/11ukraine-blog-header-1015/11ukraine-blog-header-1015-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -147,10 +122,7 @@
             "author": "Chris Buckley and Sui-Lee Wee",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/world/10china-us-defense1/10china-us-defense1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -162,10 +134,7 @@
             "author": "Jane Bradley",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/world/10uk-donor/10uk-donor-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -177,10 +146,7 @@
             "author": "Vjosa Isai",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/world/10canada-1/10canada-1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -192,10 +158,7 @@
             "author": "Elisabetta Povoledo",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/world/10pope-01/merlin_208348761_b82cbae4-2b56-44a8-9256-8811fc753014-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -207,10 +170,7 @@
             "author": "Farnaz Fassihi and David Fahrenthold",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/multimedia/10Nations-01/10Nations-01-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -222,10 +182,7 @@
             "author": "Emily Schmall and Suhasini Raj",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/11/world/11india-protests-top-sub-09/11india-protests-top-sub-09-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -237,10 +194,7 @@
             "author": "Oscar Lopez and Alejandro Cegarra",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/world/00mexico-migrants-videocover/00mexico-migrants-videocover-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -252,10 +206,7 @@
             "author": "Aina J. Khan",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/05/27/world/00uk-north-promo/00uk-north-02-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -275,10 +226,7 @@
             "author": "Ian Austen",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/11/world/11canadaletter-tims1/11canadaletter-tims1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -290,10 +238,7 @@
             "author": "Lara Jakes and Edward Wong",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/us/politics/00dc-ukraine-strategy-1/00dc-ukraine-strategy-1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -312,10 +257,7 @@
             "author": "Apoorva Mandavilli",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/science/10monkeypox/10monkeypox-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -327,10 +269,7 @@
             "author": "Michael Schwirtz and Marc Santora",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/world/10ukraine-partisan-attack-1/10ukraine-partisan-attack-1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -342,10 +281,7 @@
             "author": "Christine Hauser and Derrick Bryson Taylor",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/12/world/12-XP-SHIPWRECK-01-PRINT/10xp-shipwreck1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -357,10 +293,7 @@
             "author": "David Leonhardt and Ian Prasad Philbrick",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/multimedia/10THE-AM-Fri-Jan6-promo/10THE-AM-Fri-Jan6-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -372,10 +305,7 @@
             "author": "Johnny Diaz and Christine Chung",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/multimedia/08virus-briefing-miami-honolulu/08virus-briefing-miami-honolulu-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -387,10 +317,7 @@
             "author": "Valerie Hopkins and Nicole Tung",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/world/00ukraine-basement-top/00ukraine-basement-top-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -401,10 +328,7 @@
             "guid": "https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/multimedia/10ausletter260-nl/10ausletter260-nl-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -416,10 +340,7 @@
             "author": "Jonathan Wolfe and Amelia Nierenberg",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/multimedia/10ambriefing-europe-ukraine-lysychansk-copy/09ukrblog-lysychansk-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -431,10 +352,7 @@
             "author": "Michael D. Shear, Miriam Jordan and Anatoly Kurmanaev",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/multimedia/09dc-biden-summit-photo/09dc-biden-summit-photo-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -446,10 +364,7 @@
             "author": "Miriam Jordan",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/us/politics/09summit-americas-immigration-central-america/09summit-americas-immigration-central-america-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -461,10 +376,7 @@
             "author": "Amelia Nierenberg",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/multimedia/061022ambriefing-asia-promo/09ukrblog-lysychansk-header-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -476,10 +388,7 @@
             "author": "Andrew E. Kramer and Ivor Prickett",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/world/09ukraine-scene-promo/09ukraine-scene-1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -491,10 +400,7 @@
             "author": "Isabella Kwai",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/03/11/world/09iran-nuclear-001/09iran-nuclear-001-moth-v2.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -506,10 +412,7 @@
             "author": "Jack Nicas and Michael D. Shear",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/us/politics/09americas-summit-brazil-meeting-new/09americas-summit-brazil-meeting-new-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -521,10 +424,7 @@
             "author": "Dan Bilefsky and Valerie Hopkins",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/07/08/world/08ukraine-blog-accused-mercenaries2/08ukraine-blog-accused-mercenaries2-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -536,10 +436,7 @@
             "author": "Sam Roberts",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/10/obituaries/08kovtun-image1-print1/05kovtun-image1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -551,10 +448,7 @@
             "author": "Eileen Sullivan",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/03/us/politics/00dc-immig-haitians1/00dc-immig-haitians1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -566,10 +460,7 @@
             "author": "Anton Troianovski",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/world/09ukraine-blog-putin/09ukraine-blog-putin-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -597,10 +488,7 @@
             "author": "Ivan Nechepurenko",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/world/09ukraine-blog-criminal-cases/09ukraine-blog-criminal-cases-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -620,10 +508,7 @@
             "author": "Derrick Bryson Taylor and Emma Bubola",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/world/09xp-spanish-steps2/09xp-spanish-steps2-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -635,10 +520,7 @@
             "author": "Melissa Eddy",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/business/00beerbottles-1/00beerbottles-1-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -650,10 +532,7 @@
             "author": "Richard C. Paddock and Vo Kieu Bao Uyen",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/multimedia/09-virus-briefing-vietnam/09-virus-briefing-vietnam-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -665,10 +544,7 @@
             "author": "David Leonhardt",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/multimedia/09-the-morning-promo/09-the-morning-lede-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -680,10 +556,7 @@
             "author": "Austin Ramzy",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/world/08china-provocations-01/08china-provocations-01-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -695,10 +568,7 @@
             "author": "Samanth Subramanian",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/12/magazine/12mag-ruangrupa-08/12mag-ruangrupa-08-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -710,10 +580,7 @@
             "author": "Noah Weiland",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/science/09virus-briefing-WHpediatricvaccine/09virus-briefing-WHpediatricvaccine-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -733,10 +600,7 @@
             "author": "John Yoon, Jin Yu Young and Tiffany May",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/09/world/09skorea-fire-03/09skorea-fire-03-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -748,10 +612,7 @@
             "author": "Natasha Frost",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/world/09ambriefing-europe-ukraine-water/09ambriefing-europe-ukraine-water-moth-v2.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -771,10 +632,7 @@
             "author": "Amelia Nierenberg",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/07/world/09ambriefing-asia-nl-PROMO/07ukraine-blog-kherson-dam2-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -786,10 +644,7 @@
             "author": "Marc Santora, Thomas Gibbons-Neff, Anton Troianovski and Michael Levenson",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/world/08ukraine-ledeall/merlin_187012383_c6b2e4ab-222f-4519-8cc6-ad60b34e311a-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         },
         {
@@ -801,10 +656,7 @@
             "author": "Amanda Taub",
             "enclosure": {
                 "url": "https://static01.nyt.com/images/2022/06/08/world/Interpreter-nl-Jun82022-01/Interpreter-nl-Jun82022-01-moth.jpg",
-                "type": "image",
-                "length": null,
-                "height": "151",
-                "width": "151"
+                "type": "image"
             }
         }
     ]
