@@ -1,4 +1,4 @@
-var myProductName = "reallysimple"; myVersion = "0.4.7";    
+var myProductName = "reallysimple"; myVersion = "0.4.8";    
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -14,6 +14,9 @@ const allowedHeadNames = [
 	];
 const allowedItemNames = [
 	"title", "link", "description", "author", "category", "comments", "enclosures", "guid", "pubDate", "source", "source:outline", "source:likes"
+	];
+const allowedEnclosureNames = [
+	"url", "type", "length"
 	];
 
 var config = {
@@ -160,6 +163,11 @@ function convertFeed (oldFeed) {
 			delete newFeed.image;
 			}
 		}
+	if (newFeed.cloud !== undefined) { //6/11/22 by DW
+		if (isEmptyObject (newFeed.cloud)) {
+			delete newFeed.cloud;
+			}
+		}
 	
 	newFeed.items = new Array ();
 	oldFeed.items.forEach (function (item) {
@@ -194,6 +202,21 @@ function convertFeed (oldFeed) {
 				delete newItem.source;
 				}
 			}
+		
+		if (newItem.enclosure !== undefined) { //6/11/22 by DW
+			var enc = new Object ();
+			for (var x in newItem.enclosure) {
+				allowedEnclosureNames.forEach (function (name) {
+					if (x == name) {
+						if (newItem.enclosure [x] != null) {
+							enc [x] = newItem.enclosure [x];
+							}
+						}
+					});
+				}
+			newItem.enclosure = enc;
+			}
+		
 		newFeed.items.push (newItem);
 		});
 	

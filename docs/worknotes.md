@@ -1,8 +1,14 @@
 # Worknotes
 
-#### 6/11/22 by DW
+#### 6/11/22 by DW -- v0.4.8
 
 Announced on <a href="http://scripting.com/2022/06/11.html#a193356">Scripting News</a> and <a href="https://twitter.com/davewiner/status/1535708039621353472">Twitter</a>. 
+
+If the cloud element exists but is empty, delete it. 
+
+Only allow url, type and length properties in enclosure objects.
+
+Don't pass through enclosure properties whose value is null. 
 
 #### 6/5/22 by DW
 
