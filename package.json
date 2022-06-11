@@ -1,6 +1,6 @@
 {
 	"name": "reallysimple", 
-	"description": "Reads an RSS-like feed and calls back with a JavaScript structure, hiding all the history. It really is simple. ;-)",
+	"description": "A Node package that reads RSS-like feeds and calls back with a simple, consistent JavaScript object. Easy to use, hides the history.",
 	"version": "0.4.7", 
 	"author": "Dave Winer <dave@scripting.com>",
 	"license": "MIT",

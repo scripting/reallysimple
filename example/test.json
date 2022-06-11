@@ -1,7 +1,7 @@
 {
     "title": "Scripting News",
     "description": "It's even worse than it appears..",
-    "pubDate": "2022-04-03T13:52:15.000Z",
+    "pubDate": "2022-06-11T14:42:29.000Z",
     "link": "http://scripting.com/",
     "language": "en-us",
     "copyright": "&copy; copyright 1994-2022 Dave Winer.",
@@ -17,236 +17,760 @@
     "accounts": {
         "twitter": "davewiner"
     },
-    "localtime": "Sun, April 3, 2022 11:46 AM EDT",
+    "localtime": "Sat, June 11, 2022 11:02 AM EDT",
     "items": [
         {
-            "description": "Will I ever stop using <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> or is this a chronic addiction?",
-            "pubDate": "2022-04-03T13:35:01.000Z",
-            "link": "http://scripting.com/2022/04/03.html#a133501",
-            "guid": "http://scripting.com/2022/04/03.html#a133501",
+            "description": "I totally agree with this <a href=\"https://nypost.com/2022/06/10/corporate-media-may-at-last-be-waking-up-to-reality/\">editorial</a> in the NY Post. News orgs have lost touch with what their jobs are. This of course is advice the NY Post should take to heart. You have a lot of work to do here as do the other news orgs. Disappointed but not surprised to see other news people dismissing it.",
+            "pubDate": "2022-06-11T14:23:47.000Z",
+            "link": "http://scripting.com/2022/06/11.html#a142347",
+            "guid": "http://scripting.com/2022/06/11.html#a142347",
             "outline": {
-                "text": "Will I ever stop using <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> or is this a chronic addiction?",
-                "created": "Sun, 03 Apr 2022 13:35:01 GMT",
+                "text": "I totally agree with this <a href=\"https://nypost.com/2022/06/10/corporate-media-may-at-last-be-waking-up-to-reality/\">editorial</a> in the NY Post. News orgs have lost touch with what their jobs are. This of course is advice the NY Post should take to heart. You have a lot of work to do here as do the other news orgs. Disappointed but not surprised to see other news people dismissing it.",
+                "created": "Sat, 11 Jun 2022 14:23:47 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/03.html#a133501"
+                "permalink": "http://scripting.com/2022/06/11.html#a142347"
             }
         },
         {
-            "description": "Ken Smith <a href=\"https://twitter.com/KenSmith/status/1510577457979662339\">says</a> Twitter is anti-writer. Hmm. Interesting thought.",
-            "pubDate": "2022-04-03T13:52:15.000Z",
-            "link": "http://scripting.com/2022/04/03.html#a135215",
-            "guid": "http://scripting.com/2022/04/03.html#a135215",
+            "description": "I uploaded two more of the early Lydon podcast interviews to YouTube this morning: <a href=\"https://www.youtube.com/watch?v=ITwEMOGdPsg\">Jim Behrle</a> and <a href=\"https://www.youtube.com/watch?v=DDVdiEz0WE0\">Eugene Volokh</a>. It's a bit of a slog. The next podcast has three parts, which means I guess that they have to be merged somehow into a single video.",
+            "pubDate": "2022-06-11T14:08:13.000Z",
+            "link": "http://scripting.com/2022/06/11.html#a140813",
+            "guid": "http://scripting.com/2022/06/11.html#a140813",
             "outline": {
-                "text": "Ken Smith <a href=\"https://twitter.com/KenSmith/status/1510577457979662339\">says</a> Twitter is anti-writer. Hmm. Interesting thought.",
-                "created": "Sun, 03 Apr 2022 13:52:15 GMT",
+                "text": "I uploaded two more of the early Lydon podcast interviews to YouTube this morning: <a href=\"https://www.youtube.com/watch?v=ITwEMOGdPsg\">Jim Behrle</a> and <a href=\"https://www.youtube.com/watch?v=DDVdiEz0WE0\">Eugene Volokh</a>. It's a bit of a slog. The next podcast has three parts, which means I guess that they have to be merged somehow into a single video.",
+                "created": "Sat, 11 Jun 2022 14:08:13 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/03.html#a135215"
+                "permalink": "http://scripting.com/2022/06/11.html#a140813"
             }
         },
         {
-            "description": "One  of  these  decades  the tech industry is going to grow the fuck up and stop insisting on being the boy wonder and respect what has been accomplished before they showed up. Then we won’t have to constantly be retooling and ripping up the pavement and starting over.",
-            "pubDate": "2022-04-03T13:51:50.000Z",
-            "link": "http://scripting.com/2022/04/03.html#a135150",
-            "guid": "http://scripting.com/2022/04/03.html#a135150",
+            "title": "Jack, let the hostage go",
+            "description": "<p>I think capitalism, practiced honorably, is great. You make a product, convince people to buy it, make a profit, attain financial security, live well from a material standpoint. Good for you. But some of the most successful people in business don't stop there, they seem to get a thrill from destroying things for profit, especially it seems, things that don't belong to them. </p>\n<p>A great example, the oil companies. They sell a product they know makes our planet uninhabitable. Eventually it will fall to all of us to clean up after them, but also thanks to them, not before lots of people die and our quality of life is dramatically downgraded. That's just one example. </p>\n<p>And now a very successful tech entrepreneur, Jack Dorsey, a man who has made billions, and until now has had a reputation for caring about the impact of his creations on the rest of the world, has taken something that is not his, the idea of an open web that belongs to everyone, that is the actual technology that made it possible for him to be so successful. Instead of giving back, he proposes to dismember it, deposit what's left in his bank account, and build something in its place that of course is designed to make him even richer, and have more control, while saying it will do the opposite. </p>\n<p>I never have understood why people who have made billions want more. It can't possibly do anything for them. They aren't smart enough to run the world, no one is -- I don't care how lucky you got, or how competitive, hard-working, even brilliant. No one is so smart that they can plan on a world scale how technology will work in the future. We can all put our ideas out there and let them mix with other people's and hope there are enough people who want to work with others (as opposed to destroying them) to actually do something good at a large scale. That's as good as it gets. There is no example in our past, when tech was much simpler, of a human who did anything more than add an idea or two to the mix. </p>\n<p>So please Jack Dorsey, stop pretending you have invented the next web. No one knows if what you have invented, if you actually have invented anything, will be any good. It certainly doesn't deserve the name of the one technology that got us past all the greed and arrogance of previous generations of tech gods. Back off. I'll help you find a great name for what you're doing, and maybe we can even help each other create more useful tech. Maybe you can start listening more and stop looking inside yourself for all the answers. </p>",
+            "pubDate": "2022-06-11T14:42:29.000Z",
+            "link": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo",
+            "guid": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo",
             "outline": {
-                "text": "One  of  these  decades  the tech industry is going to grow the fuck up and stop insisting on being the boy wonder and respect what has been accomplished before they showed up. Then we won’t have to constantly be retooling and ripping up the pavement and starting over.",
-                "created": "Sun, 03 Apr 2022 13:51:50 GMT",
+                "text": "Jack, let the hostage go",
+                "created": "Sat, 11 Jun 2022 14:42:29 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/03.html#a135150"
-            }
-        },
-        {
-            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2022/04/03/mii.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I am soooo glad that <a href=\"https://nintendoswitchsports.nintendo.com/?cid=N1101-01:ch=pdpd\">sports</a> are coming to the <a href=\"https://en.wikipedia.org/wiki/Nintendo_Switch\">Nintendo Switch</a>. Now I will use mine. I thought they would, of course, have ported <a href=\"https://en.wikipedia.org/wiki/Wii_Sports\">Wii Sports</a> to the Switch as the first thing. Kind of like MacWrite and MacPaint. I never bought any other software for my Wii. The fact that I could play tennis in my living room, or golf or go bowling -- that's all I ever wanted. I imagine the new Sports will do a bunch of things the original couldn't, they've had fourteen years to work on it.",
-            "pubDate": "2022-04-03T13:35:16.000Z",
-            "link": "http://scripting.com/2022/04/03.html#a133516",
-            "guid": "http://scripting.com/2022/04/03.html#a133516",
-            "outline": {
-                "text": "I am soooo glad that <a href=\"https://nintendoswitchsports.nintendo.com/?cid=N1101-01:ch=pdpd\">sports</a> are coming to the <a href=\"https://en.wikipedia.org/wiki/Nintendo_Switch\">Nintendo Switch</a>. Now I will use mine. I thought they would, of course, have ported <a href=\"https://en.wikipedia.org/wiki/Wii_Sports\">Wii Sports</a> to the Switch as the first thing. Kind of like MacWrite and MacPaint. I never bought any other software for my Wii. The fact that I could play tennis in my living room, or golf or go bowling -- that's all I ever wanted. I imagine the new Sports will do a bunch of things the original couldn't, they've had fourteen years to work on it.",
-                "created": "Sun, 03 Apr 2022 13:35:16 GMT",
-                "type": "outline",
-                "image": "http://scripting.com/images/2022/04/03/mii.png",
-                "permalink": "http://scripting.com/2022/04/03.html#a133516"
-            }
-        },
-        {
-            "description": "I'm working on a piece of software built around a single closure. The data type that's at the center of the user experience. When you create it as a closure, it is very easy to tweak it up. Every instance of a closure is a little world unto itself. You have to set up protocols for the outside world to speak to the object. That's good because there can't be any other interactions. When debugging you just have to look there. And when there are no deeply hidden bugs, its deliciously easy to work on. But when you type <code>[feedItem, theFeed]</code> when you really meant <code>{feedItem, theFeed}</code>, and your eyes are imperfect as mine are, and you tend to see what you expect to see in debugging, and miss the little subtle mistakes. Whether you use square or curly brackets makes all the difference in the world. It can turn rich structures into <code>undefined</code>. And all the debugging code in the world doesn't help until you see the square brackets are where there should be curly ones. I think this is a lot like Wordle. The pattern has to be seen by the subconscious. You don't move on until you've solved the problem. But unlike Wordle you get as many tries as it takes.",
-            "pubDate": "2022-04-03T13:28:38.000Z",
-            "link": "http://scripting.com/2022/04/03.html#a132838",
-            "guid": "http://scripting.com/2022/04/03.html#a132838",
-            "outline": {
-                "text": "I'm working on a piece of software built around a single closure. The data type that's at the center of the user experience. When you create it as a closure, it is very easy to tweak it up. Every instance of a closure is a little world unto itself. You have to set up protocols for the outside world to speak to the object. That's good because there can't be any other interactions. When debugging you just have to look there. And when there are no deeply hidden bugs, its deliciously easy to work on. But when you type <code>[feedItem, theFeed]</code> when you really meant <code>{feedItem, theFeed}</code>, and your eyes are imperfect as mine are, and you tend to see what you expect to see in debugging, and miss the little subtle mistakes. Whether you use square or curly brackets makes all the difference in the world. It can turn rich structures into <code>undefined</code>. And all the debugging code in the world doesn't help until you see the square brackets are where there should be curly ones. I think this is a lot like Wordle. The pattern has to be seen by the subconscious. You don't move on until you've solved the problem. But unlike Wordle you get as many tries as it takes.",
-                "created": "Sun, 03 Apr 2022 13:28:38 GMT",
-                "type": "outline",
-                "permalink": "http://scripting.com/2022/04/03.html#a132838"
-            }
-        },
-        {
-            "description": "BTW, written explanations of <a href=\"https://en.wikipedia.org/wiki/Closure_(computer_programming)\">closures</a> always read like gobbledygook. Here's what I would say. A closure is an <i>instance</i> of a function, as opposed to a <i>call</i> to a function, but they start life as a call. If when you call the function, it still has work to do, in the form of local functions that run every second or minute, for example, or to respond to messages from the outside, such as a click on an object it created (and is linked into the DOM), or an HTTP request, then all its data sticks around. And it's private to the function, no one else can get at it. That helps you keep the overall program simpler, there are fewer things that can go wrong.  Now as I read this I'm not sure I got it, but it's close. I guess the thing is I've never written an interpreter for a language that has closures. In my experience that's when you really understand a piece of machinery, when it stops being magic -- when you've implemented it.",
-            "pubDate": "2022-04-03T13:44:25.000Z",
-            "link": "http://scripting.com/2022/04/03.html#a134425",
-            "guid": "http://scripting.com/2022/04/03.html#a134425",
-            "outline": {
-                "text": "BTW, written explanations of <a href=\"https://en.wikipedia.org/wiki/Closure_(computer_programming)\">closures</a> always read like gobbledygook. Here's what I would say. A closure is an <i>instance</i> of a function, as opposed to a <i>call</i> to a function, but they start life as a call. If when you call the function, it still has work to do, in the form of local functions that run every second or minute, for example, or to respond to messages from the outside, such as a click on an object it created (and is linked into the DOM), or an HTTP request, then all its data sticks around. And it's private to the function, no one else can get at it. That helps you keep the overall program simpler, there are fewer things that can go wrong.  Now as I read this I'm not sure I got it, but it's close. I guess the thing is I've never written an interpreter for a language that has closures. In my experience that's when you really understand a piece of machinery, when it stops being magic -- when you've implemented it.",
-                "created": "Sun, 03 Apr 2022 13:44:25 GMT",
-                "type": "outline",
-                "permalink": "http://scripting.com/2022/04/03.html#a134425"
-            }
-        },
-        {
-            "description": "A user said he’d be more inclined to use <a href=\"http://drummer.scripting.com/\">Drummer</a> if i planned for it to continue to work after I stop working. First, yes I did plan the best I could. All your files are in an <a href=\"http://opml.org/\">open format</a> which can be read by most outliners. You can easily and quickly download all your files with a <a href=\"http://docserver.scripting.com/drummer/general.opml#1634478289000\">single command</a>. You should do it frequently. If you want Drummer to keep going, help out next time there are new features, get involved in testing. Anyone can do it. It should be possible for me to introduce a new fix or feature and find out if there are any problems within a few hours. That's what the process needs from users, at least to be somewhat viable going forward.",
-            "pubDate": "2022-04-02T17:52:47.000Z",
-            "link": "http://scripting.com/2022/04/02.html#a175247",
-            "guid": "http://scripting.com/2022/04/02.html#a175247",
-            "outline": {
-                "text": "A user said he’d be more inclined to use <a href=\"http://drummer.scripting.com/\">Drummer</a> if i planned for it to continue to work after I stop working. First, yes I did plan the best I could. All your files are in an <a href=\"http://opml.org/\">open format</a> which can be read by most outliners. You can easily and quickly download all your files with a <a href=\"http://docserver.scripting.com/drummer/general.opml#1634478289000\">single command</a>. You should do it frequently. If you want Drummer to keep going, help out next time there are new features, get involved in testing. Anyone can do it. It should be possible for me to introduce a new fix or feature and find out if there are any problems within a few hours. That's what the process needs from users, at least to be somewhat viable going forward.",
-                "created": "Sat, 02 Apr 2022 17:52:47 GMT",
-                "type": "outline",
-                "permalink": "http://scripting.com/2022/04/02.html#a175247"
-            }
-        },
-        {
-            "description": "One of the streaming entertainment services should have a user interface like <a href=\"https://www.metacritic.com/\">MetaCritic</a>.",
-            "pubDate": "2022-04-02T14:14:34.000Z",
-            "link": "http://scripting.com/2022/04/02.html#a141434",
-            "guid": "http://scripting.com/2022/04/02.html#a141434",
-            "outline": {
-                "text": "One of the streaming entertainment services should have a user interface like <a href=\"https://www.metacritic.com/\">MetaCritic</a>.",
-                "created": "Sat, 02 Apr 2022 14:14:34 GMT",
-                "type": "outline",
-                "permalink": "http://scripting.com/2022/04/02.html#a141434"
-            }
-        },
-        {
-            "title": "Today's Wordle",
-            "description": "<p>I sat down at the breakfast table to solve the <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> puzzle for the day. I was sad to solve it in less than a minute. Now what to do? Guess I have to get to work! </p>\n<p>BTW -- I find that only my subconscious mind can solve the puzzle, to actually see the solution. I can analytically arrange for the clues to be available to my subconsciousl but the word pops into my conscious mind in an instant. I have no awareness of the process.</p>\n<p>Usually I'm sure when I have the answer. Today I wasn't even sure the correct word was actually a word! What a nice surprise when all five letters came up green and then did their <a href=\"https://www.youtube.com/watch?v=bdSa5kJb-yw\">little dance</a>. </p>\n<p><img src=\"http://scripting.com/images/2022/04/02/wordle.png\"></p>",
-            "pubDate": "2022-04-02T12:50:42.000Z",
-            "link": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle",
-            "guid": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle",
-            "outline": {
-                "text": "Today's Wordle",
-                "created": "Sat, 02 Apr 2022 12:50:42 GMT",
-                "type": "outline",
-                "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle",
+                "description": "Jack Dorsey, stop pretending you have invented the next web.",
+                "metaimage": "http://scripting.com/images/2022/06/11/mountOlympus.png",
+                "permalink": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo",
                 "subs": [
                     {
-                        "text": "I sat down at the breakfast table to solve the <a href=\"http://daytona.scripting.com/?q=wordle&collection=scriptingnews\">Wordle</a> puzzle for the day. I was sad to solve it in less than a minute. Now what to do? Guess I have to get to work!",
-                        "created": "Sat, 02 Apr 2022 12:50:46 GMT",
-                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125046"
+                        "text": "I think capitalism, practiced honorably, is great. You make a product, convince people to buy it, make a profit, attain financial security, live well from a material standpoint. Good for you. But some of the most successful people in business don't stop there, they seem to get a thrill from destroying things for profit, especially it seems, things that don't belong to them.",
+                        "created": "Sat, 11 Jun 2022 14:33:48 GMT",
+                        "permalink": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo#a143348"
                     },
                     {
-                        "text": "BTW -- I find that only my subconscious mind can solve the puzzle, to actually see the solution. I can analytically arrange for the clues to be available to my subconsciousl but the word pops into my conscious mind in an instant. I have no awareness of the process.",
-                        "created": "Sat, 02 Apr 2022 12:51:36 GMT",
-                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125136"
+                        "text": "A great example, the oil companies. They sell a product they know makes our planet uninhabitable. Eventually it will fall to all of us to clean up after them, but also thanks to them, not before lots of people die and our quality of life is dramatically downgraded. That's just one example.",
+                        "created": "Sat, 11 Jun 2022 14:43:31 GMT",
+                        "permalink": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo#a144331"
                     },
                     {
-                        "text": "Usually I'm sure when I have the answer. Today I wasn't even sure the correct word was actually a word! What a nice surprise when all five letters came up green and then did their <a href=\"https://www.youtube.com/watch?v=bdSa5kJb-yw\">little dance</a>.",
-                        "created": "Sat, 02 Apr 2022 12:52:12 GMT",
-                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125212"
+                        "text": "And now a very successful tech entrepreneur, Jack Dorsey, a man who has made billions, and until now has had a reputation for caring about the impact of his creations on the rest of the world, has taken something that is not his, the idea of an open web that belongs to everyone, that is the actual technology that made it possible for him to be so successful. Instead of giving back, he proposes to dismember it, deposit what's left in his bank account, and build something in its place that of course is designed to make him even richer, and have more control, while saying it will do the opposite.",
+                        "created": "Sat, 11 Jun 2022 14:44:12 GMT",
+                        "permalink": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo#a144412"
                     },
                     {
-                        "text": "<img src=\"http://scripting.com/images/2022/04/02/wordle.png\">",
-                        "created": "Sat, 02 Apr 2022 12:53:19 GMT",
-                        "permalink": "http://scripting.com/2022/04/02/125042.html?title=todaysWordle#a125319"
+                        "text": "I never have understood why people who have made billions want more. It can't possibly do anything for them. They aren't smart enough to run the world, no one is -- I don't care how lucky you got, or how competitive, hard-working, even brilliant. No one is so smart that they can plan on a world scale how technology will work in the future. We can all put our ideas out there and let them mix with other people's and hope there are enough people who want to work with others (as opposed to destroying them) to actually do something good at a large scale. That's as good as it gets. There is no example in our past, when tech was much simpler, of a human who did anything more than add an idea or two to the mix.",
+                        "created": "Sat, 11 Jun 2022 14:45:16 GMT",
+                        "permalink": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo#a144516"
+                    },
+                    {
+                        "text": "So please Jack Dorsey, stop pretending you have invented the next web. No one knows if what you have invented, if you actually have invented anything, will be any good. It certainly doesn't deserve the name of the one technology that got us past all the greed and arrogance of previous generations of tech gods. Back off. I'll help you find a great name for what you're doing, and maybe we can even help each other create more useful tech. Maybe you can start listening more and stop looking inside yourself for all the answers.",
+                        "created": "Sat, 11 Jun 2022 14:46:23 GMT",
+                        "permalink": "http://scripting.com/2022/06/11/144229.html?title=jackLetTheHostageGo#a144623"
                     }
                 ]
             }
         },
         {
-            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2021/08/27/businessmanWithAGun.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I hate April 1 on the web and esp in news orgs, whose <i>business</i> is posting stuff that's true. I tend to take things literally as I read them, and puzzle my way through strange news, until it hits that I've been burned. I waste a fair amount of time on April 1 wading through this nonsense. The only thing you can do is let people know in advance that if they troll you with one of these things, if it's on a system where I can block you, that's what I do. If it's a news org, I try to remember never to trust anything they write, because they clearly have no respect for their own mission. So I posted a <a href=\"https://www.facebook.com/dave.winer.12/posts/1729710617236336?comment_id=1729845797222818\">message</a> on <a href=\"http://scripting.com/images/2022/04/01/fbwarningaboutapril1garbage.png\">FB</a> and <a href=\"https://twitter.com/davewiner/status/1509848417098518534\">Twitter</a> establishing this rule, and wouldn't you know it, some people actually post \"jokes\" there. Mostly it's harrassment. Bitterness I guess. They don't like life, so they drop little turds on message threads to get attention. Yes I block them. Yes, it's tiresome. There is a certain amount of overhead to maintaining one's integrity. If you say you're going to block someone, you have to actually do it. Kind of like the <a href=\"https://www.youtube.com/watch?v=oGfvV3Syud8\">second to last scene</a> in <a href=\"https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)\">No Country for Old Men</a>, if you remember it.  I got here the <a href=\"http://scripting.com/images/2022/04/01/gotHereTheSameWayTheCoinDid.png\">same way</a> the coin did. Gotta do what I gotta do.",
-            "pubDate": "2022-04-01T16:55:52.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a165552",
-            "guid": "http://scripting.com/2022/04/01.html#a165552",
+            "description": "Early podcasts on YouTube? <a href=\"https://www.youtube.com/watch?v=yZoUers8RwM\">This is an experiment</a>. I used an <a href=\"https://tovid.io/\">online tool</a> to convert the MP3 for a podcast interview Chris Lydon did in July 2003, with me -- to a video, I'm not sure if they added any advertising to it, so I'm posting it here for people to listen to and get feedback on, before proceeding with the rest.",
+            "pubDate": "2022-06-10T16:46:35.000Z",
+            "link": "http://scripting.com/2022/06/10.html#a164635",
+            "guid": "http://scripting.com/2022/06/10.html#a164635",
             "outline": {
-                "text": "I hate April 1 on the web and esp in news orgs, whose <i>business</i> is posting stuff that's true. I tend to take things literally as I read them, and puzzle my way through strange news, until it hits that I've been burned. I waste a fair amount of time on April 1 wading through this nonsense. The only thing you can do is let people know in advance that if they troll you with one of these things, if it's on a system where I can block you, that's what I do. If it's a news org, I try to remember never to trust anything they write, because they clearly have no respect for their own mission. So I posted a <a href=\"https://www.facebook.com/dave.winer.12/posts/1729710617236336?comment_id=1729845797222818\">message</a> on <a href=\"http://scripting.com/images/2022/04/01/fbwarningaboutapril1garbage.png\">FB</a> and <a href=\"https://twitter.com/davewiner/status/1509848417098518534\">Twitter</a> establishing this rule, and wouldn't you know it, some people actually post \"jokes\" there. Mostly it's harrassment. Bitterness I guess. They don't like life, so they drop little turds on message threads to get attention. Yes I block them. Yes, it's tiresome. There is a certain amount of overhead to maintaining one's integrity. If you say you're going to block someone, you have to actually do it. Kind of like the <a href=\"https://www.youtube.com/watch?v=oGfvV3Syud8\">second to last scene</a> in <a href=\"https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)\">No Country for Old Men</a>, if you remember it.  I got here the <a href=\"http://scripting.com/images/2022/04/01/gotHereTheSameWayTheCoinDid.png\">same way</a> the coin did. Gotta do what I gotta do.",
-                "created": "Fri, 01 Apr 2022 16:55:52 GMT",
+                "text": "Early podcasts on YouTube? <a href=\"https://www.youtube.com/watch?v=yZoUers8RwM\">This is an experiment</a>. I used an <a href=\"https://tovid.io/\">online tool</a> to convert the MP3 for a podcast interview Chris Lydon did in July 2003, with me -- to a video, I'm not sure if they added any advertising to it, so I'm posting it here for people to listen to and get feedback on, before proceeding with the rest.",
+                "created": "Fri, 10 Jun 2022 16:46:35 GMT",
                 "type": "outline",
-                "image": "http://scripting.com/images/2021/08/27/businessmanWithAGun.png",
-                "permalink": "http://scripting.com/2022/04/01.html#a165552"
+                "urlvideo": "https://www.youtube.com/watch?v=yZoUers8RwM",
+                "permalink": "http://scripting.com/2022/06/10.html#a164635"
             }
         },
         {
-            "description": "I love <a href=\"https://en.wikipedia.org/wiki/Dickinson_(TV_series)\">Dickinson</a> on AppleTV+.",
-            "pubDate": "2022-04-01T20:53:09.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a205309",
-            "guid": "http://scripting.com/2022/04/01.html#a205309",
+            "description": "Hey the January 6 committee is <a href=\"https://twitter.com/January6thCmte/status/1535082372030414861\">using Twitter</a> in a smart way.",
+            "pubDate": "2022-06-10T15:45:48.000Z",
+            "link": "http://scripting.com/2022/06/10.html#a154548",
+            "guid": "http://scripting.com/2022/06/10.html#a154548",
             "outline": {
-                "text": "I love <a href=\"https://en.wikipedia.org/wiki/Dickinson_(TV_series)\">Dickinson</a> on AppleTV+.",
-                "created": "Fri, 01 Apr 2022 20:53:09 GMT",
+                "text": "Hey the January 6 committee is <a href=\"https://twitter.com/January6thCmte/status/1535082372030414861\">using Twitter</a> in a smart way.",
+                "created": "Fri, 10 Jun 2022 15:45:48 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/01.html#a205309"
+                "urltweet": "https://twitter.com/January6thCmte/status/1535082372030414861",
+                "permalink": "http://scripting.com/2022/06/10.html#a154548"
             }
         },
         {
-            "description": "How does the market feel about a <a href=\"https://twitter.com/Twitter/status/1509951255388504066\">public company</a> making forward-looking April Fool jokes?",
-            "pubDate": "2022-04-01T20:50:08.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a205008",
-            "guid": "http://scripting.com/2022/04/01.html#a205008",
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2022/06/09/sanders.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I'm happy to report that finally there's a reasonable app running at <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">xmlviewer.scripting.com</a>. I used the <a href=\"https://ace.c9.io/\">Ace Editor</a> in read-only mode to view the contents of the XML file provided as the <i>url</i> parameter. If no URL is provided I show the <a href=\"http://scripting.com/rss.xml\">RSS feed</a> for Scripting News (my blog). There are still a couple of problems, at least, with the vertical and horizontal scrollbars. Ace has a great community and everything in the software is configurable, but I've had trouble at times putting it all together. I'll swing back to this at some point, but in the meantime what's <a href=\"http://scripting.com/images/2022/06/09/xmlViewerToday.png\">there now</a> is far more useful that what's been there <a href=\"http://scripting.com/stories/2011/02/25/viewingRssInABrowser.html\">since 2011</a>.",
+            "pubDate": "2022-06-09T17:07:27.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a170727",
+            "guid": "http://scripting.com/2022/06/09.html#a170727",
             "outline": {
-                "text": "How does the market feel about a <a href=\"https://twitter.com/Twitter/status/1509951255388504066\">public company</a> making forward-looking April Fool jokes?",
-                "created": "Fri, 01 Apr 2022 20:50:08 GMT",
+                "text": "I'm happy to report that finally there's a reasonable app running at <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">xmlviewer.scripting.com</a>. I used the <a href=\"https://ace.c9.io/\">Ace Editor</a> in read-only mode to view the contents of the XML file provided as the <i>url</i> parameter. If no URL is provided I show the <a href=\"http://scripting.com/rss.xml\">RSS feed</a> for Scripting News (my blog). There are still a couple of problems, at least, with the vertical and horizontal scrollbars. Ace has a great community and everything in the software is configurable, but I've had trouble at times putting it all together. I'll swing back to this at some point, but in the meantime what's <a href=\"http://scripting.com/images/2022/06/09/xmlViewerToday.png\">there now</a> is far more useful that what's been there <a href=\"http://scripting.com/stories/2011/02/25/viewingRssInABrowser.html\">since 2011</a>.",
+                "created": "Thu, 09 Jun 2022 17:07:27 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/01.html#a205008"
+                "image": "http://scripting.com/images/2022/06/09/sanders.png",
+                "permalink": "http://scripting.com/2022/06/09.html#a170727"
             }
         },
         {
-            "description": "I end all my Peloton workouts, while I do a few cool-down laps, with two songs. <a href=\"https://www.youtube.com/watch?v=azdwsXLmrHE\">Radio Gaga</a> and <a href=\"https://www.youtube.com/watch?v=t1Jm5epJr10\">I Am The Walrus</a>. They're my reward for taking care of myself, which is of course its own reward.",
-            "pubDate": "2022-04-01T20:46:27.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a204627",
-            "guid": "http://scripting.com/2022/04/01.html#a204627",
+            "description": "BTW, for comparison, this is <a href=\"http://scripting.com/images/2022/06/09/chromeManglesMyBeautifulRssFeed.png\">how Chrome mangles</a> my beautiful RSS feed. Remember this next time you get excited when a big tech company decides to love something you built. Not only do they chop off the last 23 posts, and complain how there are no titles on the items, but they also suggest I subscribe to this feed in <a href=\"https://en.wikipedia.org/wiki/Bloglines\">Bloglines</a>, which has been defunct for (according to Wikipedia) <i>eight years.</i> There are some things big companies do well, caring for things like RSS is not one of them.",
+            "pubDate": "2022-06-09T17:20:56.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a172056",
+            "guid": "http://scripting.com/2022/06/09.html#a172056",
             "outline": {
-                "text": "I end all my Peloton workouts, while I do a few cool-down laps, with two songs. <a href=\"https://www.youtube.com/watch?v=azdwsXLmrHE\">Radio Gaga</a> and <a href=\"https://www.youtube.com/watch?v=t1Jm5epJr10\">I Am The Walrus</a>. They're my reward for taking care of myself, which is of course its own reward.",
-                "created": "Fri, 01 Apr 2022 20:46:27 GMT",
+                "text": "BTW, for comparison, this is <a href=\"http://scripting.com/images/2022/06/09/chromeManglesMyBeautifulRssFeed.png\">how Chrome mangles</a> my beautiful RSS feed. Remember this next time you get excited when a big tech company decides to love something you built. Not only do they chop off the last 23 posts, and complain how there are no titles on the items, but they also suggest I subscribe to this feed in <a href=\"https://en.wikipedia.org/wiki/Bloglines\">Bloglines</a>, which has been defunct for (according to Wikipedia) <i>eight years.</i> There are some things big companies do well, caring for things like RSS is not one of them.",
+                "created": "Thu, 09 Jun 2022 17:20:56 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/01.html#a204627"
+                "permalink": "http://scripting.com/2022/06/09.html#a172056"
             }
         },
         {
-            "description": "I heard a BBC reporter ask a Ukrainian official if they would attack Russian military in Russia. What kind of question is that. Of course they would. It's a war. Russia attacked Ukraine. All of Russia is a fair target for the Ukraine military.",
-            "pubDate": "2022-04-01T13:32:53.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a133253",
-            "guid": "http://scripting.com/2022/04/01.html#a133253",
+            "description": "BTW, none of this would've been necessary if the browser devs had been willing to work with me, but that's been the story of <a href=\"http://cyber.law.harvard.edu/rss/rss.html\" title=\"The official RSS 2.0 spec.\">RSS</a> -- people blazing their own trails for no good reason or possible gain instead of cooperating. What I'm doing now in 2022, <a href=\"http://scripting.com/2002/09.html#When:10:25:22AM\">almost twenty years</a> after RSS 2.0, is cleaning up the messes, the best I can. I figure after 20 years no one can complain that they were going to do it if I had just waited. <span class=\"spOldSchoolEmoji\">😄</span>",
+            "pubDate": "2022-06-09T17:15:54.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a171554",
+            "guid": "http://scripting.com/2022/06/09.html#a171554",
             "outline": {
-                "text": "I heard a BBC reporter ask a Ukrainian official if they would attack Russian military in Russia. What kind of question is that. Of course they would. It's a war. Russia attacked Ukraine. All of Russia is a fair target for the Ukraine military.",
-                "created": "Fri, 01 Apr 2022 13:32:53 GMT",
+                "text": "BTW, none of this would've been necessary if the browser devs had been willing to work with me, but that's been the story of <a href=\"http://cyber.law.harvard.edu/rss/rss.html\" title=\"The official RSS 2.0 spec.\">RSS</a> -- people blazing their own trails for no good reason or possible gain instead of cooperating. What I'm doing now in 2022, <a href=\"http://scripting.com/2002/09.html#When:10:25:22AM\">almost twenty years</a> after RSS 2.0, is cleaning up the messes, the best I can. I figure after 20 years no one can complain that they were going to do it if I had just waited. <span class=\"spOldSchoolEmoji\">😄</span>",
+                "created": "Thu, 09 Jun 2022 17:15:54 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/01.html#a133253"
+                "permalink": "http://scripting.com/2022/06/09.html#a171554"
             }
         },
         {
-            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2021/09/17/simpsonsBeeGuy.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">There are too many niches in tech. Niches are defended by lack of interop. You can see categories being born with limited interop, features vendors can say deliver interop, it would be hard to argue, but they don't deliver much practical interop for users. That's why the tech industry was so ho-hum about RSS. Where's the fun for them if they can't lock users into a niche product and then another and another? As a technologist, what gets me excited about computer networks are all the combinations users can make, but that works only if there's <i>lots</i> of interop.",
-            "pubDate": "2022-04-01T14:01:37.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a140137",
-            "guid": "http://scripting.com/2022/04/01.html#a140137",
+            "description": "<a href=\"https://sports.yahoo.com/nba-finals-injured-steph-curry-and-ineffective-draymond-green-key-to-warriors-title-hopes-071015373.html\">Draymond Green’s</a> <a href=\"https://www.boston.com/sports/boston-celtics/2022/06/06/jaylen-brown-draymond-green-foul-celtics-warriors-game-2-nba-finals/\">nasty</a> behavior is cover for the fact that he’s all his team has for defense, and he’s basically a grouchy asshole with a big mouth.",
+            "pubDate": "2022-06-09T15:44:33.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a154433",
+            "guid": "http://scripting.com/2022/06/09.html#a154433",
             "outline": {
-                "text": "There are too many niches in tech. Niches are defended by lack of interop. You can see categories being born with limited interop, features vendors can say deliver interop, it would be hard to argue, but they don't deliver much practical interop for users. That's why the tech industry was so ho-hum about RSS. Where's the fun for them if they can't lock users into a niche product and then another and another? As a technologist, what gets me excited about computer networks are all the combinations users can make, but that works only if there's <i>lots</i> of interop.",
-                "created": "Fri, 01 Apr 2022 14:01:37 GMT",
+                "text": "<a href=\"https://sports.yahoo.com/nba-finals-injured-steph-curry-and-ineffective-draymond-green-key-to-warriors-title-hopes-071015373.html\">Draymond Green’s</a> <a href=\"https://www.boston.com/sports/boston-celtics/2022/06/06/jaylen-brown-draymond-green-foul-celtics-warriors-game-2-nba-finals/\">nasty</a> behavior is cover for the fact that he’s all his team has for defense, and he’s basically a grouchy asshole with a big mouth.",
+                "created": "Thu, 09 Jun 2022 15:44:33 GMT",
                 "type": "outline",
-                "image": "http://scripting.com/images/2021/09/17/simpsonsBeeGuy.png",
-                "permalink": "http://scripting.com/2022/04/01.html#a140137"
+                "permalink": "http://scripting.com/2022/06/09.html#a154433"
             }
         },
         {
-            "description": "Welcome to the month of April. The usual <a href=\"http://scripting.com/2022/03/01/134432.html?title=theMonthlyRitual\">monthly rollover</a> is done. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/03.opml\">archive</a> for March.",
-            "pubDate": "2022-04-01T13:21:41.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a132141",
-            "guid": "http://scripting.com/2022/04/01.html#a132141",
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2019/09/01/pumpItUp.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I like Amazon Music. I tried Spotify, but I don't like how they're taking the word <i>podcast</i> and trying to turn it into nothing, the usual thing about big shitty tech companies, they consume good things and leave a wreck behind like Google did to <a href=\"http://cyber.law.harvard.edu/rss/rss.html\" title=\"The official RSS 2.0 spec.\">RSS</a> and is trying to do to the web), so I'm sticking with Amazon (they're doing it too, but for some reason it doesn't bother me as much, I know it makes no sense). It just struck me that these music services are <i>better</i> than <a href=\"http://daytona.scripting.com/?q=napster&collection=scriptingnews\">Napster</a>, a lot better, and I found Napster to be one of the most empowering software products ever. In 2000, I was 45 years old, and had spent my life up to then unable to program music for myself. I couldn't afford to buy all the music I wanted, there was no software I could command to get me the song I wanted to listen to now. I knew I was cheating with Napster, but the music industry wasn't selling this product, and the music meant so much to me, I had to find out what that was. Now, 22 years later, they have managed to give me <i>more</i> than what I wanted in 2000, at a reasonable price. Just wanted to say that I'm glad this loop is closed. I feel sad for people who never got to experience programming their own music. But I'm glad that I did. <span class=\"spOldSchoolEmoji\">💥</span>",
+            "pubDate": "2022-06-09T21:21:28.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a212128",
+            "guid": "http://scripting.com/2022/06/09.html#a212128",
             "outline": {
-                "text": "Welcome to the month of April. The usual <a href=\"http://scripting.com/2022/03/01/134432.html?title=theMonthlyRitual\">monthly rollover</a> is done. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/03.opml\">archive</a> for March.",
-                "created": "Fri, 01 Apr 2022 13:21:41 GMT",
+                "text": "I like Amazon Music. I tried Spotify, but I don't like how they're taking the word <i>podcast</i> and trying to turn it into nothing, the usual thing about big shitty tech companies, they consume good things and leave a wreck behind like Google did to <a href=\"http://cyber.law.harvard.edu/rss/rss.html\" title=\"The official RSS 2.0 spec.\">RSS</a> and is trying to do to the web), so I'm sticking with Amazon (they're doing it too, but for some reason it doesn't bother me as much, I know it makes no sense). It just struck me that these music services are <i>better</i> than <a href=\"http://daytona.scripting.com/?q=napster&collection=scriptingnews\">Napster</a>, a lot better, and I found Napster to be one of the most empowering software products ever. In 2000, I was 45 years old, and had spent my life up to then unable to program music for myself. I couldn't afford to buy all the music I wanted, there was no software I could command to get me the song I wanted to listen to now. I knew I was cheating with Napster, but the music industry wasn't selling this product, and the music meant so much to me, I had to find out what that was. Now, 22 years later, they have managed to give me <i>more</i> than what I wanted in 2000, at a reasonable price. Just wanted to say that I'm glad this loop is closed. I feel sad for people who never got to experience programming their own music. But I'm glad that I did. <span class=\"spOldSchoolEmoji\">💥</span>",
+                "created": "Thu, 09 Jun 2022 21:21:28 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/01.html#a132141"
+                "image": "http://scripting.com/images/2019/09/01/pumpItUp.png",
+                "permalink": "http://scripting.com/2022/06/09.html#a212128"
             }
         },
         {
-            "description": "<img src=\"http://scripting.com/images/2022/04/01/wordle.png\">",
-            "pubDate": "2022-04-01T13:27:19.000Z",
-            "link": "http://scripting.com/2022/04/01.html#a132719",
-            "guid": "http://scripting.com/2022/04/01.html#a132719",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/George_Martin\">George Martin</a> was a Beatle and should be credited as such. Ever since <a href=\"https://en.wikipedia.org/wiki/The_Beatles:_Get_Back\">Get Back</a> came out, I've been seeking out Beatles experiences, and there's a huge difference between the music of John, Paul, George and Ringo before and after the breakup, and the biggest difference imho is what Martin added. There's a depth and beauty to Beatles music that none of the Fab Four had after the break. Listen to a Lennon song on Abbey Road, <a href=\"https://www.youtube.com/watch?v=45cYwDMibGo\">Come Together</a>, and compare it to <a href=\"https://www.youtube.com/watch?v=YkgkThdzX-8\">Imagine</a>. Both are great songs, some of the best music ever created. But there's a depth to <a href=\"https://en.wikipedia.org/wiki/Come_Together\">Come Together</a> that just isn't there in <a href=\"https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)\">Imagine</a>. That's Martin.",
+            "pubDate": "2022-06-09T21:30:36.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a213036",
+            "guid": "http://scripting.com/2022/06/09.html#a213036",
             "outline": {
-                "text": "<img src=\"http://scripting.com/images/2022/04/01/wordle.png\">",
-                "created": "Fri, 01 Apr 2022 13:27:19 GMT",
+                "text": "<a href=\"https://en.wikipedia.org/wiki/George_Martin\">George Martin</a> was a Beatle and should be credited as such. Ever since <a href=\"https://en.wikipedia.org/wiki/The_Beatles:_Get_Back\">Get Back</a> came out, I've been seeking out Beatles experiences, and there's a huge difference between the music of John, Paul, George and Ringo before and after the breakup, and the biggest difference imho is what Martin added. There's a depth and beauty to Beatles music that none of the Fab Four had after the break. Listen to a Lennon song on Abbey Road, <a href=\"https://www.youtube.com/watch?v=45cYwDMibGo\">Come Together</a>, and compare it to <a href=\"https://www.youtube.com/watch?v=YkgkThdzX-8\">Imagine</a>. Both are great songs, some of the best music ever created. But there's a depth to <a href=\"https://en.wikipedia.org/wiki/Come_Together\">Come Together</a> that just isn't there in <a href=\"https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)\">Imagine</a>. That's Martin.",
+                "created": "Thu, 09 Jun 2022 21:30:36 GMT",
                 "type": "outline",
-                "permalink": "http://scripting.com/2022/04/01.html#a132719"
+                "permalink": "http://scripting.com/2022/06/09.html#a213036"
+            }
+        },
+        {
+            "description": "If we can’t deal with $10 a gallon gas, how are we ever going to get out of the urgent climate hole we’re in.",
+            "pubDate": "2022-06-09T14:50:58.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a145058",
+            "guid": "http://scripting.com/2022/06/09.html#a145058",
+            "outline": {
+                "text": "If we can’t deal with $10 a gallon gas, how are we ever going to get out of the urgent climate hole we’re in.",
+                "created": "Thu, 09 Jun 2022 14:50:58 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/09.html#a145058"
+            }
+        },
+        {
+            "description": "Trump has as much grace as the <a href=\"https://www.youtube.com/watch?v=MbMFLDb3CbI\">boy king</a> in Game of Thrones.",
+            "pubDate": "2022-06-10T02:04:17.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a020417",
+            "guid": "http://scripting.com/2022/06/09.html#a020417",
+            "outline": {
+                "text": "Trump has as much grace as the <a href=\"https://www.youtube.com/watch?v=MbMFLDb3CbI\">boy king</a> in Game of Thrones.",
+                "created": "Fri, 10 Jun 2022 02:04:17 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/09.html#a020417"
+            }
+        },
+        {
+            "description": "<a href=\"https://www.salon.com/2022/06/08/mitch-mcconnell-demands-democrats-rush-to-pass-security-bill-to-protect-brett-kavanaugh/\">Send Kavanaugh</a> an AR-15, let him shoot it out with his would-be assassin. I thought that was the Republican Way.",
+            "pubDate": "2022-06-09T14:24:42.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a142442",
+            "guid": "http://scripting.com/2022/06/09.html#a142442",
+            "outline": {
+                "text": "<a href=\"https://www.salon.com/2022/06/08/mitch-mcconnell-demands-democrats-rush-to-pass-security-bill-to-protect-brett-kavanaugh/\">Send Kavanaugh</a> an AR-15, let him shoot it out with his would-be assassin. I thought that was the Republican Way.",
+                "created": "Thu, 09 Jun 2022 14:24:42 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/09.html#a142442"
+            }
+        },
+        {
+            "description": "I've <a href=\"https://github.com/scripting/Scripting-News/issues/234\">asked</a> about getting something like the code-displayer on GitHub to use in a package. I think I found one today, <a href=\"https://highlightjs.org/static/demo/\">highlight.js</a>. It's not exactly the style of the display on GitHub (<a href=\"https://github.com/scripting/tweets.opml.org/blob/main/users/davewiner/2022/06.json\">example</a>), but it does provide syntax coloring which is one of the basic features. I want it for an app I'm doing to display the result of converting an RSS feed to JSON. I want it to look good, for devs to immediately understand what they're looking at.",
+            "pubDate": "2022-06-09T14:10:39.000Z",
+            "link": "http://scripting.com/2022/06/09.html#a141039",
+            "guid": "http://scripting.com/2022/06/09.html#a141039",
+            "outline": {
+                "text": "I've <a href=\"https://github.com/scripting/Scripting-News/issues/234\">asked</a> about getting something like the code-displayer on GitHub to use in a package. I think I found one today, <a href=\"https://highlightjs.org/static/demo/\">highlight.js</a>. It's not exactly the style of the display on GitHub (<a href=\"https://github.com/scripting/tweets.opml.org/blob/main/users/davewiner/2022/06.json\">example</a>), but it does provide syntax coloring which is one of the basic features. I want it for an app I'm doing to display the result of converting an RSS feed to JSON. I want it to look good, for devs to immediately understand what they're looking at.",
+                "created": "Thu, 09 Jun 2022 14:10:39 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/09.html#a141039"
+            }
+        },
+        {
+            "description": "I asked Alexa to play some music. This is <a href=\"https://www.youtube.com/watch?v=fm-po_FUmvM\">what</a> she came up with. <span class=\"spOldSchoolEmoji\">💥</span>",
+            "pubDate": "2022-06-08T15:14:13.000Z",
+            "link": "http://scripting.com/2022/06/08.html#a151413",
+            "guid": "http://scripting.com/2022/06/08.html#a151413",
+            "outline": {
+                "text": "I asked Alexa to play some music. This is <a href=\"https://www.youtube.com/watch?v=fm-po_FUmvM\">what</a> she came up with. <span class=\"spOldSchoolEmoji\">💥</span>",
+                "created": "Wed, 08 Jun 2022 15:14:13 GMT",
+                "type": "outline",
+                "urlvideo": "https://www.youtube.com/watch?v=fm-po_FUmvM",
+                "permalink": "http://scripting.com/2022/06/08.html#a151413"
+            }
+        },
+        {
+            "title": "What is identity?",
+            "description": "<p>I use the term <i>identity</i> in docs and when writing about technology. </p>\n<p>But what does it mean? </p>\n<p>An identity is a virtual person that belongs to you. You can have lots of them. For example I am <i><a href=\"https://twitter.com/davewiner\">davewiner</a></i> on Twitter, or <i><a href=\"https://www.facebook.com/dave.winer.12/\">dave.winer.12</a></i> on Facebook, or <i><a href=\"https://github.com/scripting?tab=repositories\">scripting</a></i> on GitHub, which means I can create stuff under those names, in a way that (hopefully) only the real Dave Winer can edit.</p>\n<p>It's possible to use your identity from one system on others. When I say \"Drummer uses Twitter for identity,\" I'm just saying that rather than invent a new name here, we're happy to use the name you're known by on Twitter. It's like using a passport from another country as your (different) country's passport.</p>\n<p>Because \"Drummer uses Twitter for identity,\" even if you don't use Twitter, you can quickly create an identity there, it takes about a minute to create an account, and then use that name <a href=\"http://drummer.scripting.com/\">here</a>. Even if for some reason you don't want to create an identity on Twitter, if you have a Mac you can use the <a href=\"http://docserver.scripting.com/drummer/electricDrummer.opml\">desktop version</a>. No identity required because your work is stored on your computer not mine. </p>\n<p>I <i>could</i> write and maintain my own identity server. If I did that, that's basically all I would do. Think of all the fancy things Twitter does to support hundreds of millions of users. Think of what you expect of them. If somehow you get locked out of your account, you have to connect with a human somehow to get it back. They have it set up, skillfully, so you get a very small amount of human time, because otherwise the economics don't work. If I ran the identity system I use, I wouldn't be as efficient as they are and it's a thankless job, and I don't want it.</p>\n<p>Also, it's futuristic to use the same identity system as other developers. The more people use it, the better prepared we will be if there's a problem in the future with continuing to use Twitter. By using an external identity system I am inviting other developers to join me, so we can pool our efforts when we need to. Otherwise there's no hope that a common system could develop. It has been tried. But evolving this way is the only way imho that has a chance of working. </p>\n<p>So when I say \"Drummer uses Twitter for identity,\" that means you log in to Twitter, they tell us what your name is, and then we know where to store your stuff so that only you can edit it. It really is a nice thing that Twitter does, and for now at least I can't imagine they have an ulterior motive, and if they ever do we'll have to cross that bridge when we get there. But we couldn't get there at all without using some kind of bridge here. </p>\n<p>If you have a comment or question <a href=\"https://github.com/scripting/Scripting-News/issues/235\">post a note</a> here. </p>",
+            "pubDate": "2022-06-08T14:42:43.000Z",
+            "link": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity",
+            "guid": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity",
+            "outline": {
+                "text": "What is identity?",
+                "created": "Wed, 08 Jun 2022 14:42:43 GMT",
+                "type": "outline",
+                "description": "Drummer uses Twitter for identity. What does that mean?",
+                "metaimage": "http://scripting.com/images/2022/06/05/sgtPepper.png",
+                "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity",
+                "subs": [
+                    {
+                        "text": "I use the term <i>identity</i> in docs and when writing about technology.",
+                        "created": "Wed, 08 Jun 2022 14:42:47 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a144247"
+                    },
+                    {
+                        "text": "But what does it mean?",
+                        "created": "Wed, 08 Jun 2022 14:43:29 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a144329"
+                    },
+                    {
+                        "text": "An identity is a virtual person that belongs to you. You can have lots of them. For example I am <i><a href=\"https://twitter.com/davewiner\">davewiner</a></i> on Twitter, or <i><a href=\"https://www.facebook.com/dave.winer.12/\">dave.winer.12</a></i> on Facebook, or <i><a href=\"https://github.com/scripting?tab=repositories\">scripting</a></i> on GitHub, which means I can create stuff under those names, in a way that (hopefully) only the real Dave Winer can edit.",
+                        "created": "Wed, 08 Jun 2022 19:35:36 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a193536"
+                    },
+                    {
+                        "text": "It's possible to use your identity from one system on others. When I say \"Drummer uses Twitter for identity,\" I'm just saying that rather than invent a new name here, we're happy to use the name you're known by on Twitter. It's like using a passport from another country as your (different) country's passport.",
+                        "created": "Wed, 08 Jun 2022 19:36:45 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a193645"
+                    },
+                    {
+                        "text": "Because \"Drummer uses Twitter for identity,\" even if you don't use Twitter, you can quickly create an identity there, it takes about a minute to create an account, and then use that name <a href=\"http://drummer.scripting.com/\">here</a>. Even if for some reason you don't want to create an identity on Twitter, if you have a Mac you can use the <a href=\"http://docserver.scripting.com/drummer/electricDrummer.opml\">desktop version</a>. No identity required because your work is stored on your computer not mine.",
+                        "created": "Wed, 08 Jun 2022 14:53:01 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a145301"
+                    },
+                    {
+                        "text": "I <i>could</i> write and maintain my own identity server. If I did that, that's basically all I would do. Think of all the fancy things Twitter does to support hundreds of millions of users. Think of what you expect of them. If somehow you get locked out of your account, you have to connect with a human somehow to get it back. They have it set up, skillfully, so you get a very small amount of human time, because otherwise the economics don't work. If I ran the identity system I use, I wouldn't be as efficient as they are and it's a thankless job, and I don't want it.",
+                        "created": "Wed, 08 Jun 2022 14:44:55 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a144455"
+                    },
+                    {
+                        "text": "Also, it's futuristic to use the same identity system as other developers. The more people use it, the better prepared we will be if there's a problem in the future with continuing to use Twitter. By using an external identity system I am inviting other developers to join me, so we can pool our efforts when we need to. Otherwise there's no hope that a common system could develop. It has been tried. But evolving this way is the only way imho that has a chance of working.",
+                        "created": "Wed, 08 Jun 2022 14:47:08 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a144708"
+                    },
+                    {
+                        "text": "So when I say \"Drummer uses Twitter for identity,\" that means you log in to Twitter, they tell us what your name is, and then we know where to store your stuff so that only you can edit it. It really is a nice thing that Twitter does, and for now at least I can't imagine they have an ulterior motive, and if they ever do we'll have to cross that bridge when we get there. But we couldn't get there at all without using some kind of bridge here.",
+                        "created": "Wed, 08 Jun 2022 14:49:17 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a144917"
+                    },
+                    {
+                        "text": "If you have a comment or question <a href=\"https://github.com/scripting/Scripting-News/issues/235\">post a note</a> here.",
+                        "created": "Wed, 08 Jun 2022 14:58:14 GMT",
+                        "permalink": "http://scripting.com/2022/06/08/144243.html?title=whatIsIdentity#a145814"
+                    }
+                ]
+            }
+        },
+        {
+            "description": "<a href=\"https://twitter.com/davewiner/status/1534144365018460162\">Thread</a>: I didn't coin the term Web 2.0, but i didn't object to it either, because what we were doing was realizing the vision of the web from the guy who invented it, who wanted it to be <a href=\"https://web.archive.org/web/20010202130700/http://www.thetwowayweb.com/\">two-way</a>. People wouldn't just read stuff on the web, they would also write stuff.",
+            "pubDate": "2022-06-07T17:50:25.000Z",
+            "link": "http://scripting.com/2022/06/07.html#a175025",
+            "guid": "http://scripting.com/2022/06/07.html#a175025",
+            "outline": {
+                "text": "<a href=\"https://twitter.com/davewiner/status/1534144365018460162\">Thread</a>: I didn't coin the term Web 2.0, but i didn't object to it either, because what we were doing was realizing the vision of the web from the guy who invented it, who wanted it to be <a href=\"https://web.archive.org/web/20010202130700/http://www.thetwowayweb.com/\">two-way</a>. People wouldn't just read stuff on the web, they would also write stuff.",
+                "created": "Tue, 07 Jun 2022 17:50:25 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/07.html#a175025"
+            }
+        },
+        {
+            "title": "A Twitter hello world app",
+            "description": "<p><img class=\"imgRightMargin\" src=\"http://scripting.com/images/2021/06/14/strongman.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I was <a href=\"http://scripting.com/2022/06/02.html#a223523\">thinking</a> for a while about what would be the best way to illustrate the opportunity in factoring the Twitter API, so that developers wouldn't have to run a server to create browser-based apps. </p>\n<p>I was thinking of maybe releasing the source for <a href=\"http://thread.center/\">thread.center</a> or <a href=\"http://happyfriends.camp/\">happy.friends</a>, or another of the many Twitter utilities I've written over the years. I still might do that, but I decided for now to go another way, by writing the simplest program possible, an app that just posts a tweet that says <a href=\"https://en.wikipedia.org/wiki/%22Hello,_World!%22_program\">Hello World</a>. </p>\n<p>So here's the <a href=\"https://github.com/scripting/twitterHelloWorld\">source code</a> of the app. It's separated into two folders, <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/server\">server</a> and <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/client\">client</a>. </p>\n<p>You can <a href=\"http://twitterhello.scripting.com/\">run it here</a>. I am running an instance of the server on one of my machines. </p>\n<p>This is how I envision Twitter's backend working for developers. Just include the functionality in the <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/server\">Hello World server</a> in Twitter's server. Why should every developer have to write the same code, and run a server? All I want to do is write and run something quickly to try an idea out. And if it becomes popular, I won't have the skill or resources to scale my server, when Twitter is already scaling their server, and my server is doing nothing but communicating with Twitter's. A perfect opportunity for factoring. </p>\n<p>Obviously such a backend would have to do more than post a Hello World tweet. That's not hard to do -- I've <a href=\"https://www.npmjs.com/package/davetwitter\">done it</a> and am happy to share the code. I think that Twitter is an excellent platform for developers, and it would be much better if it got even simpler. </p>\n<p>If you have any questions, I've started a <a href=\"https://github.com/scripting/twitterHelloWorld/issues/2\">thread here</a>. </p>",
+            "pubDate": "2022-06-07T16:17:10.000Z",
+            "link": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp",
+            "guid": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp",
+            "outline": {
+                "text": "A Twitter hello world app",
+                "created": "Tue, 07 Jun 2022 16:17:10 GMT",
+                "type": "outline",
+                "description": "How I envision Twitter's backend working for developers.",
+                "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp",
+                "subs": [
+                    {
+                        "text": "I was <a href=\"http://scripting.com/2022/06/02.html#a223523\">thinking</a> for a while about what would be the best way to illustrate the opportunity in factoring the Twitter API, so that developers wouldn't have to run a server to create browser-based apps.",
+                        "created": "Tue, 07 Jun 2022 16:12:56 GMT",
+                        "type": "outline",
+                        "image": "http://scripting.com/images/2021/06/14/strongman.png",
+                        "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp#a161256"
+                    },
+                    {
+                        "text": "I was thinking of maybe releasing the source for <a href=\"http://thread.center/\">thread.center</a> or <a href=\"http://happyfriends.camp/\">happy.friends</a>, or another of the many Twitter utilities I've written over the years. I still might do that, but I decided for now to go another way, by writing the simplest program possible, an app that just posts a tweet that says <a href=\"https://en.wikipedia.org/wiki/%22Hello,_World!%22_program\">Hello World</a>.",
+                        "created": "Tue, 07 Jun 2022 16:42:25 GMT",
+                        "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp#a164225"
+                    },
+                    {
+                        "text": "So here's the <a href=\"https://github.com/scripting/twitterHelloWorld\">source code</a> of the app. It's separated into two folders, <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/server\">server</a> and <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/client\">client</a>.",
+                        "created": "Tue, 07 Jun 2022 16:32:11 GMT",
+                        "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp#a163211"
+                    },
+                    {
+                        "text": "You can <a href=\"http://twitterhello.scripting.com/\">run it here</a>. I am running an instance of the server on one of my machines.",
+                        "created": "Tue, 07 Jun 2022 16:32:42 GMT",
+                        "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp#a163242"
+                    },
+                    {
+                        "text": "This is how I envision Twitter's backend working for developers. Just include the functionality in the <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/server\">Hello World server</a> in Twitter's server. Why should every developer have to write the same code, and run a server? All I want to do is write and run something quickly to try an idea out. And if it becomes popular, I won't have the skill or resources to scale my server, when Twitter is already scaling their server, and my server is doing nothing but communicating with Twitter's. A perfect opportunity for factoring.",
+                        "created": "Tue, 07 Jun 2022 16:32:55 GMT",
+                        "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp#a163255"
+                    },
+                    {
+                        "text": "Obviously such a backend would have to do more than post a Hello World tweet. That's not hard to do -- I've <a href=\"https://www.npmjs.com/package/davetwitter\">done it</a> and am happy to share the code. I think that Twitter is an excellent platform for developers, and it would be much better if it got even simpler.",
+                        "created": "Tue, 07 Jun 2022 16:33:53 GMT",
+                        "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp#a163353"
+                    },
+                    {
+                        "text": "If you have any questions, I've started a <a href=\"https://github.com/scripting/twitterHelloWorld/issues/2\">thread here</a>.",
+                        "created": "Tue, 07 Jun 2022 16:40:05 GMT",
+                        "permalink": "http://scripting.com/2022/06/07/161710.html?title=aTwitterHelloWorldApp#a164005"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "It's even simpler in Drummer",
+            "description": "<p>This is how simple it should be.</p>\n<ul>\n<li><code>twitter.newPost (\"Hello World\")</code></li>\n</ul>\n<p>That's assuming it's running within an app that uses Twitter for identity, like <a href=\"http://drummer.scripting.com/\">Drummer</a>. </p>\n<p>In fact that bit of code actually <a href=\"http://scripting.com/images/2022/06/06/drummerTwitterHello.png\">works</a> in Drummer. <span class=\"spOldSchoolEmoji\">😄</span></p>\n<p>Here's the <a href=\"http://docserver.scripting.com/?verb=twitter.newPost\">man page</a> for the verb.</p>",
+            "pubDate": "2022-06-07T18:08:55.000Z",
+            "link": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer",
+            "guid": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer",
+            "outline": {
+                "text": "It's even simpler in Drummer",
+                "created": "Tue, 07 Jun 2022 18:08:55 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer",
+                "subs": [
+                    {
+                        "text": "This is how simple it should be.",
+                        "created": "Tue, 07 Jun 2022 18:09:24 GMT",
+                        "permalink": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer#a180924",
+                        "subs": [
+                            {
+                                "text": "<code>twitter.newPost (\"Hello World\")</code>",
+                                "permalink": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer#aNaNNaNNaN"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "That's assuming it's running within an app that uses Twitter for identity, like <a href=\"http://drummer.scripting.com/\">Drummer</a>.",
+                        "permalink": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer#aNaNNaNNaN"
+                    },
+                    {
+                        "text": "In fact that bit of code actually <a href=\"http://scripting.com/images/2022/06/06/drummerTwitterHello.png\">works</a> in Drummer. <span class=\"spOldSchoolEmoji\">😄</span>",
+                        "permalink": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer#aNaNNaNNaN"
+                    },
+                    {
+                        "text": "Here's the <a href=\"http://docserver.scripting.com/?verb=twitter.newPost\">man page</a> for the verb.",
+                        "permalink": "http://scripting.com/2022/06/07/180855.html?title=itsEvenSimplerInDrummer#aNaNNaNNaN"
+                    }
+                ]
+            }
+        },
+        {
+            "description": "I wrote a simple <a href=\"https://github.com/scripting/twitterHelloWorld/issues/1\">Hello World app</a> for Twitter. You could help by trying it and saying if it worked. It should be obvious what to do.",
+            "pubDate": "2022-06-06T17:27:48.000Z",
+            "link": "http://scripting.com/2022/06/06.html#a172748",
+            "guid": "http://scripting.com/2022/06/06.html#a172748",
+            "outline": {
+                "text": "I wrote a simple <a href=\"https://github.com/scripting/twitterHelloWorld/issues/1\">Hello World app</a> for Twitter. You could help by trying it and saying if it worked. It should be obvious what to do.",
+                "created": "Mon, 06 Jun 2022 17:27:48 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/06.html#a172748"
+            }
+        },
+        {
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2019/09/14/rssCoffeeCup.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">Yesterday I read the archives of this blog for <a href=\"http://scripting.com/2002/08.html\">August</a> and <a href=\"http://scripting.com/2002/09.html\">September</a> of 2002. I was taking notes on the process that led to RSS 2.0 on 9/18/02. At first the project was called RSS 0.94, but after a while, listening to other developers, I changed it to 2.0. It's a long messy story, and by calling it 2.0 we said enough of the messy story. All we want is a feed syndication format that works, and that's exactly what RSS 2.0 is. It works. We got support from all the major news organizations, we already had the support of the NY Times. In the process of designing RSS 2.0, the BBC opened its feeds. And on <a href=\"http://scripting.com/2002/09.html#When:10:25:22AM\">9/18/02</a>, the spec was published. From there a small revolution happened, leading to the social media world we enjoy today.",
+            "pubDate": "2022-06-06T13:53:50.000Z",
+            "link": "http://scripting.com/2022/06/06.html#a135350",
+            "guid": "http://scripting.com/2022/06/06.html#a135350",
+            "outline": {
+                "text": "Yesterday I read the archives of this blog for <a href=\"http://scripting.com/2002/08.html\">August</a> and <a href=\"http://scripting.com/2002/09.html\">September</a> of 2002. I was taking notes on the process that led to RSS 2.0 on 9/18/02. At first the project was called RSS 0.94, but after a while, listening to other developers, I changed it to 2.0. It's a long messy story, and by calling it 2.0 we said enough of the messy story. All we want is a feed syndication format that works, and that's exactly what RSS 2.0 is. It works. We got support from all the major news organizations, we already had the support of the NY Times. In the process of designing RSS 2.0, the BBC opened its feeds. And on <a href=\"http://scripting.com/2002/09.html#When:10:25:22AM\">9/18/02</a>, the spec was published. From there a small revolution happened, leading to the social media world we enjoy today.",
+                "created": "Mon, 06 Jun 2022 13:53:50 GMT",
+                "type": "outline",
+                "image": "http://scripting.com/images/2019/09/14/rssCoffeeCup.png",
+                "permalink": "http://scripting.com/2022/06/06.html#a135350"
+            }
+        },
+        {
+            "description": "As you might imagine, in this excursion, there were <i>lots</i> of broken links. As always archive.org was the answer. But for UserLand-hosted sites, very often archive.org has a message about their crawler hitting our servers too hard. An awful lot of our stuff is lost. But I'm sure most of it is in Frontier databases, so ultimately is findable. I'm going to try to do just that with the important bits of the August-September work on RSS.",
+            "pubDate": "2022-06-06T13:37:26.000Z",
+            "link": "http://scripting.com/2022/06/06.html#a133726",
+            "guid": "http://scripting.com/2022/06/06.html#a133726",
+            "outline": {
+                "text": "As you might imagine, in this excursion, there were <i>lots</i> of broken links. As always archive.org was the answer. But for UserLand-hosted sites, very often archive.org has a message about their crawler hitting our servers too hard. An awful lot of our stuff is lost. But I'm sure most of it is in Frontier databases, so ultimately is findable. I'm going to try to do just that with the important bits of the August-September work on RSS.",
+                "created": "Mon, 06 Jun 2022 13:37:26 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/06.html#a133726"
+            }
+        },
+        {
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2019/09/08/theTruthCanBeAdjusted.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\"><a href=\"https://web.archive.org/web/20021210060119/http://weblog.infoworld.com/udell/2002/09/04.html#a396\">Jon Udell</a>, then a columnist at InfoWorld, called the inclusion of namespaces in RSS 2.0 an \"olive branch.\" All perspectives are valid of course, but imho it was <i>not</i> an olive branch or a gesture, it was something I had commited to early-on, shortly after Netscape disappeared. I had been saying all along that namespaces will be added to RSS when the spec is ready to be frozen, so growth can continue, after there is agreement on a common core of functionality. I felt that adding namespaces too early would encourage people to go their own ways, with different ways to do the same thing, which isn't good for interop. I wanted to encourage people to seek adoption from other developers. Otherwise what's the point of having a standard? Since RSS 2.0 was going to be frozen when it was published, that was the time to open the door for extensions. It's a way of saying \"this is done\" but it's not the end. <span class=\"spOldSchoolEmoji\">😄</span>",
+            "pubDate": "2022-06-06T13:44:37.000Z",
+            "link": "http://scripting.com/2022/06/06.html#a134437",
+            "guid": "http://scripting.com/2022/06/06.html#a134437",
+            "outline": {
+                "text": "<a href=\"https://web.archive.org/web/20021210060119/http://weblog.infoworld.com/udell/2002/09/04.html#a396\">Jon Udell</a>, then a columnist at InfoWorld, called the inclusion of namespaces in RSS 2.0 an \"olive branch.\" All perspectives are valid of course, but imho it was <i>not</i> an olive branch or a gesture, it was something I had commited to early-on, shortly after Netscape disappeared. I had been saying all along that namespaces will be added to RSS when the spec is ready to be frozen, so growth can continue, after there is agreement on a common core of functionality. I felt that adding namespaces too early would encourage people to go their own ways, with different ways to do the same thing, which isn't good for interop. I wanted to encourage people to seek adoption from other developers. Otherwise what's the point of having a standard? Since RSS 2.0 was going to be frozen when it was published, that was the time to open the door for extensions. It's a way of saying \"this is done\" but it's not the end. <span class=\"spOldSchoolEmoji\">😄</span>",
+                "created": "Mon, 06 Jun 2022 13:44:37 GMT",
+                "type": "outline",
+                "image": "http://scripting.com/images/2019/09/08/theTruthCanBeAdjusted.png",
+                "permalink": "http://scripting.com/2022/06/06.html#a134437"
+            }
+        },
+        {
+            "description": "On June 14, it will be <a href=\"http://scripting.com/2002/06.html#When:7:55:32AM\">twenty years since</a> I quit <a href=\"http://scripting.com/2002/06.html#smoking\">smoking</a>.",
+            "pubDate": "2022-06-05T22:35:34.000Z",
+            "link": "http://scripting.com/2022/06/05.html#a223534",
+            "guid": "http://scripting.com/2022/06/05.html#a223534",
+            "outline": {
+                "text": "On June 14, it will be <a href=\"http://scripting.com/2002/06.html#When:7:55:32AM\">twenty years since</a> I quit <a href=\"http://scripting.com/2002/06.html#smoking\">smoking</a>.",
+                "created": "Sun, 05 Jun 2022 22:35:34 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/05.html#a223534"
+            }
+        },
+        {
+            "description": "<a href=\"https://www.youtube.com/watch?v=VtXl8xAPAtA&t=22s\">It was twenty years ago today</a>, Sgt Pepper taught the band to play.",
+            "pubDate": "2022-06-05T14:04:48.000Z",
+            "link": "http://scripting.com/2022/06/05.html#a140448",
+            "guid": "http://scripting.com/2022/06/05.html#a140448",
+            "outline": {
+                "text": "<a href=\"https://www.youtube.com/watch?v=VtXl8xAPAtA&t=22s\">It was twenty years ago today</a>, Sgt Pepper taught the band to play.",
+                "created": "Sun, 05 Jun 2022 14:04:48 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/05.html#a140448"
+            }
+        },
+        {
+            "description": "New header image, a slice of the <a href=\"http://scripting.com/images/2022/06/05/sgtPepper.png\">cover</a> of the Sgt Pepper album.",
+            "pubDate": "2022-06-05T22:38:57.000Z",
+            "link": "http://scripting.com/2022/06/05.html#a223857",
+            "guid": "http://scripting.com/2022/06/05.html#a223857",
+            "outline": {
+                "text": "New header image, a slice of the <a href=\"http://scripting.com/images/2022/06/05/sgtPepper.png\">cover</a> of the Sgt Pepper album.",
+                "created": "Sun, 05 Jun 2022 22:38:57 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/05.html#a223857"
+            }
+        },
+        {
+            "description": "RSS 2.0 is <a href=\"https://twitter.com/davewiner/status/1533086494960848899\">going</a> to be 20 years old later this year.",
+            "pubDate": "2022-06-04T14:34:41.000Z",
+            "link": "http://scripting.com/2022/06/04.html#a143441",
+            "guid": "http://scripting.com/2022/06/04.html#a143441",
+            "outline": {
+                "text": "RSS 2.0 is <a href=\"https://twitter.com/davewiner/status/1533086494960848899\">going</a> to be 20 years old later this year.",
+                "created": "Sat, 04 Jun 2022 14:34:41 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/04.html#a143441"
+            }
+        },
+        {
+            "description": "When <a href=\"http://scripting.com/2022/05/10/153739.html?title=edwardHopper\">Edward Hopper</a> does a painting of a restaurant in Manhattan, that painting doesn't have to work if another character walks into the restaurant. And the building the restaurant is in doesn't have to keep working for 150 years. That's why making a new piece of software, while it has the elements of composition you'd find in a painting, has a lot more work to do. A painting inspires. Software does that too, but it has to work. Nothing new here really. Think about all the functionality in an actual building, and those are also works of art.",
+            "pubDate": "2022-06-04T13:56:21.000Z",
+            "link": "http://scripting.com/2022/06/04.html#a135621",
+            "guid": "http://scripting.com/2022/06/04.html#a135621",
+            "outline": {
+                "text": "When <a href=\"http://scripting.com/2022/05/10/153739.html?title=edwardHopper\">Edward Hopper</a> does a painting of a restaurant in Manhattan, that painting doesn't have to work if another character walks into the restaurant. And the building the restaurant is in doesn't have to keep working for 150 years. That's why making a new piece of software, while it has the elements of composition you'd find in a painting, has a lot more work to do. A painting inspires. Software does that too, but it has to work. Nothing new here really. Think about all the functionality in an actual building, and those are also works of art.",
+                "created": "Sat, 04 Jun 2022 13:56:21 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/04.html#a135621"
+            }
+        },
+        {
+            "description": "We also have to plan for things breaking. It has to be easy for workers to replace a stove, or a broken chair. They shouldn't have to walk into the restaurant and wonder if the water faucet is really a bucket and mop.",
+            "pubDate": "2022-06-04T14:17:11.000Z",
+            "link": "http://scripting.com/2022/06/04.html#a141711",
+            "guid": "http://scripting.com/2022/06/04.html#a141711",
+            "outline": {
+                "text": "We also have to plan for things breaking. It has to be easy for workers to replace a stove, or a broken chair. They shouldn't have to walk into the restaurant and wonder if the water faucet is really a bucket and mop.",
+                "created": "Sat, 04 Jun 2022 14:17:11 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/04.html#a141711"
+            }
+        },
+        {
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2022/06/03/atlanta.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">Atlanta <a href=\"https://www.avclub.com/atlanta-review-season-3-episode-4-the-big-payback-1848761087\">season 3 episode 4</a>, which I just watched, is brilliant. There's one point in the episode when a white man <a href=\"https://www.youtube.com/watch?v=-6jL8hXUfa0\">explains slavery</a> from the point of view of today's blacks, and you realize as it makes sense, the words were probably from a black writer. The power of being able to have the ideas you want white people to understand come from the mouth of a white actor. They get to insert their truth into the script the way Woody Allen inserts <a href=\"https://www.youtube.com/watch?v=jRcMsqCbzWk\">Marshall McLuhan</a> into the script of Annie Hall.",
+            "pubDate": "2022-06-04T02:21:13.000Z",
+            "link": "http://scripting.com/2022/06/03.html#a022113",
+            "guid": "http://scripting.com/2022/06/03.html#a022113",
+            "outline": {
+                "text": "Atlanta <a href=\"https://www.avclub.com/atlanta-review-season-3-episode-4-the-big-payback-1848761087\">season 3 episode 4</a>, which I just watched, is brilliant. There's one point in the episode when a white man <a href=\"https://www.youtube.com/watch?v=-6jL8hXUfa0\">explains slavery</a> from the point of view of today's blacks, and you realize as it makes sense, the words were probably from a black writer. The power of being able to have the ideas you want white people to understand come from the mouth of a white actor. They get to insert their truth into the script the way Woody Allen inserts <a href=\"https://www.youtube.com/watch?v=jRcMsqCbzWk\">Marshall McLuhan</a> into the script of Annie Hall.",
+                "created": "Sat, 04 Jun 2022 02:21:13 GMT",
+                "type": "outline",
+                "image": "http://scripting.com/images/2022/06/03/atlanta.png",
+                "permalink": "http://scripting.com/2022/06/03.html#a022113"
+            }
+        },
+        {
+            "description": "<a href=\"https://twitter.com/davewiner/status/1532752410896121856\">VMWare question</a>. Running on Mac, inside Ubuntu 20.04.3, the mouse is off by a few pixels. When I point at something, if I click on it, nothing registers. Move the mouse a couple of pixels to the left and click, and it works. I've tried rebooting VMWare and Ubuntu, no help.",
+            "pubDate": "2022-06-03T15:53:51.000Z",
+            "link": "http://scripting.com/2022/06/03.html#a155351",
+            "guid": "http://scripting.com/2022/06/03.html#a155351",
+            "outline": {
+                "text": "<a href=\"https://twitter.com/davewiner/status/1532752410896121856\">VMWare question</a>. Running on Mac, inside Ubuntu 20.04.3, the mouse is off by a few pixels. When I point at something, if I click on it, nothing registers. Move the mouse a couple of pixels to the left and click, and it works. I've tried rebooting VMWare and Ubuntu, no help.",
+                "created": "Fri, 03 Jun 2022 15:53:51 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/03.html#a155351"
+            }
+        },
+        {
+            "description": "The <a href=\"https://www.nytimes.com/2022/06/02/sports/basketball/boston-celtics-golden-state-nba-finals-game-1.html\">first game</a> of the NBA Finals totally lived up to the promise of this series. The first part of the game was dominated by the team with championship experience, but the newcomers eventually sorted it all out, and proved that the experienced team would not coast to victory on their existing skills. They're going to have to develop some new ones to make it through this contest. The second game is Sunday night. I'm rooting for the newcomers, but not by a lot. I love both teams, they both have a lot to recommend them, and they are teams that were formed out of the draft, so there's continuity, and a victory in either case will have meaning to the the fans of both.",
+            "pubDate": "2022-06-03T16:22:12.000Z",
+            "link": "http://scripting.com/2022/06/03.html#a162212",
+            "guid": "http://scripting.com/2022/06/03.html#a162212",
+            "outline": {
+                "text": "The <a href=\"https://www.nytimes.com/2022/06/02/sports/basketball/boston-celtics-golden-state-nba-finals-game-1.html\">first game</a> of the NBA Finals totally lived up to the promise of this series. The first part of the game was dominated by the team with championship experience, but the newcomers eventually sorted it all out, and proved that the experienced team would not coast to victory on their existing skills. They're going to have to develop some new ones to make it through this contest. The second game is Sunday night. I'm rooting for the newcomers, but not by a lot. I love both teams, they both have a lot to recommend them, and they are teams that were formed out of the draft, so there's continuity, and a victory in either case will have meaning to the the fans of both.",
+                "created": "Fri, 03 Jun 2022 16:22:12 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/03.html#a162212"
+            }
+        },
+        {
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2021/05/23/celticMascot.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\"><a href=\"https://www.amazon.com/Caste-Origins-Discontents-Isabel-Wilkerson-ebook/dp/B084FLWDQG\">Caste</a> is a perspective-altering book. We have a caste system in the US. It gives roles to each of us based on appearance. Gender, race, age are big signals. I think the concept of caste is basic to who we are. We all experience it to some extent. As a man, I'm supposed to be unable to cook, pay the bills, shop for food, I'm expected to be helpless in a home. As an older person, I can't be active creatively, I must be retired. It's also not possible that I understand the new technology. Not complaining (that much) just to say that it's there, and I recognize it in myself, when I judge other people based on appearance. If I see a black person demonstrating the positive traits that I was raised to associate with being white, it's notable, i.e. I note it. I have to be careful not to act on it, though I'm sure I do. I am 3/4 Jewish, and somehow got in my head as a kid that Jews were dirty and ugly and sad. That's a judgment of <i>myself, </i>and I've always known it. Self-hatred. Again, aware of this, I try not to act on it, and to balance it with a commitment to being kind to and loving of myself. I don't know what to do about all this as a society, it seems impossible to overcome, almost as this kind of judgment is part of being human, at the same time, intellectually I know it's wrong.",
+            "pubDate": "2022-06-03T15:56:29.000Z",
+            "link": "http://scripting.com/2022/06/03.html#a155629",
+            "guid": "http://scripting.com/2022/06/03.html#a155629",
+            "outline": {
+                "text": "<a href=\"https://www.amazon.com/Caste-Origins-Discontents-Isabel-Wilkerson-ebook/dp/B084FLWDQG\">Caste</a> is a perspective-altering book. We have a caste system in the US. It gives roles to each of us based on appearance. Gender, race, age are big signals. I think the concept of caste is basic to who we are. We all experience it to some extent. As a man, I'm supposed to be unable to cook, pay the bills, shop for food, I'm expected to be helpless in a home. As an older person, I can't be active creatively, I must be retired. It's also not possible that I understand the new technology. Not complaining (that much) just to say that it's there, and I recognize it in myself, when I judge other people based on appearance. If I see a black person demonstrating the positive traits that I was raised to associate with being white, it's notable, i.e. I note it. I have to be careful not to act on it, though I'm sure I do. I am 3/4 Jewish, and somehow got in my head as a kid that Jews were dirty and ugly and sad. That's a judgment of <i>myself, </i>and I've always known it. Self-hatred. Again, aware of this, I try not to act on it, and to balance it with a commitment to being kind to and loving of myself. I don't know what to do about all this as a society, it seems impossible to overcome, almost as this kind of judgment is part of being human, at the same time, intellectually I know it's wrong.",
+                "created": "Fri, 03 Jun 2022 15:56:29 GMT",
+                "type": "outline",
+                "image": "http://scripting.com/images/2021/05/23/celticMascot.png",
+                "permalink": "http://scripting.com/2022/06/03.html#a155629"
+            }
+        },
+        {
+            "description": "When I bought my new house in the country I hired a painter to do over the inside of the house. I talked with him on the phone and arranged a meeting at the house. When I arrived he was already there. He was a black man. I had no idea. When we spoke on the phone I thought he was white. In the first few minutes of the conversation I told him this, because I was absolutely sure that I couldn't have hidden my surprise. It happened again, more recently, when my new Tesla was delivered. The man they sent was black, very nice, we had a polite conversation, but I felt awkward. One time, there was a group of white men working in my house, and I was sure one of them had said something antisemitic, and guessed he didn't know I was Jewish. I didn't say anything. And of course when I was a kid, I remember the antisemitic hatred of fellow school kids, who blamed Jews for the deaths of their uncles in the war. I was born ten years after the end of WW II, a war they felt wouldn't have happened if it weren't for Jews. I expect that's what they were told by the adults in their family, around the kitchen table. It's all those adults and their kitchen tables that perpetuate the caste system.",
+            "pubDate": "2022-06-03T16:08:43.000Z",
+            "link": "http://scripting.com/2022/06/03.html#a160843",
+            "guid": "http://scripting.com/2022/06/03.html#a160843",
+            "outline": {
+                "text": "When I bought my new house in the country I hired a painter to do over the inside of the house. I talked with him on the phone and arranged a meeting at the house. When I arrived he was already there. He was a black man. I had no idea. When we spoke on the phone I thought he was white. In the first few minutes of the conversation I told him this, because I was absolutely sure that I couldn't have hidden my surprise. It happened again, more recently, when my new Tesla was delivered. The man they sent was black, very nice, we had a polite conversation, but I felt awkward. One time, there was a group of white men working in my house, and I was sure one of them had said something antisemitic, and guessed he didn't know I was Jewish. I didn't say anything. And of course when I was a kid, I remember the antisemitic hatred of fellow school kids, who blamed Jews for the deaths of their uncles in the war. I was born ten years after the end of WW II, a war they felt wouldn't have happened if it weren't for Jews. I expect that's what they were told by the adults in their family, around the kitchen table. It's all those adults and their kitchen tables that perpetuate the caste system.",
+                "created": "Fri, 03 Jun 2022 16:08:43 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/03.html#a160843"
+            }
+        },
+        {
+            "title": "Jean Metzinger",
+            "description": "<p><a href=\"https://en.wikipedia.org/wiki/Dancer_in_a_Caf%C3%A9\">Dancer in a café</a>, 1912.</p>",
+            "pubDate": "2022-06-03T18:33:21.000Z",
+            "link": "http://scripting.com/2022/06/03/183321.html?title=jeanMetzinger",
+            "guid": "http://scripting.com/2022/06/03/183321.html?title=jeanMetzinger",
+            "outline": {
+                "text": "Jean Metzinger",
+                "created": "Fri, 03 Jun 2022 18:33:21 GMT",
+                "type": "outline",
+                "metaimage": "http://scripting.com/images/2022/06/03/dancerInACafe.png",
+                "permalink": "http://scripting.com/2022/06/03/183321.html?title=jeanMetzinger",
+                "subs": [
+                    {
+                        "text": "<a href=\"https://en.wikipedia.org/wiki/Dancer_in_a_Caf%C3%A9\">Dancer in a café</a>, 1912.",
+                        "created": "Fri, 03 Jun 2022 18:33:31 GMT",
+                        "inlineimage": "http://scripting.com/images/2022/06/03/dancerInACafe.png",
+                        "permalink": "http://scripting.com/2022/06/03/183321.html?title=jeanMetzinger#a183331"
+                    }
+                ]
+            }
+        },
+        {
+            "description": "<img class=\"imgRightMargin\" src=\"http://scripting.com/images/2021/06/14/strongman.png\" border=\"0\" style=\"float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;\">I connected with people on Twitter's developer relations team today. They had a conference call that I dialed into, and the conversation turned to my big wish for the Twitter API, that we organize the API so that from a browser-based app you can communicate directly with twitter.com, without having to run a server app as an intermediary. This has always been a big opportunity, but now there's communication. I've been developing apps using the Twitter API since 2006. There's lots of <a href=\"http://scripting.com/2014/07/07/comparingApis.html\">potential</a> here, and their back-end is an incredible network resource. Lots to do here. Here's my <a href=\"https://twitter.com/davewiner/status/1532382742851244034\">followup thread</a> posted earlier today.",
+            "pubDate": "2022-06-02T22:35:23.000Z",
+            "link": "http://scripting.com/2022/06/02.html#a223523",
+            "guid": "http://scripting.com/2022/06/02.html#a223523",
+            "outline": {
+                "text": "I connected with people on Twitter's developer relations team today. They had a conference call that I dialed into, and the conversation turned to my big wish for the Twitter API, that we organize the API so that from a browser-based app you can communicate directly with twitter.com, without having to run a server app as an intermediary. This has always been a big opportunity, but now there's communication. I've been developing apps using the Twitter API since 2006. There's lots of <a href=\"http://scripting.com/2014/07/07/comparingApis.html\">potential</a> here, and their back-end is an incredible network resource. Lots to do here. Here's my <a href=\"https://twitter.com/davewiner/status/1532382742851244034\">followup thread</a> posted earlier today.",
+                "created": "Thu, 02 Jun 2022 22:35:23 GMT",
+                "type": "outline",
+                "image": "http://scripting.com/images/2021/06/14/strongman.png",
+                "permalink": "http://scripting.com/2022/06/02.html#a223523"
+            }
+        },
+        {
+            "description": "Today the NYT says I have <a href=\"http://scripting.com/images/2022/06/02/freeGifts.png\">4 gift articles</a> left this month. <a href=\"http://scripting.com/2022/06/01.html#a215313\">Yesterday</a> it was 3. I don't get how this is supposed to work.",
+            "pubDate": "2022-06-02T18:47:39.000Z",
+            "link": "http://scripting.com/2022/06/02.html#a184739",
+            "guid": "http://scripting.com/2022/06/02.html#a184739",
+            "outline": {
+                "text": "Today the NYT says I have <a href=\"http://scripting.com/images/2022/06/02/freeGifts.png\">4 gift articles</a> left this month. <a href=\"http://scripting.com/2022/06/01.html#a215313\">Yesterday</a> it was 3. I don't get how this is supposed to work.",
+                "created": "Thu, 02 Jun 2022 18:47:39 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/02.html#a184739"
+            }
+        },
+        {
+            "description": "I'm trying to get a new Mac OS partition set up for VMWare and nothing is working as it should. Just installing Chrome on the new instance is fraught with problems. I've never seen anything like this. Click the mouse somewhere, the thing 19 pixels down from it gets selected. <a href=\"http://scripting.com/images/2022/06/02/crazyChromeOnVMWare.png\">Chrome's display</a> is all garbled and nothing I click on works.",
+            "pubDate": "2022-06-02T16:06:20.000Z",
+            "link": "http://scripting.com/2022/06/02.html#a160620",
+            "guid": "http://scripting.com/2022/06/02.html#a160620",
+            "outline": {
+                "text": "I'm trying to get a new Mac OS partition set up for VMWare and nothing is working as it should. Just installing Chrome on the new instance is fraught with problems. I've never seen anything like this. Click the mouse somewhere, the thing 19 pixels down from it gets selected. <a href=\"http://scripting.com/images/2022/06/02/crazyChromeOnVMWare.png\">Chrome's display</a> is all garbled and nothing I click on works.",
+                "created": "Thu, 02 Jun 2022 16:06:20 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/02.html#a160620"
+            }
+        },
+        {
+            "title": "Open source thread.center?",
+            "description": "<p>I'm thinking about releasing <a href=\"http://thread.center/\">thread.center</a> as open source.</p>\n<p>It was the first browser-based Twitter app I wrote back in 2014 so it's really simple internally.</p>\n<p>It was called <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22little+pork+chop%22\">Little Pork Chop</a> back then. <span class=\"spOldSchoolEmoji\">😄</span></p>\n<p>If you think it's a good idea <a href=\"https://twitter.com/davewiner/status/1532339713713000448\">let me know</a>. Esp if you're a developer or aspiring developer.</p>",
+            "pubDate": "2022-06-02T12:48:20.000Z",
+            "link": "http://scripting.com/2022/06/02/124820.html?title=openSourceThreadcenter",
+            "guid": "http://scripting.com/2022/06/02/124820.html?title=openSourceThreadcenter",
+            "outline": {
+                "text": "Open source thread.center?",
+                "created": "Thu, 02 Jun 2022 12:48:20 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/02/124820.html?title=openSourceThreadcenter",
+                "subs": [
+                    {
+                        "text": "I'm thinking about releasing <a href=\"http://thread.center/\">thread.center</a> as open source.",
+                        "created": "Thu, 02 Jun 2022 12:48:33 GMT",
+                        "permalink": "http://scripting.com/2022/06/02/124820.html?title=openSourceThreadcenter#a124833"
+                    },
+                    {
+                        "text": "It was the first browser-based Twitter app I wrote back in 2014 so it's really simple internally.",
+                        "created": "Thu, 02 Jun 2022 12:48:51 GMT",
+                        "permalink": "http://scripting.com/2022/06/02/124820.html?title=openSourceThreadcenter#a124851"
+                    },
+                    {
+                        "text": "It was called <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22little+pork+chop%22\">Little Pork Chop</a> back then. <span class=\"spOldSchoolEmoji\">😄</span>",
+                        "created": "Thu, 02 Jun 2022 12:50:26 GMT",
+                        "permalink": "http://scripting.com/2022/06/02/124820.html?title=openSourceThreadcenter#a125026"
+                    },
+                    {
+                        "text": "If you think it's a good idea <a href=\"https://twitter.com/davewiner/status/1532339713713000448\">let me know</a>. Esp if you're a developer or aspiring developer.",
+                        "created": "Thu, 02 Jun 2022 12:49:11 GMT",
+                        "permalink": "http://scripting.com/2022/06/02/124820.html?title=openSourceThreadcenter#a124911"
+                    }
+                ]
+            }
+        },
+        {
+            "description": "Today's song: <a href=\"https://www.youtube.com/watch?v=fuz5TKzaJoE\">The Swimming Song</a>.",
+            "pubDate": "2022-06-01T21:41:53.000Z",
+            "link": "http://scripting.com/2022/06/01.html#a214153",
+            "guid": "http://scripting.com/2022/06/01.html#a214153",
+            "outline": {
+                "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=fuz5TKzaJoE\">The Swimming Song</a>.",
+                "created": "Wed, 01 Jun 2022 21:41:53 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/01.html#a214153"
+            }
+        },
+        {
+            "description": "<a href=\"http://thread.center/\">thread.center</a> makes writing a thread like writing an email.",
+            "pubDate": "2022-06-01T22:30:47.000Z",
+            "link": "http://scripting.com/2022/06/01.html#a223047",
+            "guid": "http://scripting.com/2022/06/01.html#a223047",
+            "outline": {
+                "text": "<a href=\"http://thread.center/\">thread.center</a> makes writing a thread like writing an email.",
+                "created": "Wed, 01 Jun 2022 22:30:47 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/01.html#a223047"
+            }
+        },
+        {
+            "description": "Dear NY Times: It's June 1, how is it I only have <a href=\"http://scripting.com/images/2022/06/01/nytGiftArticlesAtBeginningOfMonth.png\">3 of 10 gift articles left</a> this month?",
+            "pubDate": "2022-06-01T21:53:13.000Z",
+            "link": "http://scripting.com/2022/06/01.html#a215313",
+            "guid": "http://scripting.com/2022/06/01.html#a215313",
+            "outline": {
+                "text": "Dear NY Times: It's June 1, how is it I only have <a href=\"http://scripting.com/images/2022/06/01/nytGiftArticlesAtBeginningOfMonth.png\">3 of 10 gift articles left</a> this month?",
+                "created": "Wed, 01 Jun 2022 21:53:13 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/01.html#a215313"
+            }
+        },
+        {
+            "description": "A woodpecker thinks my house is a tree.",
+            "pubDate": "2022-06-01T15:58:04.000Z",
+            "link": "http://scripting.com/2022/06/01.html#a155804",
+            "guid": "http://scripting.com/2022/06/01.html#a155804",
+            "outline": {
+                "text": "A woodpecker thinks my house is a tree.",
+                "created": "Wed, 01 Jun 2022 15:58:04 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/01.html#a155804"
+            }
+        },
+        {
+            "description": "If I could transmit one idea to the masters of tech it would be that you're going to die, soon, no matter how much you money or power you have. That's why it's pointless to accumulate more wealth. Only a very few people care, and they'll all be dead soon too.",
+            "pubDate": "2022-06-01T15:31:26.000Z",
+            "link": "http://scripting.com/2022/06/01.html#a153126",
+            "guid": "http://scripting.com/2022/06/01.html#a153126",
+            "outline": {
+                "text": "If I could transmit one idea to the masters of tech it would be that you're going to die, soon, no matter how much you money or power you have. That's why it's pointless to accumulate more wealth. Only a very few people care, and they'll all be dead soon too.",
+                "created": "Wed, 01 Jun 2022 15:31:26 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/01.html#a153126"
+            }
+        },
+        {
+            "description": "The monthly ritual is done. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/05.opml\">archive</a> for May 2022.",
+            "pubDate": "2022-06-01T13:19:29.000Z",
+            "link": "http://scripting.com/2022/06/01.html#a131929",
+            "guid": "http://scripting.com/2022/06/01.html#a131929",
+            "outline": {
+                "text": "The monthly ritual is done. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/05.opml\">archive</a> for May 2022.",
+                "created": "Wed, 01 Jun 2022 13:19:29 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/01.html#a131929"
+            }
+        },
+        {
+            "description": "<a href=\"https://github.com/scripting/tweets.opml.org/blob/main/users/davewiner/2022/06.json\">All my tweets</a> are being compiled in JSON-flavored OPML.",
+            "pubDate": "2022-06-01T14:05:31.000Z",
+            "link": "http://scripting.com/2022/06/01.html#a140531",
+            "guid": "http://scripting.com/2022/06/01.html#a140531",
+            "outline": {
+                "text": "<a href=\"https://github.com/scripting/tweets.opml.org/blob/main/users/davewiner/2022/06.json\">All my tweets</a> are being compiled in JSON-flavored OPML.",
+                "created": "Wed, 01 Jun 2022 14:05:31 GMT",
+                "type": "outline",
+                "permalink": "http://scripting.com/2022/06/01.html#a140531"
             }
         }
     ]
