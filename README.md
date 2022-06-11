@@ -22,9 +22,7 @@ RSS, Atom, and RDF.
 
 Thanks to Dan MacTough for the <a href="https://www.npmjs.com/package/feedparser">feedparser</a> package.
 
-#### Work notes
-
 #### Comments, questions?
 
-Please post your comments and questions in the <a href="https://github.com/scripting/reallysimple/issues/new">issues section</a> of this repo.
+Post comments and questions in the <a href="https://github.com/scripting/reallysimple/issues/new">issues section</a> of this repo.
 
