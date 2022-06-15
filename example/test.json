@@ -1,661 +1,136 @@
 {
-    "title": "NYT > World News",
-    "pubDate": "2022-06-11T21:03:53.000Z",
-    "link": "https://www.nytimes.com/section/world",
-    "language": "en-us",
-    "copyright": "Copyright 2022 The New York Times Company",
-    "image": {
-        "url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
-        "title": "NYT > World News"
+    "title": "Don Park's Weekly Habit",
+    "description": "Well, sorta weekly.",
+    "pubDate": "2017-07-23T14:21:42.000Z",
+    "link": "https://blog.docuverse.com/",
+    "language": "en",
+    "generator": "http://wordpress.com/",
+    "cloud": {
+        "domain": "blog.docuverse.com",
+        "port": "80",
+        "path": "/?rsscloud=notify",
+        "registerprocedure": "",
+        "protocol": "http-post",
+        "type": "rsscloud"
     },
+    "image": {
+        "url": "https://secure.gravatar.com/blavatar/0b7f6b113ae911a67eb8133dd085a60b?s=96&d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png",
+        "title": "Don Park's Weekly Habit"
+    },
+    "linkToSelf": "https://blog.docuverse.com/feed/",
     "items": [
         {
-            "title": "‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger",
-            "description": "The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages.",
-            "pubDate": "2022-06-11T16:26:40.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html",
-            "author": "Abdi Latif Dahir and Malin Fezehai",
+            "title": "Using Herb Vaporizers with Tobacco",
+            "description": "<p>Fact that most if not all herb vaporizers are designed for vaporizing cannabis made it difficult to get reliable information for tobacco use.</p>\n<h1>Tobacco Types</h1>\n<p>I tried three types:</p>\n<ul>\n<li>RYO Tobacco (I use <a href=\"http://www.tobaccogeneral.com/good-stuff-gold-pipe-tobacco-47-prd1.htm\">The Good Stuff Gold Original</a> and <a href=\"http://www.tobaccogeneral.com/good-stuff-menthol-gold-pipe-49-prd1.htm\">Menthol Gold</a>)</li>\n<li>Pipe Tobacco (tried only <a href=\"http://www.tobaccogeneral.com/captain-black-royal-pipe-tobacco-678-prd1.htm\">Captain Black</a> so far)</li>\n<li>Cigar Tobacco (tried grounded cigars then moved to <a href=\"https://www.leafonly.com/\">whole leaf</a>)</li>\n</ul>\n<p>RYO is closest to tobacco used in cigarettes. I found it best for daily use. Pipe tobacco is very rich taste, too rich for frequent use. I typically use it before sleep, best with a glass of finest.</p>\n<p>I found Cigar tobacco to be the most difficult to use with herb vaporizer because they taste best when properly humidified but many vaporizers are not designed to vaporize wet herbs. And dry cigar tobacco is brittle, shedding tobacco particles when you vape.</p>\n<p>Best parts are cost and variety.</p>\n<h1>Vaporization Methods</h1>\n<p><em>Conduction</em> vaporizers use a heated oven to cook the tobacco. <em>Convection</em> vaporizers use hot air flowing through tobacco to vaporize.</p>\n<p>For RYO tobacco, conduction works best. Pipe tobacco can be used with both conduction and convection.</p>\n<p>As to cigar tobacco, I had good result using <a href=\"https://www.planetofthevapes.com/products/boundless-cf-vaporizer\">Boundless CF</a> which has a rather unique deep conduction/convection hybrid oven. Trick was to place RYO tobacco on top of slightly humid cigar leaves to act as a filter of sort.</p>\n<p>Conduction is best for tobacco.</p>\n<h1>Vaporizers</h1>\n<p>I started with <a href=\"https://www.planetofthevapes.com/products/boundless-cf-vaporizer\">Boundless CF</a>. Relatively cheap with deep hybrid oven. Tasted great with everything but plastic around the oven cracked and tobacco started combusting. Replacement I got is holding together so far.</p>\n<p>While waiting for replacement CF, I got <a href=\"https://www.planetofthevapes.com/products/arizer-extreme-q-vaporizer\">Arizer Extreme Q</a>, a desktop convection vaporizer, as backup of sort. Gawdy looking but very reliable. Pipe tobacco tastes great with it but not RYO tobacco.</p>\n<p>Then I got <a href=\"https://www.planetofthevapes.com/products/boundless-cfc-vaporizer\">Boundless CFC</a>. Cheaper and much smaller. Tasted even better than CF but it was too shallow to use with cigar tobacco using technique I mentioned above and, yup, plastic around the oven cracked and fell out.</p>\n<p>Discouraged with plastic, I tried <a href=\"https://www.planetofthevapes.com/products/magic-flight-launch-box-vaporizer\">Magic Flight Launch Box (MFLB)</a> which has great reviews from cannabis users. For tobacco, I just couldn&#8217;t get it working.</p>\n<p>So I returned both CFC and MFLB for <a href=\"https://www.planetofthevapes.com/products/pax-3-vaporizer\">PAX 3</a>. Pipe tobacco worked OK with it although nothing to write home about. I had difficulty getting vape initially but eventually learned I had to wait a bit between vapes to let the oven cook. Note I didn&#8217;t have to do that with CF nor CFC. Maybe that&#8217;s why their plastic cracked? Anyway, PAX 3 is well built so I hope it holds together. WARNING: Current version of PAX 3 iOS app is not recommended due to battery drain, even in background mode.</p>\n<p>Worst parts are price and reliability. Need more DIY in this area.</p>\n<h1>End Note</h1>\n<p>Taste difference between devices is bewilderingly wide. Making it worse, device reviews for tobacco use is hard to find. So please share your experiences and finds.</p>",
+            "pubDate": "2017-07-23T14:03:28.000Z",
+            "link": "https://blog.docuverse.com/2017/07/23/using-herb-vaporizers-with-tobacco/",
+            "author": "donpark",
+            "comments": "https://blog.docuverse.com/2017/07/23/using-herb-vaporizers-with-tobacco/#comments",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/world/00somalia-hunger-promo/00somalia-hunger-swap-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "Rumbling Through Modern Jordan, a Railway From the Past",
-            "description": "Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete.",
-            "pubDate": "2022-06-11T17:01:26.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html",
-            "author": "Ben Hubbard, Asmaa al-Omar and Laura Boushnak"
-        },
-        {
-            "title": "McDonald’s Is Reinvented in Russia as the Economy Stumbles On",
-            "description": "The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead.",
-            "pubDate": "2022-06-11T14:44:04.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html",
-            "author": "Anton Troianovski and Ivan Nechepurenko",
+            "title": "Visual Vocabulary",
+            "description": "<p>Liked this visual vocabulary chart by FT a lot. <a href=\"https://github.com/ft-interactive/chart-doctor/raw/master/visual-vocabulary/Visual-vocabulary.pdf\">PDF version</a> is at <a href=\"https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf\">Github</a>. MIT licensed.</p>\n<p><img data-attachment-id=\"3928\" data-permalink=\"https://blog.docuverse.com/2017/06/06/visual-vocabulary/screenshot_268/\" data-orig-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_268.png\" data-orig-size=\"1909,1315\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"screenshot_268\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=300\" data-large-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=700\" class=\"alignnone size-full wp-image-3928\" src=\"https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=700\" alt=\"screenshot_268.png\" srcset=\"https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=700 700w, https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=1400 1400w, https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=150 150w, https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=300 300w, https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=768 768w, https://donpark.files.wordpress.com/2017/06/screenshot_268.png?w=1024 1024w\" sizes=\"(max-width: 700px) 100vw, 700px\"   /></p>",
+            "pubDate": "2017-06-06T13:03:29.000Z",
+            "link": "https://blog.docuverse.com/2017/06/06/visual-vocabulary/",
+            "author": "donpark",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/11/world/11russia-econ-01/11russia-econ-01-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "Newly United, French Left Hopes to Counter President in Upcoming Vote",
-            "description": "Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a break on President Emmanuel Macron’s agenda.",
-            "pubDate": "2022-06-11T13:37:30.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html",
-            "author": "Constant Méheut",
+            "title": "Search Blogs",
+            "description": "<p>While thinking about search functionality aspect of <a href=\"https://blog.docuverse.com/2017/06/05/wordpress-atlas/\">WordPress Atlas</a>, I was reminded of <a href=\"https://blog.docuverse.com/2004/09/28/aa1e150d-1a3f-4641-9cc3-f5b0da14be65/\">Search Hat</a> and <a href=\"https://blog.docuverse.com/2004/10/06/f887276c-e4cf-45c2-b5f1-d82d2b8ca5f4/\">MSN SearchPoint</a> ideas which I blogged about in 2004. MSN team seemed receptive but <a href=\"https://blog.docuverse.com/2006/10/23/google-implements-searchpoint-before-msn-does/\">Google implemented it first</a> then dropped it for various reasons.</p>\n<p>In context of the Atlas, the idea is best described as as <em>Search Blog</em>. But, ironically, this term is difficult to search for obvious reasons. <a href=\"http://battellemedia.com/\">John Battelle</a> even uses it in his blog&#8217;s name. Maybe someone will come up with a better name.</p>\n<p><em>Search Blog</em> is a blog about other blogs/websites. It&#8217;s primary function is to provide a search context. Simple, seemingly familiar yet distinct in usage. Don&#8217;t remember if Yahoo directories allowed each directory to be used as search context. It&#8217;s an obvious idea in hindsight. Jury is out on whether it&#8217;ll be popular however.</p>\n<p>Atlas needs to be a Search Blog as well.</p>",
+            "pubDate": "2017-06-06T07:56:23.000Z",
+            "link": "https://blog.docuverse.com/2017/06/05/search-blogs/",
+            "author": "donpark",
+            "comments": "https://blog.docuverse.com/2017/06/05/search-blogs/#comments",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/11/world/11france-left-01/11france-left-01-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue",
-            "description": "Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign.",
-            "pubDate": "2022-06-11T07:00:12.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html",
-            "author": "Sameer Yasir",
+            "title": "WordPress Atlas",
+            "description": "<p><em>Disclaimer: This is a personal side-project, not an official Automattic project, and in no way reflects official plans.</em></p>\n<p>In <a href=\"https://blog.docuverse.com/2017/04/21/beyond-future-of-wordpress-platform/\">Beyond Future of WordPress Platform</a>, I wrote:</p>\n<blockquote><p><strong>WordPress Atlas</strong> – uses data-science to pull blogs and websites into neighborhoods, towns, and cities based on topics, interests, and relations. Intention is to use real world metaphors to make discovery and sense of community more natural and explicit than, say, blogroll or news aggregators.</p></blockquote>\n<p>I now think the Atlas without data-science. How?<br />\n<strong>Using what we already have</strong>: blogs, bloggers, blogging tools, and WP community.</p>\n<p>So WordPress Atlas is just <strong>a loosely-coupled network of blogs using a new class of themes</strong>, themes that displays blog contents in a way that looks map-like. Atlas blog contents are information about other blogs. Yes, Atlas blogs are like <a href=\"https://en.wikipedia.org/wiki/Linklog\">Linklogs</a> but more visual-centric.</p>\n<p>What does it look like? Rather what does this reminds you of?</p>\n<p><img data-attachment-id=\"3835\" data-permalink=\"https://blog.docuverse.com/screenshot_265/\" data-orig-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_265.png\" data-orig-size=\"776,312\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"screenshot_265\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_265.png?w=300\" data-large-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_265.png?w=700\" class=\" size-full wp-image-3835 aligncenter\" src=\"https://donpark.files.wordpress.com/2017/06/screenshot_265.png?w=700\" alt=\"screenshot_265.png\" srcset=\"https://donpark.files.wordpress.com/2017/06/screenshot_265.png?w=700 700w, https://donpark.files.wordpress.com/2017/06/screenshot_265.png?w=150 150w, https://donpark.files.wordpress.com/2017/06/screenshot_265.png?w=300 300w, https://donpark.files.wordpress.com/2017/06/screenshot_265.png?w=768 768w, https://donpark.files.wordpress.com/2017/06/screenshot_265.png 776w\" sizes=\"(max-width: 700px) 100vw, 700px\"   /></p>\n<p><a href=\"https://www.pinterest.com/\">Pinterest</a>! It’s a place where people collect bookmarks presented as cards, through which people can chat with others, etc. Those cards are place-like when laid out.</p>\n<p>But Pinterest layout is not static so they change which is not at all map like. Value of maps is in stable visual memory. Buildings and streets may come and go over time but not overnight or by mere window resize.</p>\n<p>So <strong>Pinterest-like but layed-out in a virtual page</strong> over which visitors will zoom and pan over like Google Map.</p>\n<p><strong>Who will build Atlas blogs and will they come?</strong> I’ll answer this with another question: who builds and maintains those Awsome-xxxx lists on Github and do people use them?</p>\n<p><img data-attachment-id=\"3836\" data-permalink=\"https://blog.docuverse.com/2017/06/05/wordpress-atlas/screenshot_264/\" data-orig-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_264.png\" data-orig-size=\"437,344\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"screenshot_264\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_264.png?w=300\" data-large-file=\"https://donpark.files.wordpress.com/2017/06/screenshot_264.png?w=437\" class=\" size-full wp-image-3836 aligncenter\" src=\"https://donpark.files.wordpress.com/2017/06/screenshot_264.png?w=700\" alt=\"screenshot_264.png\" srcset=\"https://donpark.files.wordpress.com/2017/06/screenshot_264.png 437w, https://donpark.files.wordpress.com/2017/06/screenshot_264.png?w=150 150w, https://donpark.files.wordpress.com/2017/06/screenshot_264.png?w=300 300w\" sizes=\"(max-width: 437px) 100vw, 437px\"   /></p>\n<p>Visual layout is an essential differentiator. Other-wise textual awesome-list is better. It’s a difference that gets emphasized each time user navigates from a blog to a map it links to: <strong>destination map will knows</strong> where, in its layout, the <strong>referring blog</strong> is and display the <strong>neighborhood</strong> around that blog, maybe with some fancy transition animation.</p>\n<p>Atlas pages contain cards laid out in visually memorable, relatively compact patterns. These cards could not only be about individual blogs but blog pages, people (like designers and developers relevant to the <em>neighborhood</em>) and plugins.</p>\n<p>Notion of neighborhood helps with discovery and creates a sense of community.</p>\n<p>Destinations, what cards are about, can be in multiple maps, and maps of same neighborhoods can exist at different depth and filtering (like tourist maps) as well as languages.</p>\n<p>Atlas layout style is dictated by theme designer with vary capabilities. Some would allow streets to be named, like Fashion street, on which cards for major vendors could be placed and backstreets for boutique shops. Maybe specialty shops will form their own specialized clusters, like Latex Cave. When a neighborhood gets too crowded, they can be broken out to their own map linked from original neighborhood. Expansion is no problem. Real Estate value may or may not be controlled. Depends on map creator’s revenue model.</p>\n<p><strong>Experiments to do</strong>: Build a prototype Atlas theme then use it to create an aggregation blog using the theme. Use existing standards like Image Map. Search should include all the blogs on a page as user would expect. This adds value beyond mere link directory role. Get feedback.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+            "pubDate": "2017-06-06T07:13:00.000Z",
+            "link": "https://blog.docuverse.com/2017/06/05/wordpress-atlas/",
+            "author": "donpark",
+            "comments": "https://blog.docuverse.com/2017/06/05/wordpress-atlas/#comments",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/06/world/00india-devy-profile-01/00india-devy-profile-01-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale",
-            "description": "Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery.",
-            "pubDate": "2022-06-11T09:38:58.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html",
-            "author": "Thomas Gibbons-Neff, Andrew E. Kramer and Natalia Yermak",
+            "title": "Pragmatic Redux: Connecting to React",
+            "description": "<p><strong>There is a lot to like or dislike about <a href=\"http://redux.js.org/\">Redux</a></strong> but let&#8217;s say the decision to use it has been made and now you need to understand Redux for professional reasons. This post is a good place to start because you first question is most likely how does my component get its data and react to changes in the data?</p>\n<p><strong>Redux connects</strong> to React by wrapping it &#8211; hype-word is <em>higher-order component</em> but, in the end, what you get after calling <code><a href=\"https://github.com/reactjs/react-redux\">react-redux</a></code> function <code><a href=\"https://github.com/reactjs/react-redux/blob/master/docs/api.md\">connect</a></code> is a React component placed inside another to enhance or encapsulate.</p>\n<p><strong>Redux data is provided</strong> as properties by the wrapper component. So called <code>mapStateToProps</code>, first function you pass to <code>connect</code>, decides which part of Redux store should be passed as properties to the wrapped component.</p>\n<p><strong>Changes to are detected</strong> by the wrapper component which listens to Redux store. When changes occurs, wrapper component re-renders the wrapped component. Concerns over irrelevant changes and redundant renders should be ignored in the beginning as React itself can soak up a lot of inefficiencies and Redux provides plumbings you can use to reduce unnecessary updates. There are limits, however, and it&#8217;s not that hard to run into them as your application grows.</p>\n<p>At this point, two obvious and related questions arise which are:</p>\n<ul>\n<li>How does the wrapper component discover Redux store?</li>\n<li>How does the wrapped component dispatch actions?</li>\n</ul>\n<p><strong>Redux store is provided via context</strong> &#8211; use<strong> </strong><a href=\"https://github.com/reactjs/react-redux\">react-redux</a>&#8216;s <a href=\"https://github.com/reactjs/react-redux/blob/master/docs/api.md#provider-store\">Provider</a> component to set that up. Wrapped component, however, don&#8217;t usually need direct access to Redux store as data is passed as properties and actions are dispatched via functions which are also passed as properties.</p>\n<p><strong>Use <code>mapDispatchToProps</code>,</strong> second function you pass to <code>connect</code>, to add functions that create and dispatch actions without having to declare <code>contextTypes</code>. It&#8217;s a minor yet useful feature.</p>\n<p><strong>Keeping Redux out of React</strong> is harder than it looks. To dispatch actions, component has to know about dispatching methods it received as props. If actions change, dispatching methods and reducers need to change. Changes to component, Redux state, actions or reducers will often require changes to others. It&#8217;s possible but the cost of creating reusable Redux connected React component is much higher than advertised in my opinion.</p>",
+            "pubDate": "2017-05-13T20:04:13.000Z",
+            "link": "https://blog.docuverse.com/2017/05/13/pragmatic-redux-connecting-to-react/",
+            "author": "donpark",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/world/10ukraine-blog-ammunition-1/10ukraine-blog-ammunition-1-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison",
-            "description": "The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents.",
-            "pubDate": "2022-06-11T02:29:37.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html",
-            "author": "Megan Janetsky and María Silvia Trigo",
+            "title": "Beyond Future of WordPress Platform",
+            "description": "<p>This is how I envision WordPress platform evolving beyond what I outlined in <a href=\"https://blog.docuverse.com/2017/03/31/future-of-wordpress-desktop/\">Future of WordPress Platform</a>. The vision is essentially a projection of what I had in mind with Teleport Network venture but did not get a chance to realize (old chicken and egg problem). As to why I&#8217;m doing this, it&#8217;s because WordPress has the scale and unrealized ideas are like orphans.</p>\n<p><em>the vision starts with:</em></p>\n<p><strong>WordPress Studio</strong> &#8211; is the client-side application I outlined in <a href=\"https://blog.docuverse.com/2017/03/31/future-of-wordpress-desktop/\">the previous post on the subject</a>. It&#8217;s not unlike VSCode in that much of its functionalities are derived from plugins. Plugins should be stackable so the platform itself can be extended to support key features like theming and financial transactions. Theme support, for example, needs HTML and PHP generators which in turn may need digital signature support to secure assets pushed to server. End goals are to <strong>a)</strong> reduce dependence on server-side changes to add features (a la <em>serverless</em> mindset), and <strong>b)</strong> create a vehicle to drive richer user experiences.</p>\n<p><em>followed by:</em></p>\n<p><strong>WordPress Market</strong> &#8211; is a collection of studio plugins working in conjunction with backend services and UX-level plugins to provide rich mix of communication tools and integrated financial services. Intention is to bridge the difference between a collection of webpages and a retail store in RL. It must offer much more than in-page chatbox, even beyond what Slack offers today.</p>\n<p><em>then ends with:</em></p>\n<p><strong>WordPress Atlas</strong> &#8211; uses data-science to pull blogs and websites into neighborhoods, towns, and cities based on topics, interests, and relations. Intention is to use real world metaphors to make discovery and sense of community more natural and explicit than, say, blogroll or news aggregators.</p>\n<p>To me, Facebook is a mega-city of people just talking and exchanging photos, funnies, and insults all day everyday. I don&#8217;t care if Facebook is federated but I do care how drab everything is because you have to use what they offer and no more. I think WordPress can offer a way out of current conundrum without restarting from scratch.</p>",
+            "pubDate": "2017-04-22T06:20:40.000Z",
+            "link": "https://blog.docuverse.com/2017/04/21/beyond-future-of-wordpress-platform/",
+            "author": "donpark",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/world/08bolivia/08bolivia-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "For South Africa’s Leader, Being a Burglary Victim Spells Trouble",
-            "description": "After a fortune in cash was stolen from President Cyril Ramaphosa’s farmhouse, he kept it secret. Now that word is out, critics ask what he was hiding.",
-            "pubDate": "2022-06-10T18:19:41.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/africa/ramaphosa-farm-burglary-farmgate.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/africa/ramaphosa-farm-burglary-farmgate.html",
-            "author": "John Eligon",
+            "title": "More Posts Restored",
+            "description": "<p>This morning, I restored 400+ more blog posts from late 2005 to early 2008 by scraping from Internet Archive. Some 80+ posts and most of the images referenced by the restored blog posts weren&#8217;t archived however so they&#8217;re lost.</p>\n<p>Only remaining restoration tasks are fixing cross-post hyperlinks and remove missing image tags.</p>",
+            "pubDate": "2017-04-02T17:58:17.000Z",
+            "link": "https://blog.docuverse.com/2017/04/02/more-posts-restored/",
+            "author": "donpark",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/world/10safrica-farmgate-1/10safrica-farmgate-1-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "Live Updates: Eastern Battles Tilt in Russia’s Favor as Attrition Wears on Ukraine",
-            "description": "Although Moscow seemed to be slowly gaining ground, there were some indications it is struggling to govern occupied areas in southern Ukraine.",
-            "pubDate": "2022-06-11T21:03:53.000Z",
-            "link": "https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news",
-            "guid": "https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news",
-            "author": "The New York Times",
+            "title": "Future of WordPress Platform",
+            "description": "<p>While <a href=\"https://blog.docuverse.com/2017/03/26/old-blog-posts-restored/\">restoring my old blog post</a>, I started thinking about WordPress as a platform. WYSIWYG web site creation services like <a href=\"https://www.wix.com\" target=\"_blank\">Wix</a>, <a href=\"https://www.weebly.com\" target=\"_blank\">Weebly</a>, <a href=\"https://www.squarespace.com\" target=\"_blank\">Squarespace</a> and others are gaining attention and growing fast but they are more services than platforms. WordPress on the other hand has an immense collection of plugins and healthy community of developers and designers behind it.</p>\n<p>Main problem I see with WordPress as a platform is that its plugins run on the server-side, creating a compelling long-term incentive to host your own WordPress server to take advantage of features offered by those plugins instead of using WordPress.com. Allowing user-chosen plugins to be installed on WordPress.com creates a gaping security risk and management headaches.</p>\n<p><a href=\"https://www.flickr.com/photos/127519682@N02/16189100439\" target=\"_blank\"><img data-attachment-id=\"3065\" data-permalink=\"https://blog.docuverse.com/2017/03/31/future-of-wordpress-desktop/16189100439_84d30fe08f_m/\" data-orig-file=\"https://donpark.files.wordpress.com/2017/03/16189100439_84d30fe08f_m.jpg\" data-orig-size=\"180,240\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"16189100439_84d30fe08f_m\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://donpark.files.wordpress.com/2017/03/16189100439_84d30fe08f_m.jpg?w=180\" data-large-file=\"https://donpark.files.wordpress.com/2017/03/16189100439_84d30fe08f_m.jpg?w=180\" class=\" size-full wp-image-3065 aligncenter\" src=\"https://donpark.files.wordpress.com/2017/03/16189100439_84d30fe08f_m.jpg?w=700\" alt=\"16189100439_84d30fe08f_m.jpg\" srcset=\"https://donpark.files.wordpress.com/2017/03/16189100439_84d30fe08f_m.jpg 180w, https://donpark.files.wordpress.com/2017/03/16189100439_84d30fe08f_m.jpg?w=113 113w\" sizes=\"(max-width: 180px) 100vw, 180px\"   /></a></p>\n<p>I think the answer lay with <a href=\"https://apps.wordpress.com/desktop/\">WordPress.com desktop app</a> which currently doesn&#8217;t do much beyond what browser version offers and seemingly neglected. <strong>Key idea</strong> is to add client-side plugins support to the app, plugins that leverage WP REST-API to add features to WordPress-based websites.</p>\n<p>There could be several types of client-side WordPress plugins:</p>\n<ul>\n<li>Interfaces &#8211; WYSIWYG editors, media libraries, assistants, etc</li>\n<li>Generators &#8211; generates and updates static assets to be added to the website or injected into webpages.</li>\n<li>Augmenters &#8211; marks, corrects, suggests, and injects.</li>\n<li>Monitors &#8211; tracks changes and stats.</li>\n<li>Mediators &#8211; monitors, controls, and routes posts, comments, transactions, etc.</li>\n<li>Services &#8211; client-side workers</li>\n<li>Bridges &#8211; integrates with third-party services and platforms</li>\n</ul>\n<p>And adding Docker support will allow servers to run in client-side sandboxes for use by the desktop.</p>\n<p>Result would be a <em>host-neutral</em> platform, one that can address needs of both WordPress.com sites as well as self-hosted sites although it will significantly reduce the need to host your own.</p>",
+            "pubDate": "2017-03-31T10:51:08.000Z",
+            "link": "https://blog.docuverse.com/2017/03/31/future-of-wordpress-desktop/",
+            "author": "donpark",
+            "comments": "https://blog.docuverse.com/2017/03/31/future-of-wordpress-desktop/#comments",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/11/world/11ukraine-blog-header-1015/11ukraine-blog-header-1015-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions",
-            "description": "Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart.",
-            "pubDate": "2022-06-11T16:56:26.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html",
-            "author": "Chris Buckley and Sui-Lee Wee",
+            "title": "What is JWT?",
+            "description": "<p><em>This post explains what JWT is, without getting into technical details you don&#8217;t need to know. Intention of the post is to dispel some harmful misconceptions.</em></p>\n<p>In short, <strong>JWT is just a piece of data signed by someone</strong>. It doesn&#8217;t do much as-is but it&#8217;s a key building block useful in many applications.</p>\n<h2>What JWT Looks Like</h2>\n<blockquote><p><code>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWV9.TJVA95OrM7E2cBab30RMHrHDcEfxjoYZgeFONFh7HgQ</code></p></blockquote>\n<p>If you look carefully, it&#8217;s basically three gibberish text separated by a period. Th role each part plays are:</p>\n<blockquote><p><code>Header.Payload.Signature</code></p></blockquote>\n<p>They look gibberish because they are encoded. Important part is the <strong>payload</strong>. Rest is there to describe (<em>header</em>) and protect (<em>signature</em>) the payload.</p>\n<h2>What Each Part Does</h2>\n<p><code>Header</code> primarily describes (using JSON) how the <code>Payload</code> was signed so the <code>Signature</code> can be verified.</p>\n<blockquote>\n<pre>{\n \"alg\": \"HS256\",\n \"typ\": \"JWT\"\n}</pre>\n</blockquote>\n<p><code>Payload</code> is a collection of name-value pairs presented as JSON like this:</p>\n<blockquote>\n<pre>{\n  \"sub\": \"1234567890\",\n  \"name\": \"John Doe\",\n  \"admin\": true\n}</pre>\n</blockquote>\n<p><code>Signature</code> protects both the <code>Header</code> and the <code>Payload</code> so that neither can be changed without detection.</p>\n<h2>Key Points About JWT</h2>\n<ul>\n<li>JWT doesn&#8217;t say anything meaningful about its <strong>sender, recipient </strong>nor<strong> signer</strong> as-is.</li>\n<li>JWT is <strong>not encrypted</strong> as-is.</li>\n</ul>\n<p>This is not to say JWT can&#8217;t but they have to be added. Allow me to go into a bit more detail on each points.</p>\n<blockquote><p>JWT doesn&#8217;t say anything meaningful about its <strong>sender, recipient </strong>nor<strong> signer</strong> as-is.</p></blockquote>\n<p>JWT typically includes some info on its signer so the signature can be verified but that only proves it was signed by someone who can prove they signed it. Unless the signer is known that is. How one know calls for relationship and/or infrastructure.</p>\n<p>Same goes for sender and recipient. To verify sender or recipient, more has to be built-on top of JWT.</p>\n<blockquote><p>JWT is <strong>not encrypted</strong> as-is.</p></blockquote>\n<p>JWT is typically sent unencrypted over a secure channel of communication to a recipient but it may even be printed plainly using QR-code in newspapers. If you need to protect the token, encrypt it whole in  way that only the recipient can decrypt it. If only part of the payload needs to be protected, then encrypt just the value.</p>\n<hr />\n<p><em>Follow up series of posts will discuss how to build with JWT to solve some common problems like protecting APIs or delegated authorization in a mobile app without issues OAuth has. Stay tuned.</em></p>",
+            "pubDate": "2017-03-29T12:07:39.000Z",
+            "link": "https://blog.docuverse.com/2017/03/29/what-is-jwt/",
+            "author": "donpark",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/world/10china-us-defense1/10china-us-defense1-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         },
         {
-            "title": "U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins",
-            "description": "A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed.",
-            "pubDate": "2022-06-10T23:32:19.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html",
-            "author": "Jane Bradley",
+            "title": "Old Blog Posts Restored",
+            "description": "<p>As Monthly Archive links in the left-side bar shows, I uploaded old blog posts last night. Restoration wasn&#8217;t perfect of course.</p>\n<ul>\n<li>Posts from between late 2005 to 2007 is missing. If they are not among backups, I&#8217;m going to extract them from <a href=\"http://web.archive.org/web/*/http://docuverse.com\" target=\"_blank\">Internet Archive</a>.</li>\n<li>Comments weren&#8217;t uploaded. Still on my todo list.</li>\n<li>Permalinks weren&#8217;t restored so links coming in will 404 until they&#8217;re fixed.</li>\n<li>Deadlinks, missing stories and downloads.</li>\n<li><span style=\"text-decoration:line-through;\">Category extractor had a separator bug, creating nutty categories like <code>general;technical</code></span>(fixed now).</li>\n</ul>\n<p><span id=\"more-2586\"></span></p>\n<p>Hope to address them all eventually.</p>",
+            "pubDate": "2017-03-26T23:25:49.000Z",
+            "link": "https://blog.docuverse.com/2017/03/26/old-blog-posts-restored/",
+            "author": "donpark",
+            "comments": "https://blog.docuverse.com/2017/03/26/old-blog-posts-restored/#comments",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/world/10uk-donor/10uk-donor-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Single Cigarettes in Canada Will Be Inscribed With Warning",
-            "description": "Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking.",
-            "pubDate": "2022-06-10T22:00:33.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html",
-            "author": "Vjosa Isai",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/world/10canada-1/10canada-1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Pope Francis Postpones Trip to Africa, Citing Knee Problems",
-            "description": "The postponement of the trip to the Democratic Republic of Congo and South Sudan comes as speculation swirls that the pontiff may be thinking of stepping down.",
-            "pubDate": "2022-06-10T17:44:30.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html",
-            "author": "Elisabetta Povoledo",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/world/10pope-01/merlin_208348761_b82cbae4-2b56-44a8-9256-8811fc753014-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Reforms Are Imposed on U.N. Agency That Made Questionable Investments",
-            "description": "After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes.",
-            "pubDate": "2022-06-11T03:02:20.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html",
-            "author": "Farnaz Fassihi and David Fahrenthold",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/multimedia/10Nations-01/10Nations-01-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Protests Over Prophet Muhammad Comments Turn Deadly in India",
-            "description": "Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia.",
-            "pubDate": "2022-06-11T19:19:39.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html",
-            "author": "Emily Schmall and Suhasini Raj",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/11/world/11india-protests-top-sub-09/11india-protests-top-sub-09-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "A Caravan of Migrants Is Heading Toward the U.S. Border",
-            "description": "Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration.",
-            "pubDate": "2022-06-11T17:33:40.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html",
-            "author": "Oscar Lopez and Alejandro Cegarra",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/world/00mexico-migrants-videocover/00mexico-migrants-videocover-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Traffic-Clogged North England Bitter Over Stalled Rail Plan",
-            "description": "Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south.",
-            "pubDate": "2022-06-11T14:56:49.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html",
-            "author": "Aina J. Khan",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/05/27/world/00uk-north-promo/00uk-north-02-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "The Phone Booth of the Mind",
-            "description": "Phone booths may be obsolete, but they still offer a good model for keeping our phones from taking over our lives.",
-            "pubDate": "2022-06-11T11:16:05.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html",
-            "guid": "https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html",
-            "author": "Melissa Kirsch"
-        },
-        {
-            "title": "‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons",
-            "description": "A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives.",
-            "pubDate": "2022-06-11T10:00:02.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html",
-            "author": "Ian Austen",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/11/world/11canadaletter-tims1/11canadaletter-tims1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Biden Races to Expand Coalition Against Russia but Meets Resistance",
-            "description": "Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine.",
-            "pubDate": "2022-06-11T20:24:11.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html",
-            "guid": "https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html",
-            "author": "Lara Jakes and Edward Wong",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/us/politics/00dc-ukraine-strategy-1/00dc-ukraine-strategy-1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Here are the latest developments in the war in Ukraine.",
-            "pubDate": "2022-06-11T07:47:14.000Z",
-            "link": "https://www.nytimes.com/2022/06/11/world/europe/here-are-the-latest-developments-in-the-war-in-ukraine.html",
-            "guid": "https://www.nytimes.com/2022/06/11/world/europe/here-are-the-latest-developments-in-the-war-in-ukraine.html",
-            "author": "Anton Troianovski, Ivan Nechepurenko and Emma Bubola"
-        },
-        {
-            "title": "C.D.C. Dismisses Airborne Transmission of Monkeypox. Some Experts Disagree.",
-            "description": "The virus “is not known to linger in the air,” agency officials said. But the research is far from definitive.",
-            "pubDate": "2022-06-10T19:51:31.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html",
-            "guid": "https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html",
-            "author": "Apoorva Mandavilli",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/science/10monkeypox/10monkeypox-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Behind Enemy Lines, Scouts Help Ukrainians Execute Deadly Strikes",
-            "description": "A nascent insurgency made up of civilians or former soldiers provided information that aided Ukraine’s attack on two Russian bases, according to a senior Ukrainian military official.",
-            "pubDate": "2022-06-10T21:18:06.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html",
-            "author": "Michael Schwirtz and Marc Santora",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/world/10ukraine-partisan-attack-1/10ukraine-partisan-attack-1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Royal Shipwreck From 1682 Is Found Off the Coast of England",
-            "description": "The Gloucester, which was carrying a future king of England when it ran aground, was found 15 years ago. Its discovery was revealed this week.",
-            "pubDate": "2022-06-10T16:37:09.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html",
-            "author": "Christine Hauser and Derrick Bryson Taylor",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/12/world/12-XP-SHIPWRECK-01-PRINT/10xp-shipwreck1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Why the Jan. 6 Hearings Matter",
-            "description": "Even if the Jan. 6 attack will not become a unifying moment for the country.",
-            "pubDate": "2022-06-10T10:33:20.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/briefing/riots-capitol-hearing-trump.html",
-            "guid": "https://www.nytimes.com/2022/06/10/briefing/riots-capitol-hearing-trump.html",
-            "author": "David Leonhardt and Ian Prasad Philbrick",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/multimedia/10THE-AM-Fri-Jan6-promo/10THE-AM-Fri-Jan6-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots",
-            "description": "“Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert.",
-            "pubDate": "2022-06-10T09:37:28.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html",
-            "guid": "https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html",
-            "author": "Johnny Diaz and Christine Chung",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/multimedia/08virus-briefing-miami-honolulu/08virus-briefing-miami-honolulu-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Trapped by Russian Forces, Ukrainians Waited a Month in a Basement",
-            "description": "More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died.",
-            "pubDate": "2022-06-11T03:01:45.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html",
-            "author": "Valerie Hopkins and Nicole Tung",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/world/00ukraine-basement-top/00ukraine-basement-top-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "When Cockatoos Become Cocka-Too Much",
-            "description": "The native Australian birds are charismatic and deeply destructive.",
-            "pubDate": "2022-06-11T07:27:36.000Z",
-            "link": "https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html",
-            "guid": "https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/multimedia/10ausletter260-nl/10ausletter260-nl-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Your Friday Briefing",
-            "description": "Russia and Ukraine are struggling to control “dead cities.”",
-            "pubDate": "2022-06-10T03:58:32.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/briefing/russia-ukraine-capitol-riot-jan-6.html",
-            "guid": "https://www.nytimes.com/2022/06/09/briefing/russia-ukraine-capitol-riot-jan-6.html",
-            "author": "Jonathan Wolfe and Amelia Nierenberg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/multimedia/10ambriefing-europe-ukraine-lysychansk-copy/09ukrblog-lysychansk-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Biden Faces Skepticism at Summit of the Americas",
-            "description": "The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment.",
-            "pubDate": "2022-06-10T01:22:46.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html",
-            "guid": "https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html",
-            "author": "Michael D. Shear, Miriam Jordan and Anatoly Kurmanaev",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/multimedia/09dc-biden-summit-photo/09dc-biden-summit-photo-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "U.S. and Latin American Countries Will Commit to Receive More Migrants",
-            "description": "A joint declaration is expected to be issued Friday meant to address surging migration rates that have affected nations throughout the region.",
-            "pubDate": "2022-06-10T01:28:36.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/americas/summit-migrants-latin-america.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/americas/summit-migrants-latin-america.html",
-            "author": "Miriam Jordan",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/us/politics/09summit-americas-immigration-central-america/09summit-americas-immigration-central-america-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Your Friday Briefing: A Crucial Moment in the Ukraine War",
-            "description": "Plus the U.S. begins Jan. 6 hearings and Chinese pilots provoke U.S. allies.",
-            "pubDate": "2022-06-09T20:49:40.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/briefing/ukraine-zelensky-donbas-asia.html",
-            "guid": "https://www.nytimes.com/2022/06/09/briefing/ukraine-zelensky-donbas-asia.html",
-            "author": "Amelia Nierenberg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/multimedia/061022ambriefing-asia-promo/09ukrblog-lysychansk-header-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "‘Dead Cities’ Become the Flashpoint for the Fierce War in the East",
-            "description": "President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons.",
-            "pubDate": "2022-06-10T10:48:37.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html",
-            "author": "Andrew E. Kramer and Ivor Prickett",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/world/09ukraine-scene-promo/09ukraine-scene-1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism",
-            "description": "At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal.",
-            "pubDate": "2022-06-09T22:53:14.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html",
-            "author": "Isabella Kwai",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/03/11/world/09iran-nuclear-001/09iran-nuclear-001-moth-v2.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Biden and Bolsonaro Meet for First Time at Summit",
-            "description": "President Jair Bolsonaro addressed concerns about Brazil’s upcoming election, saying he came to power democratically and would leave office the same way.",
-            "pubDate": "2022-06-10T00:32:58.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html",
-            "author": "Jack Nicas and Michael D. Shear",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/us/politics/09americas-summit-brazil-meeting-new/09americas-summit-brazil-meeting-new-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Foreign Fighters Sentenced to Death in Russia-Held Eastern Ukraine",
-            "description": "Legal experts said the death sentences appeared calculated to discourage foreign volunteers from joining Ukraine’s military.",
-            "pubDate": "2022-06-10T00:29:12.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html",
-            "author": "Dan Bilefsky and Valerie Hopkins",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/07/08/world/08ukraine-blog-accused-mercenaries2/08ukraine-blog-accused-mercenaries2-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Dmitry Kovtun, Accused Killer of Russian Dissident, Dies at 56",
-            "description": "He and another ex-spy were found by British authorities to have served polonium-laced tea in London to an intelligence agent who had defected.",
-            "pubDate": "2022-06-09T20:14:24.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/dmitry-kovtun-dead.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/dmitry-kovtun-dead.html",
-            "author": "Sam Roberts",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/10/obituaries/08kovtun-image1-print1/05kovtun-image1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "U.S. Accelerated Expulsions of Haitian Migrants in May",
-            "description": "The uptick has rekindled criticism that the Biden administration treats Black migrants differently than others, an allegation it denies.",
-            "pubDate": "2022-06-11T19:09:52.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html",
-            "guid": "https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html",
-            "author": "Eileen Sullivan",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/03/us/politics/00dc-immig-haitians1/00dc-immig-haitians1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Putin Compares Himself to Peter the Great, the Famous Czar",
-            "description": "Vladimir Putin likened his goals in Ukraine to the conquests of Peter the Great.",
-            "pubDate": "2022-06-09T17:34:52.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/putin-peter-the-great.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/putin-peter-the-great.html",
-            "author": "Anton Troianovski",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/world/09ukraine-blog-putin/09ukraine-blog-putin-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Naftali Bennett, Israel’s Prime Minister, Visits U.A.E.",
-            "description": "The trip by Naftali Bennett, the Israeli leader, burnishes his foreign policy credentials and provides some distraction from his domestic political troubles.",
-            "pubDate": "2022-06-09T16:57:18.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/middleeast/israel-bennett-uae-visit.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/middleeast/israel-bennett-uae-visit.html",
-            "author": "Isabel Kershner"
-        },
-        {
-            "title": "The Best Books to Read on Disinformation: Its History, Techniques and Effects",
-            "description": "The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects.",
-            "pubDate": "2022-06-10T13:57:17.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html",
-            "guid": "https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html",
-            "author": "Richard Stengel"
-        },
-        {
-            "title": "Russia Prosecuting 1,100 Captured Ukrainian Soldiers",
-            "description": "Announcing the invasion in February, Vladimir Putin said Ukrainians would be prosecuted for “blood crimes.” Moscow is now making good on that vow.",
-            "pubDate": "2022-06-09T16:12:04.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/russia-trials-ukrainian-soldiers.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/russia-trials-ukrainian-soldiers.html",
-            "author": "Ivan Nechepurenko",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/world/09ukraine-blog-criminal-cases/09ukraine-blog-criminal-cases-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "The Racist Researcher Cited in the Buffalo Gunman’s Manifesto",
-            "description": "The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism.",
-            "pubDate": "2022-06-10T09:51:14.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html",
-            "author": "Monika Pronczuk and Koba Ryckewaert"
-        },
-        {
-            "title": "Tourist Damages Rome’s Spanish Steps by Pushing a Scooter Down Them",
-            "description": "An American woman and her companion caused $27,000 in damage to the landmark, officials said. They were fined and have been barred from the site for six months.",
-            "pubDate": "2022-06-09T17:59:31.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/spanish-steps-damaged-scooter.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/spanish-steps-damaged-scooter.html",
-            "author": "Derrick Bryson Taylor and Emma Bubola",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/world/09xp-spanish-steps2/09xp-spanish-steps2-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "German Brewers Face ‘Unprecedented’ Beer Bottle Shortage",
-            "description": "A nation of beer lovers is facing a shortage of bottles, partly because of the war in Ukraine. Breweries are looking to drinkers for a rescue.",
-            "pubDate": "2022-06-09T17:11:36.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/europe/germany-beer-bottle-shortage.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/europe/germany-beer-bottle-shortage.html",
-            "author": "Melissa Eddy",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/business/00beerbottles-1/00beerbottles-1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "2 Officials in Vietnam Are Arrested in Virus Test Kit Scandal",
-            "description": "The health minister and the mayor of Hanoi were removed from their posts in a scandal that has led to charges against dozens of officials.",
-            "pubDate": "2022-06-10T00:57:11.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/asia/vietnam-covid-test-scandal.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/asia/vietnam-covid-test-scandal.html",
-            "author": "Richard C. Paddock and Vo Kieu Bao Uyen",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/multimedia/09-virus-briefing-vietnam/09-virus-briefing-vietnam-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Covid and Race",
-            "description": "The death rate for white Americans has recently exceeded the rates for Black, Latino and Asian Americans.",
-            "pubDate": "2022-06-09T12:03:34.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/briefing/covid-race-deaths-america.html",
-            "guid": "https://www.nytimes.com/2022/06/09/briefing/covid-race-deaths-america.html",
-            "author": "David Leonhardt",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/multimedia/09-the-morning-promo/09-the-morning-lede-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Chinese Pilots Sent a Message. American Allies Said They Went Too Far.",
-            "description": "Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions.",
-            "pubDate": "2022-06-09T11:02:37.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html",
-            "author": "Austin Ramzy",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/world/08china-provocations-01/08china-provocations-01-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "A Radical Collective Takes Over One of the World’s Biggest Art Shows",
-            "description": "Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days?",
-            "pubDate": "2022-06-11T19:36:29.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html",
-            "guid": "https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html",
-            "author": "Samanth Subramanian",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/12/magazine/12mag-ruangrupa-08/12mag-ruangrupa-08-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "White House Outlines Covid Vaccine Plan for Children Under 5",
-            "description": "Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week.",
-            "pubDate": "2022-06-09T22:30:23.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html",
-            "guid": "https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html",
-            "author": "Noah Weiland",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/science/09virus-briefing-WHpediatricvaccine/09virus-briefing-WHpediatricvaccine-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Biden Administration to Set Rules of the Road for Charging Electric Vehicles",
-            "description": "Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart.",
-            "pubDate": "2022-06-10T03:20:37.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html",
-            "guid": "https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html",
-            "author": "Lisa Friedman"
-        },
-        {
-            "title": "At Least 7 Killed in Explosion and Fire in Daegu, South Korea",
-            "description": "A man in his 50s was suspected of setting off the explosion that started the blaze at a law office in the city of Daegu, the police said. He is believed to have died in the fire.",
-            "pubDate": "2022-06-10T07:31:39.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html",
-            "guid": "https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html",
-            "author": "John Yoon, Jin Yu Young and Tiffany May",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/09/world/09skorea-fire-03/09skorea-fire-03-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Your Thursday Briefing",
-            "description": "Russia cements its grip on southern Ukraine.",
-            "pubDate": "2022-06-09T04:42:46.000Z",
-            "link": "https://www.nytimes.com/2022/06/09/briefing/ukraine-infrastructure-omicron-berlin.html",
-            "guid": "https://www.nytimes.com/2022/06/09/briefing/ukraine-infrastructure-omicron-berlin.html",
-            "author": "Natasha Frost",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/world/09ambriefing-europe-ukraine-water/09ambriefing-europe-ukraine-water-moth-v2.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Russia Has Filled Ukrainian Water Canal to Crimea",
-            "description": "Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show.",
-            "pubDate": "2022-06-09T05:30:17.000Z",
-            "link": "https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html",
-            "guid": "https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html",
-            "author": "Anton Troianovski and Malachy Browne"
-        },
-        {
-            "title": "Your Thursday Briefing: Russia’s Land Bridge",
-            "description": "Moscow is trying to deepen its hold on occupied Ukrainian territory in the south.",
-            "pubDate": "2022-06-09T02:45:00.000Z",
-            "link": "https://www.nytimes.com/2022/06/08/briefing/russia-crimea-land-bridge-asia.html",
-            "guid": "https://www.nytimes.com/2022/06/08/briefing/russia-crimea-land-bridge-asia.html",
-            "author": "Amelia Nierenberg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/07/world/09ambriefing-asia-nl-PROMO/07ukraine-blog-kherson-dam2-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Russia Is Racing to Cement Its Control in Southern Ukraine",
-            "description": "The Kremlin says it has rebuilt rail and road links to Crimea, while appointing proxy officials in an effort to create facts on the ground.",
-            "pubDate": "2022-06-08T20:31:38.000Z",
-            "link": "https://www.nytimes.com/2022/06/08/world/europe/russia-ukraine-crimea-canal.html",
-            "guid": "https://www.nytimes.com/2022/06/08/world/europe/russia-ukraine-crimea-canal.html",
-            "author": "Marc Santora, Thomas Gibbons-Neff, Anton Troianovski and Michael Levenson",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/world/08ukraine-ledeall/merlin_187012383_c6b2e4ab-222f-4519-8cc6-ad60b34e311a-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?",
-            "description": "The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think.",
-            "pubDate": "2022-06-08T21:07:35.000Z",
-            "link": "https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html",
-            "guid": "https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html",
-            "author": "Amanda Taub",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/08/world/Interpreter-nl-Jun82022-01/Interpreter-nl-Jun82022-01-moth.jpg",
+                "url": "https://2.gravatar.com/avatar/88f2ee32d146425a422f58f8eab5424b?s=96&d=identicon&r=X",
                 "type": "image"
             }
         }

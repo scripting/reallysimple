@@ -1,4 +1,4 @@
-var myProductName = "reallysimple"; myVersion = "0.4.8";    
+var myProductName = "reallysimple"; myVersion = "0.4.9";    
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -10,7 +10,7 @@ const davefeedread = require ("davefeedread");
 
 const allowedHeadNames = [
 	"title", "link", "description", "language", "copyright", "managingEditor", "webMaster", "lastBuildDate", "pubDate", "category",
-	"generator", "docs", "cloud", "ttl", "image", "rating", "textInput", "skipHours", "skipDays", "source:account", "source:localtime"
+	"generator", "docs", "cloud", "ttl", "image", "rating", "textInput", "skipHours", "skipDays", "source:account", "source:localtime", "linkToSelf"
 	];
 const allowedItemNames = [
 	"title", "link", "description", "author", "category", "comments", "enclosures", "guid", "pubDate", "source", "source:outline", "source:likes"

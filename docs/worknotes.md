@@ -1,5 +1,11 @@
 # Worknotes
 
+#### 6/15/22 by DW -- v0.4.9
+
+If a feed has an &lt;atom:link> head-level element with rel="self", we add a head-level linkToSelf value with its value. 
+
+A <a href="http://scripting.com/2022/06/15.html#a163715">blog post</a> on this addition. 
+
 #### 6/12/22 by DW
 
 <a href="https://github.com/scripting/feeder">Feeder</a> is a server app that connects to the <a href="https://github.com/scripting/reallysimple">reallysimple</a> package via the web. 
