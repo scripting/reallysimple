@@ -1,5 +1,13 @@
 # Worknotes
 
+#### 6/20/22 by DW -- v0.4.10
+
+Fixed a syntax error on the first line of reallysimple.js, changing a semicolon to a comma. 
+
+Oddly, this is not seen as a syntax error in my Node, whereas Scott's is reporting an error.
+
+It's not good syntax no matter what. :smile:
+
 #### 6/15/22 by DW -- v0.4.9
 
 If a feed has an &lt;atom:link> head-level element with rel="self", we add a head-level linkToSelf value with its value. 
