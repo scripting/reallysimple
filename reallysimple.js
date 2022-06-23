@@ -1,7 +1,8 @@
-var myProductName = "reallysimple", myVersion = "0.4.10";     
+var myProductName = "reallysimple", myVersion = "0.4.11";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
+exports.setConfig = setConfig; //6/23/22 by DW
 
 const utils = require ("daveutils");
 const request = require ("request");
@@ -20,9 +21,14 @@ const allowedEnclosureNames = [
 	];
 
 var config = {
-	timeOutSecs: 3
+	timeOutSecs: 10
 	}
 
+function setConfig (options) { //6/23/22 by DW
+	for (var x in options) {
+		config [x] = options [x];
+		}
+	}
 function isEmptyObject (obj) {
 	try {
 		return (Object.keys (obj).length === 0);

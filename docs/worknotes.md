@@ -1,5 +1,15 @@
 # Worknotes
 
+#### 6/23/22 by DW -- v0.4.11
+
+New exported function reallySimple.setConfig.
+
+Right now there is just one item in its config, timeoutSecs. 
+
+We need to change it in the feeder app, and there may be other config elements to change in the future, so let's do this right. 
+
+Also change the default from 3 to 10.
+
 #### 6/20/22 by DW -- v0.4.10
 
 Fixed a syntax error on the first line of reallysimple.js, changing a semicolon to a comma. 
