@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.14";     
+var myProductName = "reallysimple", myVersion = "0.4.15";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -6,6 +6,7 @@ exports.setConfig = setConfig; //6/23/22 by DW
 
 const utils = require ("daveutils");
 const request = require ("request");
+const process = require ("process");
 const opml = require ("opml");
 const davefeedread = require ("davefeedread");
 
@@ -175,7 +176,7 @@ function convertFeed (oldFeed, whenstart) {
 		}
 	
 	newFeed.reader = { //7/2/22 by DW
-		app: myProductName + " v" + myVersion,
+		app: myProductName + " v" + myVersion + " (" + process.platform + ")",
 		ctSecsToRead: utils.secondsSince (whenstart)
 		};
 	
