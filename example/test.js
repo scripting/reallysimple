@@ -4,7 +4,7 @@ const fs = require ("fs");
 const utils = require ("daveutils");
 const reallysimple = require ("reallysimple");
 
-const urlfeed = "https://blog.docuverse.com/feed/";
+const urlfeed = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml";
 
 reallysimple.readFeed (urlfeed, function (err, theFeed) {
 	if (err) {

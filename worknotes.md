@@ -1,5 +1,9 @@
 # Worknotes
 
+#### 7/2/22 by DW -- v0.4.12
+
+Added a new <i>reader</i> section to the returned object, containing information that's not from the feed, rather is about the feed reader software. The first element of this object is ctSecsToRead which is the number of seconds it took to read the feed. Also included the name of the reader app and version.
+
 #### 6/23/22 by DW -- v0.4.11
 
 New exported function reallySimple.setConfig.

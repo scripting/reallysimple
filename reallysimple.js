@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.11";     
+var myProductName = "reallysimple", myVersion = "0.4.14";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -85,8 +85,7 @@ function convertFeedToOpml (theFeed) { //use this if you want to show an RSS fee
 		});
 	return (opml.stringify (theOutline));
 	}
-function convertFeed (oldFeed) {
-	
+function convertFeed (oldFeed, whenstart) {
 	var newFeed = new Object ();
 	
 	function convertOutline (jstruct) { 
@@ -175,6 +174,11 @@ function convertFeed (oldFeed) {
 			}
 		}
 	
+	newFeed.reader = { //7/2/22 by DW
+		app: myProductName + " v" + myVersion,
+		ctSecsToRead: utils.secondsSince (whenstart)
+		};
+	
 	newFeed.items = new Array ();
 	oldFeed.items.forEach (function (item) {
 		var newItem = new Object ();
@@ -230,12 +234,13 @@ function convertFeed (oldFeed) {
 	}
 
 function readFeed (url, callback) {
+	const whenstart = new Date ();
 	davefeedread.parseUrl (url, config.timeOutSecs, function (err, theFeed) {
 		if (err) {
 			callback (err);
 			}
 		else {
-			callback (undefined, convertFeed (theFeed));
+			callback (undefined, convertFeed (theFeed, whenstart));
 			}
 		});
 	}
