@@ -1,5 +1,11 @@
 # Worknotes
 
+#### 7/14/22 by DW -- v0.4.16
+
+Created a new item-level value called permalink. Previously we were getting the permalink and overwriting the guid value. Which is all well and good if the guid is a permalink. It's possible it's not, as illustrated by the feed below, where it's just an id, not a permalink, in which case we overwrite the guid with undefined. Not really good behavior. So now instead of doing that we copy it into the permalink value. 
+
+http://scripting.com/userfeeds/davewiner.xml
+
 #### 7/2/22 by DW -- v0.4.15
 
 Added a new <i>reader</i> section to the returned object, containing information that's not from the feed, rather is about the feed reader software. The first element of this object is ctSecsToRead which is the number of seconds it took to read the feed. Also included the name of the reader app and version.

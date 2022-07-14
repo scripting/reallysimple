@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.15";     
+var myProductName = "reallysimple", myVersion = "0.4.16";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -207,7 +207,7 @@ function convertFeed (oldFeed, whenstart) {
 					});
 				}
 			}
-		newItem.guid = getItemPermalink (item);
+		newItem.permalink = getItemPermalink (item); //7/14/22 by DW
 		if (newItem.source !== undefined) { //5/17/22 by DW
 			if (isEmptyObject (newItem.source)) {
 				delete newItem.source;
