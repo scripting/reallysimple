@@ -1,5 +1,9 @@
 # Worknotes
 
+#### 7/18/22 by DW -- v0.4.17
+
+If we see a source:markdown element, we generate the description by processing the markdown text.
+
 #### 7/14/22 by DW -- v0.4.16
 
 Created a new item-level value called permalink. Previously we were getting the permalink and overwriting the guid value. Which is all well and good if the guid is a permalink. It's possible it's not, as illustrated by <a href="http://xmlviewer.scripting.com/?url=http%3A%2F%2Fscripting.com%2Fuserfeeds%2Fdavewiner.xml">this feed</a>, where it's just an id, not a permalink, in which case we overwrite the guid with undefined. Not really good behavior. So now instead of doing that we copy it into the permalink value. 

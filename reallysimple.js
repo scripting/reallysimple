@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.16";     
+var myProductName = "reallysimple", myVersion = "0.4.17";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -9,6 +9,8 @@ const request = require ("request");
 const process = require ("process");
 const opml = require ("opml");
 const davefeedread = require ("davefeedread");
+const marked = require ("marked"); //7/18/22 by DW
+const emoji = require ("node-emoji");  //7/18/22 by DW
 
 const allowedHeadNames = [
 	"title", "link", "description", "language", "copyright", "managingEditor", "webMaster", "lastBuildDate", "pubDate", "category",
@@ -58,6 +60,17 @@ function getItemPermalink (item) {
 		}
 	return (undefined);
 	}
+function markdownProcess (markdowntext) {
+	var htmltext = marked.parse (markdowntext);
+	return (htmltext);
+	}
+function emojiProcess (s) {
+	function addSpan (code, name) {
+		return ("<span class=\"spRssEmoji\">" + code + "</span>");
+		}
+	return (emoji.emojify (s, undefined, addSpan));
+	}
+
 function convertFeedToOpml (theFeed) { //use this if you want to show an RSS feed in an outline
 	var theOutline = {
 		opml: {
@@ -226,6 +239,11 @@ function convertFeed (oldFeed, whenstart) {
 					});
 				}
 			newItem.enclosure = enc;
+			}
+		
+		if (item ["source:markdown"] !== undefined) { //7/18/22 by DW
+			let markdowntext = item ["source:markdown"] ["#"];
+			newItem.description = markdownProcess (emojiProcess (markdowntext));
 			}
 		
 		newFeed.items.push (newItem);
