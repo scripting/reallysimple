@@ -18,6 +18,10 @@ I needed a simple routine to call when I wanted to read a feed.
 
 RSS, Atom, and RDF.
 
+#### Demo
+
+Here's a <a href="http://feeder.scripting.com/returnjson?feedurl=https%3A%2F%2Frss.nytimes.com%2Fservices%2Fxml%2Frss%2Fnyt%2FTheater.xml">demo app</a> that runs a feed through reallySimple. 
+
 #### What we build on
 
 Thanks to Dan MacTough for the <a href="https://www.npmjs.com/package/feedparser">feedparser</a> package.

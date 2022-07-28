@@ -1,6 +1,6 @@
 {
     "title": "NYT > Movies",
-    "pubDate": "2022-07-01T23:19:03.000Z",
+    "pubDate": "2022-07-28T14:11:40.000Z",
     "link": "https://www.nytimes.com/section/movies",
     "language": "en-us",
     "copyright": "Copyright 2022 The New York Times Company",
@@ -9,256 +9,321 @@
         "title": "NYT > Movies"
     },
     "reader": {
-        "app": "reallysimple v0.4.15 (darwin)",
-        "ctSecsToRead": 0.213
+        "app": "reallysimple v0.4.17 (darwin)",
+        "ctSecsToRead": 0.216
     },
     "items": [
         {
-            "title": "The Best Films of 2022, So Far",
-            "description": "Here are the movies that our critics say have made the year a strong one onscreen.",
-            "pubDate": "2022-07-01T15:43:53.000Z",
-            "link": "https://www.nytimes.com/2022/07/01/movies/best-movies-2022.html",
-            "guid": "https://www.nytimes.com/2022/07/01/movies/best-movies-2022.html"
-        },
-        {
-            "title": "‘Minions: The Rise of Gru’ Review: They’re Yellow but Not Mellow",
-            "description": "This latest edition featuring the animated creatures is an origin story of sorts for their master, Gru.",
-            "pubDate": "2022-06-30T11:00:08.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/minions-the-rise-of-gru-review-theyre-yellow-but-not-mellow.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/minions-the-rise-of-gru-review-theyre-yellow-but-not-mellow.html",
-            "author": "Glenn Kenny"
-        },
-        {
-            "title": "‘Hallelujah’ Review: From Leonard Cohen to Cale to Buckley to Shrek",
-            "description": "A new documentary tells the entwined stories of a songwriter and his best-known composition.",
-            "pubDate": "2022-07-01T20:39:11.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/hallelujah-leonard-cohen-a-journey-a-song-review.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/hallelujah-leonard-cohen-a-journey-a-song-review.html",
-            "author": "A.O. Scott",
+            "title": "Why Brandon Perea’s ‘Nope’ Audition Made Jordan Peele Cry",
+            "description": "The actor’s unexpected take on Angel, the Fry’s worker, so won over the director that he decided during their meeting to rewrite the script.",
+            "pubDate": "2022-07-27T18:14:31.000Z",
+            "link": "https://www.nytimes.com/2022/07/27/movies/brandon-perea-nope-angel.html",
+            "guid": "https://www.nytimes.com/2022/07/27/movies/brandon-perea-nope-angel.html",
+            "author": "Kyle Buchanan",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/30/multimedia/30hallelujah1/30hallelujah1-moth.jpg",
+                "url": "https://static01.nyt.com/images/2022/07/27/arts/27brandon-perea2/27brandon-perea2-moth.jpg",
                 "type": "image"
-            }
+            },
+            "permalink": "https://www.nytimes.com/2022/07/27/movies/brandon-perea-nope-angel.html"
         },
         {
-            "title": "‘Down With the King’ Review: A Rapper in the Wilderness",
-            "description": "In Diego Ongaro’s patient and subtle new film, Freddie Gibbs plays a hip-hop artist struggling with a career malaise.",
-            "pubDate": "2022-06-29T13:39:40.000Z",
-            "link": "https://www.nytimes.com/2022/06/28/movies/down-with-the-king-review.html",
-            "guid": "https://www.nytimes.com/2022/06/28/movies/down-with-the-king-review.html",
-            "author": "A.O. Scott",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/07/01/multimedia/30down1/30down1-moth.jpg",
-                "type": "image"
-            }
-        },
-        {
-            "title": "Taika Waititi on “Thor” and “Our Flag Means Death\"",
-            "description": "The “Thor: Love and Thunder” director can’t say no — to starring in “Our Flag Means Death,” making a soccer movie, writing a “Star Wars” idea, adapting Roald Dahl. For starters.",
-            "pubDate": "2022-06-29T21:05:15.000Z",
-            "link": "https://www.nytimes.com/2022/06/29/movies/taika-waititi-thor-love-and-thunder.html",
-            "guid": "https://www.nytimes.com/2022/06/29/movies/taika-waititi-thor-love-and-thunder.html",
+            "title": "B.J. Novak Went to Texas Looking for ‘Vengeance’ and Found America",
+            "description": "The first film from a former star of “The Office” is a dark comedy about life in a nation that’s not as divided as we might think.",
+            "pubDate": "2022-07-26T19:11:05.000Z",
+            "link": "https://www.nytimes.com/2022/07/26/movies/bj-novak-vengeance.html",
+            "guid": "https://www.nytimes.com/2022/07/26/movies/bj-novak-vengeance.html",
             "author": "Dave Itzkoff",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/07/03/arts/03taika-waititi5/03taika-waititi5-moth.jpg",
+                "url": "https://static01.nyt.com/images/2022/07/28/arts/27bj-novak1/27bj-novak1-moth.jpg",
                 "type": "image"
-            }
+            },
+            "permalink": "https://www.nytimes.com/2022/07/26/movies/bj-novak-vengeance.html"
         },
         {
-            "title": "‘The Princess’ Review: Holding His Heart in Her Hands",
-            "description": "Joey King is credible and compelling as a vengeful would-be princess bride in this over-the-top action fantasy tale.",
-            "pubDate": "2022-07-01T13:00:05.000Z",
-            "link": "https://www.nytimes.com/2022/07/01/movies/the-princess-review.html",
-            "guid": "https://www.nytimes.com/2022/07/01/movies/the-princess-review.html",
+            "title": "The Japanese Author Behind ‘Bullet Train’ Is OK That the Film Isn’t So Japanese",
+            "description": "Kotaro Isaka dreamed that his novel would get the big-screen treatment. Now it’s an action thriller starring Brad Pitt. Does the lack of major Asian stars matter?",
+            "pubDate": "2022-07-28T02:15:13.000Z",
+            "link": "https://www.nytimes.com/2022/07/27/movies/bullet-train-author-kotaro-isaka.html",
+            "guid": "https://www.nytimes.com/2022/07/27/movies/bullet-train-author-kotaro-isaka.html",
+            "author": "Motoko Rich",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/07/31/arts/31bullet-author1/31bullet-author1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/27/movies/bullet-train-author-kotaro-isaka.html"
+        },
+        {
+            "title": "‘Vengeance’ Review: A Dish Best Served With Frito Pie",
+            "description": "In this comedic culture-war thriller, B.J. Novak, who wrote and directed, plays an aspiring podcaster chasing a true-crime story in West Texas.",
+            "pubDate": "2022-07-28T11:00:06.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/vengeance-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/vengeance-review.html",
+            "author": "A.O. Scott",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/vengeance-review.html"
+        },
+        {
+            "title": "‘Sharp Stick’ Review: The Babysitter’s Schlubs",
+            "description": "Lena Dunham’s new movie follows a 26-year-old who methodically gains sexual experience after having an uncomfortable affair.",
+            "pubDate": "2022-07-28T11:00:06.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/sharp-stick-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/sharp-stick-review.html",
             "author": "Amy Nicholson",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/sharp-stick-review.html"
+        },
+        {
+            "title": "‘Resurrection’ Review: Mother of Fears",
+            "description": "A successful single mother encounters a terrifying man from her past in this crazily enjoyable horror movie.",
+            "pubDate": "2022-07-28T11:00:06.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/resurrection-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/resurrection-review.html",
+            "author": "Jeannette Catsoulis",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/resurrection-review.html"
+        },
+        {
+            "title": "‘DC League of Super-Pets’ Review: #ReleaseTheLassieCut",
+            "description": "Dwayne Johnson and Kevin Hart voice canine heroes in a family-friendly animated spinoff of the “Justice League” franchise.",
+            "pubDate": "2022-07-28T11:00:04.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/dc-league-of-super-pets-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/dc-league-of-super-pets-review.html",
+            "author": "Calum Marsh",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/07/02/multimedia/30princess-review/30princess-review-moth.jpg",
+                "url": "https://static01.nyt.com/images/2022/07/28/multimedia/28dc-pets-review/28dc-pets-review-moth.jpg",
                 "type": "image"
-            }
+            },
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/dc-league-of-super-pets-review.html"
         },
         {
-            "title": "Behind the Scenes of ‘Marcel the Shell With Shoes On’",
-            "description": "How did “Marcel the Shell With Shoes On,” a short created in one person’s bedroom, become a full-scale, stop-motion feature film? Meticulously.",
-            "pubDate": "2022-06-28T17:07:11.000Z",
-            "link": "https://www.nytimes.com/2022/06/28/movies/marcel-the-shell-behind-the-scenes.html",
-            "guid": "https://www.nytimes.com/2022/06/28/movies/marcel-the-shell-behind-the-scenes.html",
-            "author": "Jason Bailey"
+            "title": "Rediscovering Australia’s Generation of Defiant Female Directors",
+            "description": "Gillian Armstrong, Jane Campion, Essie Coffey and others had waited years to tell their stories, as a Museum of the Moving Image series shows.",
+            "pubDate": "2022-07-26T19:18:51.000Z",
+            "link": "https://www.nytimes.com/2022/07/26/movies/australia-women-directors.html",
+            "guid": "https://www.nytimes.com/2022/07/26/movies/australia-women-directors.html",
+            "author": "Devika Girish",
+            "permalink": "https://www.nytimes.com/2022/07/26/movies/australia-women-directors.html"
         },
         {
-            "title": "‘Fourth of July’ Review: Fraught Family Dynamics From Louis C.K.",
-            "description": "The comedian directs, co-writes and takes a supporting role in this family dramedy. It’s not supposed to be his show, but it is anyway.",
-            "pubDate": "2022-06-30T14:57:59.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/louis-ck-fourth-of-july-review.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/louis-ck-fourth-of-july-review.html",
-            "author": "Glenn Kenny"
+            "title": "Paul Sorvino: A Voluble Man Who Excelled as a Brick of a Mobster",
+            "description": "The actor may be best known for “Goodfellas,” but he almost bailed on it because the character of the underboss Paulie Cicero was so difficult to pin down.",
+            "pubDate": "2022-07-25T23:39:19.000Z",
+            "link": "https://www.nytimes.com/2022/07/25/movies/paul-sorvino-goodfellas.html",
+            "guid": "https://www.nytimes.com/2022/07/25/movies/paul-sorvino-goodfellas.html",
+            "author": "Glenn Kenny",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/07/27/arts/sorvino-appraisal1/sorvino-appraisal1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/25/movies/paul-sorvino-goodfellas.html"
         },
         {
-            "title": "‘Beauty’ Review: Requiem for a Pop Star",
-            "description": "The ghost of Whitney Houston haunts “Beauty,” the story of a singer, her family and best friend on the edge of fame.",
-            "pubDate": "2022-06-30T11:00:04.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/beauty-review.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/beauty-review.html",
-            "author": "Lisa Kennedy"
+            "title": "‘Hypochondriac’ Review: A Mother of All Breakdowns",
+            "description": "A son tries to escape the fate of his mom in this psychological thriller.",
+            "pubDate": "2022-07-28T14:11:40.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/hypochondriac-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/hypochondriac-review.html",
+            "author": "Teo Bugbee",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/hypochondriac-review.html"
         },
         {
-            "title": "Trying to Capture the Life and Lyrics of That Wry Sage Leonard Cohen",
-            "description": "The makers of a documentary on the singer-songwriter took a deep dive into his “writing and rewriting and erasing” to better understand the man.",
-            "pubDate": "2022-07-01T22:40:43.000Z",
-            "link": "https://www.nytimes.com/2022/07/01/movies/leonard-cohen-hallelujah-documentary.html",
-            "guid": "https://www.nytimes.com/2022/07/01/movies/leonard-cohen-hallelujah-documentary.html",
+            "title": "‘How to Please a Woman’ Review: The Service Industry",
+            "description": "A bespoke business that offers house cleaning and sex work for women is at the heart of this Australian comedy.",
+            "pubDate": "2022-07-28T14:06:06.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/how-to-please-a-woman-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/how-to-please-a-woman-review.html",
+            "author": "Natalia Winkelman",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/how-to-please-a-woman-review.html"
+        },
+        {
+            "title": "‘A Love Song’ Review: When Moving Forward Means Looking Back",
+            "description": "Two former childhood friends rekindle their connection in this sweetly hopeful story of romantic longing.",
+            "pubDate": "2022-07-28T11:00:06.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/a-love-song-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/a-love-song-review.html",
+            "author": "Jeannette Catsoulis",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/a-love-song-review.html"
+        },
+        {
+            "title": "‘Paradise Highway’ Review: A Test of Loyalty",
+            "description": "A truck driver’s brother asks her to deliver a girl to sex traffickers in order to save his life in prison.",
+            "pubDate": "2022-07-28T11:00:05.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/paradise-highway-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/paradise-highway-review.html",
+            "author": "Concepción de León",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/paradise-highway-review.html"
+        },
+        {
+            "title": "‘Ali & Ava’ Review: Don’t You Want to Sing Along?",
+            "description": "Even as this romantic drama clings uncomfortably to the surface of an interracial relationship, the movie still delivers pops of color and memorable melodies, our critic writes.",
+            "pubDate": "2022-07-28T11:00:05.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/ali-ava-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/ali-ava-review.html",
+            "author": "Beandrea July",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/ali-ava-review.html"
+        },
+        {
+            "title": "‘Hansan: Rising Dragon’ Review: Naval Gazing",
+            "description": "The dutiful Korean war movie “Hansan: Rising Dragon” recounts a spectacular 16th-century naval victory over Japanese invaders.",
+            "pubDate": "2022-07-28T11:00:04.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/hansan-rising-dragon-review.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/hansan-rising-dragon-review.html",
             "author": "Nicolas Rapold",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/hansan-rising-dragon-review.html"
+        },
+        {
+            "title": "‘A Balance’ Review: Critical Distance",
+            "description": "Yujiro Harumoto’s slow-build morality tale puts an ambitious documentary maker in an uncomfortable position as her life begins to resemble her films.",
+            "pubDate": "2022-07-28T11:00:03.000Z",
+            "link": "https://www.nytimes.com/2022/07/28/movies/a-balance-review-critical-distance.html",
+            "guid": "https://www.nytimes.com/2022/07/28/movies/a-balance-review-critical-distance.html",
+            "author": "Austin Considine",
+            "permalink": "https://www.nytimes.com/2022/07/28/movies/a-balance-review-critical-distance.html"
+        },
+        {
+            "title": "How to Find the One",
+            "description": "After swooning at the interracial couple in “Bend It Like Beckham,” she knew how she wanted her romantic life to unfold. But the future had other plans.",
+            "pubDate": "2022-07-27T20:36:20.000Z",
+            "link": "https://www.nytimes.com/2022/07/27/podcasts/modern-love-manifestation-the-one.html",
+            "guid": "https://www.nytimes.com/2022/07/27/podcasts/modern-love-manifestation-the-one.html",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/07/01/arts/01hallelujah-doc/01hallelujah-doc-moth.jpg",
+                "url": "https://static01.nyt.com/images/2020/10/04/fashion/27modernlove-podcast-pakistan/04MODERN-PAKISTAN-moth.jpg",
                 "type": "image"
-            }
-        },
-        {
-            "title": "Five International Movies to Stream Now",
-            "description": "This month’s picks include an unconventional French rom-com, a triptych about Indigenous women in Mexico, a provincial Tamil satire and more.",
-            "pubDate": "2022-07-01T15:00:05.000Z",
-            "link": "https://www.nytimes.com/2022/07/01/movies/international-streaming.html",
-            "guid": "https://www.nytimes.com/2022/07/01/movies/international-streaming.html",
-            "author": "Devika Girish"
-        },
-        {
-            "title": "Watch Austin Butler Cause Hysteria in ‘Elvis’",
-            "description": "The director Baz Luhrmann narrates a sequence in which Elvis gives an early performance that stirs up the audience.",
-            "pubDate": "2022-07-01T14:36:08.000Z",
-            "link": "https://www.nytimes.com/2022/07/01/movies/elvis-clip.html",
-            "guid": "https://www.nytimes.com/2022/07/01/movies/elvis-clip.html",
-            "author": "Mekado Murphy"
-        },
-        {
-            "title": "‘Elvis’ | Anatomy of a Scene",
-            "description": "Baz Luhrmann narrates a sequence from his biopic starring Austin Butler and Tom Hanks.",
-            "pubDate": "2022-07-01T23:19:03.000Z",
-            "link": "https://www.nytimes.com/video/movies/100000008425728/elvis-scene.html",
-            "guid": "https://www.nytimes.com/video/movies/100000008425728/elvis-scene.html",
-            "author": "Mekado Murphy"
-        },
-        {
-            "title": "‘Mr. Malcolm’s List’ Review: A Finalist for His Affection",
-            "description": "Upper-crust courtship comes with undercooked social commentary in this Regency-era romance.",
-            "pubDate": "2022-06-30T17:49:58.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/mr-malcolms-list-review.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/mr-malcolms-list-review.html",
-            "author": "Amy Nicholson"
-        },
-        {
-            "title": "‘The Forgiven’ Review: When the Haves Dispose of a Have-Not",
-            "description": "Ralph Fiennes and Jessica Chastain play an unhappy couple who accidentally kill a stranger in Morocco en route to a desert bacchanal.",
-            "pubDate": "2022-06-30T15:21:14.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/the-forgiven-review.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/the-forgiven-review.html",
-            "author": "Manohla Dargis"
-        },
-        {
-            "title": "‘Accepted’ Review: Reaching for the Stars, Seeing Them Dissolve",
-            "description": "After a scandal unravels at their private school in western Louisiana, four seniors pick up the pieces.",
-            "pubDate": "2022-06-30T19:18:05.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/accepted-review-reaching-for-the-stars-seeing-them-dissolve.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/accepted-review-reaching-for-the-stars-seeing-them-dissolve.html",
-            "author": "Beandrea July"
-        },
-        {
-            "title": "‘Clara Sola’ Review: Breaking Free",
-            "description": "A 40-year-old woman, believed to be blessed with divine powers, has her sexual awakening in Nathalie Álvarez Mesén’s debut feature.",
-            "pubDate": "2022-06-30T11:00:08.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/clara-sola-review-breaking-free.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/clara-sola-review-breaking-free.html",
-            "author": "Devika Girish"
-        },
-        {
-            "title": "‘Sniper: The White Raven’ Review: Rage and Resilience",
-            "description": "This slick fictional portrait of a Ukrainian sniper begins in tranquillity before thrusting us into the silent brutality of the battlefield.",
-            "pubDate": "2022-06-30T17:06:39.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/sniper-the-white-raven-review.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/sniper-the-white-raven-review.html",
-            "author": "Natalia Winkelman"
-        },
-        {
-            "title": "‘Rubikon’ Review: Waiting to Inhale",
-            "description": "In this somber morality tale, the bare-bones crew of a space station is faced with an impossible choice.",
-            "pubDate": "2022-06-30T11:00:04.000Z",
-            "link": "https://www.nytimes.com/2022/06/30/movies/rubikon-review.html",
-            "guid": "https://www.nytimes.com/2022/06/30/movies/rubikon-review.html",
-            "author": "Jeannette Catsoulis"
-        },
-        {
-            "title": "Mary Mara, Actress on ‘ER,’ ‘Dexter’ and ‘Nash Bridges,’ Dies at 61",
-            "description": "She appeared in dozens of movies and television shows in a career of more than 30 years. The police said they believed she died in a drowning accident.",
-            "pubDate": "2022-06-29T19:25:01.000Z",
-            "link": "https://www.nytimes.com/2022/06/29/arts/television/mary-mara-dead.html",
-            "guid": "https://www.nytimes.com/2022/06/29/arts/television/mary-mara-dead.html",
-            "author": "Amisha Padnani"
-        },
-        {
-            "title": "‘The Art of Making It’ Review: Seeking a Bigger Canvas",
-            "description": "Despite its haphazard approach, this documentary about the contemporary art world serves as a decent explainer for the industry’s fraught dynamics.",
-            "pubDate": "2022-06-29T16:00:21.000Z",
-            "link": "https://www.nytimes.com/2022/06/29/movies/the-art-of-making-it-review.html",
-            "guid": "https://www.nytimes.com/2022/06/29/movies/the-art-of-making-it-review.html",
-            "author": "Beatrice Loayza"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/27/podcasts/modern-love-manifestation-the-one.html"
         },
         {
             "title": "Stream These Three Great Documentaries",
-            "description": "This month’s nonfiction picks include a reflection on a father, a immersive dive into the fishing industry and an alternative approach to the rock band biopic doc.",
-            "pubDate": "2022-06-29T12:00:04.000Z",
-            "link": "https://www.nytimes.com/2022/06/29/movies/documentaries-streaming.html",
-            "guid": "https://www.nytimes.com/2022/06/29/movies/documentaries-streaming.html",
-            "author": "Ben Kenigsberg"
+            "description": "A summer of soul, and plenty of soul-searching, in this month’s nonfiction film selections.",
+            "pubDate": "2022-07-27T15:40:05.000Z",
+            "link": "https://www.nytimes.com/2022/07/27/movies/documentaries-streaming.html",
+            "guid": "https://www.nytimes.com/2022/07/27/movies/documentaries-streaming.html",
+            "author": "Ben Kenigsberg",
+            "permalink": "https://www.nytimes.com/2022/07/27/movies/documentaries-streaming.html"
         },
         {
-            "title": "‘The Man From Toronto’ Review: Not So Clearly Canadian",
-            "description": "Woody Harrelson plays a hit man and Kevin Hart the wrong man in this Netflix action comedy.",
-            "pubDate": "2022-06-30T13:16:45.000Z",
-            "link": "https://www.nytimes.com/2022/06/28/movies/the-man-from-toronto-review.html",
-            "guid": "https://www.nytimes.com/2022/06/28/movies/the-man-from-toronto-review.html",
-            "author": "Calum Marsh"
-        },
-        {
-            "title": "‘Endangered’ Review: When Journalism Becomes Imperiled",
-            "description": "A new documentary from Heidi Ewing and Rachel Grady explores threats to press freedom, but not with the focus this global issue deserves.",
-            "pubDate": "2022-06-28T11:00:08.000Z",
-            "link": "https://www.nytimes.com/2022/06/28/movies/endangered-review.html",
-            "guid": "https://www.nytimes.com/2022/06/28/movies/endangered-review.html",
-            "author": "Ben Kenigsberg"
-        },
-        {
-            "title": "‘Doula’ Review: Rules of Contraction",
-            "description": "An expectant mother and a male birthing counselor learn to get along in this dry, refreshingly candid comedy.",
-            "pubDate": "2022-06-28T11:00:04.000Z",
-            "link": "https://www.nytimes.com/2022/06/28/movies/doula-review.html",
-            "guid": "https://www.nytimes.com/2022/06/28/movies/doula-review.html",
-            "author": "Jeannette Catsoulis"
-        },
-        {
-            "title": "Stream These 9 Movies and Shows Before They Leave Netflix in July",
-            "description": "Subscribers in the United States will lose a classic ’90s rom-com among other delightful titles. Watch these while you can.",
-            "pubDate": "2022-06-27T21:32:21.000Z",
-            "link": "https://www.nytimes.com/2022/06/27/movies/netflix-expiring-july.html",
-            "guid": "https://www.nytimes.com/2022/06/27/movies/netflix-expiring-july.html",
-            "author": "Jason Bailey"
-        },
-        {
-            "title": "When an Abortion Story Is Told as a Caper, Thriller or Farce",
-            "description": "As Roe falls, new works including a documentary, a feature film and a comedy show disrupt the taboos and clichés around abortion.",
-            "pubDate": "2022-06-30T20:29:46.000Z",
-            "link": "https://www.nytimes.com/2022/06/27/arts/abortion-janes-hbo-roe.html",
-            "guid": "https://www.nytimes.com/2022/06/27/arts/abortion-janes-hbo-roe.html",
-            "author": "Amanda Hess"
-        },
-        {
-            "title": "The Best Actors to Play Elvis Onscreen",
-            "description": "In honor of Austin Butler’s performance in the Baz Luhrmann biopic, we ranked 10 of the best — and worst — Presleys to grace the silver screen.",
-            "pubDate": "2022-06-28T18:53:46.000Z",
-            "link": "https://www.nytimes.com/2022/06/27/movies/elvis-austin-butler.html",
-            "guid": "https://www.nytimes.com/2022/06/27/movies/elvis-austin-butler.html",
-            "author": "Sarah Bahr",
+            "title": "‘We Met in Virtual Reality’ Review: Home Sweet Home",
+            "description": "This innovative documentary tags along with people who are finding happiness in a graphical online world.",
+            "pubDate": "2022-07-27T11:00:03.000Z",
+            "link": "https://www.nytimes.com/2022/07/27/movies/we-met-in-virtual-reality-review.html",
+            "guid": "https://www.nytimes.com/2022/07/27/movies/we-met-in-virtual-reality-review.html",
+            "author": "Nicolas Rapold",
             "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/06/26/arts/26elvis-ranked1/26elvis-ranked1-moth.jpg",
+                "url": "https://static01.nyt.com/images/2022/07/25/arts/we-met1/we-met1-moth-v2.jpg",
                 "type": "image"
-            }
+            },
+            "permalink": "https://www.nytimes.com/2022/07/27/movies/we-met-in-virtual-reality-review.html"
+        },
+        {
+            "title": "Study Shows Disability Representation Onscreen Is Increasing, but Still Falls Short",
+            "description": "The study published Tuesday also showed that television continues to lag behind film when it comes to representation of characters with disabilities.",
+            "pubDate": "2022-07-26T16:23:33.000Z",
+            "link": "https://www.nytimes.com/2022/07/26/arts/television/disability-representation-tv-movies-study.html",
+            "guid": "https://www.nytimes.com/2022/07/26/arts/television/disability-representation-tv-movies-study.html",
+            "author": "Sarah Bahr",
+            "permalink": "https://www.nytimes.com/2022/07/26/arts/television/disability-representation-tv-movies-study.html"
+        },
+        {
+            "title": "Paul Sorvino, Master of the Mild-Mannered Mobster, Dies at 83",
+            "description": "A would-be singing star, he found success in Hollywood playing a variety of roles, but they were often quiet, dangerous men, like Paulie Cicero in “Goodfellas.”",
+            "pubDate": "2022-07-27T21:09:58.000Z",
+            "link": "https://www.nytimes.com/2022/07/25/obituaries/paul-sorvino-dead.html",
+            "guid": "https://www.nytimes.com/2022/07/25/obituaries/paul-sorvino-dead.html",
+            "author": "Anita Gates",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/07/26/obituaries/26Sorvino-print3/00Sorvino1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/25/obituaries/paul-sorvino-dead.html"
+        },
+        {
+            "title": "Marvel Unveils ‘Black Panther: Wakanda Forever’ Trailer",
+            "description": "The studio announced news of the film’s release on Saturday at the pop-culture convention Comic-Con International in San Diego.",
+            "pubDate": "2022-07-25T08:57:21.000Z",
+            "link": "https://www.nytimes.com/2022/07/24/us/black-panther-trailer-wakanda-forever.html",
+            "guid": "https://www.nytimes.com/2022/07/24/us/black-panther-trailer-wakanda-forever.html",
+            "author": "Livia Albeck-Ripka",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/07/24/arts/24xp-marvel1/24xp-marvel1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/24/us/black-panther-trailer-wakanda-forever.html"
+        },
+        {
+            "title": "Bob Rafelson, Director of ‘Five Easy Pieces,’ Dies at 89",
+            "description": "A central figure in the New Hollywood movement, he was also the co-creator of the TV pop group the Monkees and featured it in a movie, “Head.”",
+            "pubDate": "2022-07-24T23:27:22.000Z",
+            "link": "https://www.nytimes.com/2022/07/24/obituaries/bob-rafelson-dead.html",
+            "guid": "https://www.nytimes.com/2022/07/24/obituaries/bob-rafelson-dead.html",
+            "author": "Dennis Lim",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/07/25/lens/24rafelson-1/24rafelson-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/24/obituaries/bob-rafelson-dead.html"
+        },
+        {
+            "title": "Geling Yan Says a Movie Fails to Credit Her. The Film World Shrugs.",
+            "description": "Geling Yan says that she is owed a screen credit for the Chinese film “One Second” — and that companies bringing it to Western audiences are complicit in censoring her.",
+            "pubDate": "2022-07-23T11:00:09.000Z",
+            "link": "https://www.nytimes.com/2022/07/23/movies/zhang-yimou-movie.html",
+            "guid": "https://www.nytimes.com/2022/07/23/movies/zhang-yimou-movie.html",
+            "author": "Mike Ives",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/06/28/multimedia/00xp-china-movie-GY/00xp-china-movie-GY-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/23/movies/zhang-yimou-movie.html"
+        },
+        {
+            "title": "The Gag Is: Keke Palmer Is a Movie Star",
+            "description": "With a face that launched a thousand GIFs, the actress is bringing her expressive range to “Nope,” Jordan Peele’s latest social thriller.",
+            "pubDate": "2022-07-24T15:38:29.000Z",
+            "link": "https://www.nytimes.com/2022/07/22/magazine/keke-palmer-nope.html",
+            "guid": "https://www.nytimes.com/2022/07/22/magazine/keke-palmer-nope.html",
+            "author": "Niela Orr",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/07/31/magazine/31mag-palmer/31mag-palmer-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/22/magazine/keke-palmer-nope.html"
+        },
+        {
+            "title": "Shonka Dukureh, Actress Who Sang ‘Hound Dog’ in ‘Elvis,’ Dies at 44",
+            "description": "She made her Hollywood debut as Big Mama Thornton, giving a performance that one castmate called “a spiritual experience.”",
+            "pubDate": "2022-07-25T08:39:56.000Z",
+            "link": "https://www.nytimes.com/2022/07/22/movies/shonka-dukereh-dead.html",
+            "guid": "https://www.nytimes.com/2022/07/22/movies/shonka-dukereh-dead.html",
+            "author": "Daniel Victor",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/07/23/multimedia/22xp-dukureh-1/22xp-dukureh-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/07/22/movies/shonka-dukereh-dead.html"
+        },
+        {
+            "title": "Five Horror Movies to Stream Now",
+            "description": "This month, horror takes a trip around the world, with demons creeping out Spain, Macedonia, the Netherlands and suburban America.",
+            "pubDate": "2022-07-22T15:00:06.000Z",
+            "link": "https://www.nytimes.com/2022/07/22/movies/horror-movies-streaming.html",
+            "guid": "https://www.nytimes.com/2022/07/22/movies/horror-movies-streaming.html",
+            "author": "Erik Piepenburg",
+            "permalink": "https://www.nytimes.com/2022/07/22/movies/horror-movies-streaming.html"
+        },
+        {
+            "title": "Jordan Peele’s New Film ‘Nope’ Explores ‘The Horse in Motion’",
+            "description": "Is the rider in the 19th-century photographic experiments really unknown, as Jordan Peele’s film implies? It’s complicated.",
+            "pubDate": "2022-07-27T19:30:23.000Z",
+            "link": "https://www.nytimes.com/2022/07/22/movies/nope-horse-in-motion-eadweard-muybridge.html",
+            "guid": "https://www.nytimes.com/2022/07/22/movies/nope-horse-in-motion-eadweard-muybridge.html",
+            "author": "Ben Kenigsberg",
+            "permalink": "https://www.nytimes.com/2022/07/22/movies/nope-horse-in-motion-eadweard-muybridge.html"
+        },
+        {
+            "title": "‘Alone Together’ Review: Finding Love in a Pandemic Retreat",
+            "description": "Katie Holmes writes, directs and stars in this minor-key rom-com set in 2020.",
+            "pubDate": "2022-07-21T15:37:18.000Z",
+            "link": "https://www.nytimes.com/2022/07/21/movies/alone-together-review.html",
+            "guid": "https://www.nytimes.com/2022/07/21/movies/alone-together-review.html",
+            "author": "Teo Bugbee",
+            "permalink": "https://www.nytimes.com/2022/07/21/movies/alone-together-review.html"
         }
     ]
 }
