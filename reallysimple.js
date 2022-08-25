@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.17";     
+var myProductName = "reallysimple", myVersion = "0.4.19";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -244,6 +244,7 @@ function convertFeed (oldFeed, whenstart) {
 		if (item ["source:markdown"] !== undefined) { //7/18/22 by DW
 			let markdowntext = item ["source:markdown"] ["#"];
 			newItem.description = markdownProcess (emojiProcess (markdowntext));
+			newItem.markdowntext = markdowntext; //8/25/22 by DW
 			}
 		
 		newFeed.items.push (newItem);

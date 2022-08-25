@@ -1,5 +1,11 @@
 # Worknotes
 
+#### 8/25/22 by DW -- v0.4.19
+
+We now return the markdowntext for items that have the source:markdown element. 
+
+We needed this because [app] strips markup from descriptions, by providing  markdowntext, we will have a way to regenerate it. The idea is that we can let through the styling that Markdown implements, it's harmless, where the garbage many feeds put in their text is intolerable. 
+
 #### 7/18/22 by DW -- v0.4.17
 
 If we see a source:markdown element, we generate the description by processing the markdown text.
