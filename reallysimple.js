@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.19";     
+var myProductName = "reallysimple", myVersion = "0.4.21";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;

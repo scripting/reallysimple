@@ -1,5 +1,9 @@
 # Worknotes
 
+#### 9/29/22 by DW -- v0.4.20
+
+I did an update to the davefeedread package, but for some reason NPM isn't picking it up. So I changed the spec in package.json to specify the exact version or greater, to "force" it to use the correct version, I hope. 
+
 #### 8/25/22 by DW -- v0.4.19
 
 We now return the markdowntext for items that have the source:markdown element. 
