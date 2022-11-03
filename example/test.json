@@ -1,7 +1,754 @@
 {
-    "reader": {
-        "app": "reallysimple v0.4.20 (darwin)",
-        "ctSecsToRead": 0.446
+    "title": "NYT > World News",
+    "pubDate": "2022-11-03T01:17:43.000Z",
+    "link": "https://www.nytimes.com/section/world",
+    "language": "en-us",
+    "copyright": "Copyright 2022 The New York Times Company",
+    "image": {
+        "url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+        "title": "NYT > World News"
     },
-    "items": []
+    "reader": {
+        "app": "reallysimple v0.4.21 (darwin)",
+        "ctSecsToRead": 0.433
+    },
+    "items": [
+        {
+            "title": "Russia Rejoins Grain Deal, but Warns It Could Pull Out Again",
+            "description": "The agreement allows Ukraine, a major food producer, to export grain by sea, easing the threat of famine in other countries.",
+            "pubDate": "2022-11-02T22:09:53.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html",
+            "author": "Ivan Nechepurenko and Matthew Mpoke Bigg",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02ukraine-ledeall-1/02ukraine-ledeall-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html"
+        },
+        {
+            "title": "Netanyahu Extends Lead in Israel Election, Projections Say",
+            "description": "Benjamin Netanyahu’s near-certain victory in this week’s election in Israel won’t be confirmed until Thursday, but his far right allies are already savoring their rise to power.",
+            "pubDate": "2022-11-02T19:13:41.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html",
+            "author": "Patrick Kingsley",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02Israel1/02Israel1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html"
+        },
+        {
+            "title": "Ethiopia and Tigray Rebels Agree to End Civil War, Mediators Say",
+            "description": "After two years of fighting that left hundreds of thousands dead and millions displaced and facing starvation, the surprise deal came out of peace talks convened by the African Union in South Africa.",
+            "pubDate": "2022-11-02T21:52:01.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html",
+            "author": "Declan Walsh, Abdi Latif Dahir and Lynsey Chutel",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02ethiopia-1sub/02ethiopia-1sub-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html"
+        },
+        {
+            "title": "Angry Bolsonaro Supporters Protest in the Streets",
+            "description": "Tens of thousands of people demonstrated in cities across Brazil, many of them demanding that the military stop the transfer of power to President-elect Luiz Inácio Lula da Silva.",
+            "pubDate": "2022-11-02T22:57:02.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html",
+            "author": "Jack Nicas",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02brazil-protests-1/merlin_215894454_b6af8baf-f0ba-4261-8f83-72a64aa746e5-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html"
+        },
+        {
+            "title": "Power Outages Leave Kyiv, Ukraine, Draped in Darkness",
+            "description": "The streets of Ukraine’s capital, illuminated with nightlife only weeks ago, are shrouded in darkness and shadows now because of restrictions on the use of electricity. The lack of light creates moments of apprehension, but also of beauty.",
+            "pubDate": "2022-11-02T12:40:59.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html",
+            "author": "Marc Santora and Brendan Hoffman",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01ukraine-kyiv-night05-promo/merlin_215196270_570ec7ac-784a-4b44-9c95-c8e73a1e245c-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html"
+        },
+        {
+            "title": "U.S. Accuses North Korea of Sending Russia Munitions",
+            "description": "A White House official says North Korea has covertly sent a “significant number” of artillery shells to Russia.",
+            "pubDate": "2022-11-03T01:10:39.000Z",
+            "link": "https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates",
+            "guid": "https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates",
+            "author": "The New York Times",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-header-1am/02ukraine-briefing-header-1am-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates"
+        },
+        {
+            "title": "Iranian Authorities Crack Down on Protests at Tehran Apartment Complex",
+            "description": "Iran’s security forces shot at windows and threw stun grenades in a raid at the Shahrak Ekbatan complex, where a member of the feared Basij militia was killed last week, residents said.",
+            "pubDate": "2022-11-02T19:53:17.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html",
+            "author": "Farnaz Fassihi",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02iran-protests01/02iran-protests01-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html"
+        },
+        {
+            "title": "U.S. Seeks Removal of Iran From U.N. Women’s Rights Agency",
+            "description": "At an informal meeting of the United Nations Security Council on Wednesday, the American ambassador called on the global community to give its “moral support” to protesters in Iran.",
+            "pubDate": "2022-11-02T23:18:09.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html",
+            "author": "Farnaz Fassihi",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02nations-Iran-1-ffc2/02nations-Iran-1-ffc2-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html"
+        },
+        {
+            "title": "Israel’s Election: 5 Takeaways",
+            "description": "Benjamin Netanyahu seems poised to take power again. But regardless of his fate, the election already highlights several trends that could have a lasting effect on Israel.",
+            "pubDate": "2022-11-02T16:42:10.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html",
+            "author": "Patrick Kingsley",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02Israel-Explainer-1/02Israel-Explainer-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html"
+        },
+        {
+            "title": "After Covid Lockdown, Fear and Unrest Sweep iPhone Factory in China",
+            "description": "Hundreds of workers are said to have fled, afraid of being forced into quarantine with inadequate food and supplies.",
+            "pubDate": "2022-11-02T18:25:23.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html",
+            "author": "Chang Che and Amy Chang Chien",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/12/01/world/01china-foxconn-01/01china-foxconn-01-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html"
+        },
+        {
+            "title": "Denmark’s Center-Left Coalition Wins Election Majority",
+            "description": "An unpredictable race ultimately gave the governing Social Democratic Party its best showing in two decades, though analysts said it looked set to form a more centrist government.",
+            "pubDate": "2022-11-02T15:58:47.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html",
+            "author": "Jasmina Nielsen and Isabella Kwai",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/02denmark-election/02denmark-election-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html"
+        },
+        {
+            "title": "North Korea Launches 23 Missiles, Triggering Air-Raid Alarm in South",
+            "description": "People on an island took cover as one missile landed near South Korean territorial waters. The South responded by firing three missiles of its own.",
+            "pubDate": "2022-11-02T23:32:27.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html",
+            "author": "Choe Sang-Hun",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/12/01/world/01nkorea-11/01nkorea-11-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html"
+        },
+        {
+            "title": "Pleas for Help Went Unheeded for Hours in Deadly South Korea Crush",
+            "description": "Transcripts of desperate emergency calls exposed the failure of the government response, and contradicted official claims about when the disaster was first reported.",
+            "pubDate": "2022-11-01T19:10:24.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/asia/south-korea-crowd-crush.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/asia/south-korea-crowd-crush.html",
+            "author": "Choe Sang-Hun",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01skorea-1/01skorea-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/asia/south-korea-crowd-crush.html"
+        },
+        {
+            "title": "India Bridge Offered Respite to Migrants, Before Taking Their Lives",
+            "description": "Cash compensation for victims’ families will do little to make up for the life, and economic hope, of migrants among the 134 killed in India.",
+            "pubDate": "2022-11-01T14:03:42.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/asia/india-bridge-disaster.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/asia/india-bridge-disaster.html",
+            "author": "Sameer Yasir and Emily Schmall",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01india-bridge-1/01india-bridge-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/asia/india-bridge-disaster.html"
+        },
+        {
+            "title": "North Korea Fires 3 More Missiles Toward Japan, Including Suspected ICBM",
+            "description": "Just a day after launching nearly two dozen missiles, the North fired off more, one of which officials said appeared to be an intercontinental ballistic missile.",
+            "pubDate": "2022-11-03T01:17:43.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/asia/north-korea-missile-japan.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/asia/north-korea-missile-japan.html",
+            "author": "Choe Sang-Hun and Motoko Rich",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/03/multimedia/03nkorea-01-1-518c/03nkorea-01-1-518c-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/asia/north-korea-missile-japan.html"
+        },
+        {
+            "title": "Russia’s Nuclear Weapons Rhetoric: How Concerned Should We Be?",
+            "description": "U.S. officials say they do not believe that Russia has decided to detonate a tactical device, but concerns are rising.",
+            "pubDate": "2022-11-02T23:58:47.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html",
+            "guid": "https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html",
+            "author": "Julian E. Barnes, Helene Cooper and Eric Schmitt",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02dc-nukes-1-6a21/02dc-nukes-1-6a21-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html"
+        },
+        {
+            "title": "Your Thursday Briefing: A Truce in Tigray",
+            "description": "Plus North Korea fired a record number of missiles, and Russia rejoined the grail deal.",
+            "pubDate": "2022-11-02T20:58:19.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html",
+            "guid": "https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html",
+            "author": "Amelia Nierenberg",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/03ambriefing-asia-ethiopia-promo/02ethiopia-HP-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html"
+        },
+        {
+            "title": "Dobby’s Grave Can Stay on a Beach in Wales, but Please Stop Giving Him Socks",
+            "description": "After a grave site for the “Harry Potter” elf became a tourist attraction, tributes to the character prompted environmental concerns.",
+            "pubDate": "2022-11-02T17:39:55.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html",
+            "author": "Daniel Victor",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02xp-dobby/02xp-dobby-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html"
+        },
+        {
+            "title": "North Korea Sending Ammunition to Russia for War, White House Says",
+            "description": "The national security spokesman, John Kirby, said that it was unclear if the munitions had reached Russia, but that in any case, they would not “change the course of the war.”",
+            "pubDate": "2022-11-03T00:50:23.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html",
+            "author": "Alan Rappeport",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02ukraine-briefing-north-korea-01-1-3113/02ukraine-briefing-north-korea-01-1-3113-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html"
+        },
+        {
+            "title": "Kyiv Prepares 425 Shelters in Case of a Russian Nuclear Attack",
+            "description": "Worries that the Kremlin might turn to its nuclear arsenal have deepened since President Vladimir V. Putin of Russia raised the specter of using such weapons to hold on to territorial gains.",
+            "pubDate": "2022-11-02T14:06:11.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html",
+            "author": "Marc Santora",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02ukraine-briefing-nuclear-shelter-5-1-6864/02ukraine-briefing-nuclear-shelter-5-1-6864-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html"
+        },
+        {
+            "title": "The New Abortion Landscape",
+            "description": "Women in states with abortion bans are turning to telemedicine.",
+            "pubDate": "2022-11-02T14:23:32.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html",
+            "guid": "https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html",
+            "author": "Emily Bazelon",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/multimedia/02themorning-lead-promo/02themorning-lead-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html"
+        },
+        {
+            "title": "Hurricane or Typhoon? How Tropical Cyclones Get Their Names.",
+            "description": "There are variations around the world, particularly in the Western Pacific, in how countries name and measure tropical cyclones. We can explain.",
+            "pubDate": "2022-11-02T09:40:06.000Z",
+            "link": "https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html",
+            "guid": "https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html",
+            "author": "Mike Ives",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/22/multimedia/00xp-typhoons-01-1-9959/00xp-typhoons-01-1-9959-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html"
+        },
+        {
+            "title": "As Climate Change Worsens, US Weighs Which Communities to Save",
+            "description": "Native American tribes are competing for the first federal grants designed to help move communities away from high water and other dangers posed by climate change.",
+            "pubDate": "2022-11-02T15:57:00.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html",
+            "guid": "https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html",
+            "author": "Christopher Flavelle and Tailyr Irvine",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/climate/00cli-RELOCATING_TRIBES-promo/00cli-RELOCATING_TRIBES-promo-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html"
+        },
+        {
+            "title": "Trial of Kansas Teacher Who Joined ISIS Shows Family’s Deep Scars",
+            "description": "Allison Fluke-Ekren, a teacher from Kansas, dragged her family to Syria and forced her daughter, Leyla, to train for war on behalf of the Islamic State. Now her daughter wields final words against her.",
+            "pubDate": "2022-11-02T16:56:20.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html",
+            "guid": "https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html",
+            "author": "Adam Goldman",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/us/politics/01dc-isis15/01dc-isis15-moth.png",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html"
+        },
+        {
+            "title": "Russia rejoins the grain deal after saying it received safety assurances.",
+            "pubDate": "2022-11-02T11:04:40.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html",
+            "guid": "https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html",
+            "author": "Matthew Mpoke Bigg and James C. McKinley Jr.",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/02ukraine-briefing-grain-wednesday-writhru/01ukraine-ledeall-5-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html"
+        },
+        {
+            "title": "Your Wednesday Briefing",
+            "description": "The latest developments from elections in Brazil, Denmark and Israel.",
+            "pubDate": "2022-11-02T04:54:32.000Z",
+            "link": "https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html",
+            "guid": "https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html",
+            "author": "Natasha Frost",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/02ambriefing-europe-nl-promo-nov/02ambriefing-europe-nl-promo-nov-moth-v3.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html"
+        },
+        {
+            "title": "Netanyahu Holds Slight Lead in Israeli Election, Exit Polls Show",
+            "description": "If the right-wing bloc does eke out a narrow victory, it will allow Mr. Netanyahu, Israel’s longest-serving prime minister, to return to office even as he stands trial on corruption charges.",
+            "pubDate": "2022-11-02T01:53:39.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html",
+            "author": "Patrick Kingsley and Isabel Kershner",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/01israel-ledeall-01/01israel-ledeall-01-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html"
+        },
+        {
+            "title": "Russia Pushes Ukrainians to Relocate as Possible Battle for Kherson Looms",
+            "description": "Ukrainian officials said that Moscow was trying to clear out civilians to provide places for newly mobilized Russian troops to occupy.",
+            "pubDate": "2022-11-01T23:47:43.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html",
+            "author": "Marc Santora",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01ukraine-ledeall-1/01ukraine-ledeall-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html"
+        },
+        {
+            "title": "Your Wednesday Briefing: Israel Votes, Again",
+            "description": "Plus Bolsonaro will step aside in Brazil and investigations mount in India’s bridge collapse.",
+            "pubDate": "2022-11-01T21:08:53.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/briefing/israeli-netanyahu-brazil-asia.html",
+            "guid": "https://www.nytimes.com/2022/11/01/briefing/israeli-netanyahu-brazil-asia.html",
+            "author": "Amelia Nierenberg",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/02/world/110222ambriefing-asia-promo/02ambriefing-asia-israel-moth-v2.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/briefing/israeli-netanyahu-brazil-asia.html"
+        },
+        {
+            "title": "Colombia’s President Visits Venezuela, Moving Away From Isolation",
+            "description": "Colombia’s new president met with his Venezuelan counterpart, a milestone in the move by leftist leaders in Latin America to ease the isolation of Nicolás Maduro’s government in Caracas.",
+            "pubDate": "2022-11-01T23:29:28.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/americas/gustavo-petro-nicolas-maduro-venezuela.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/americas/gustavo-petro-nicolas-maduro-venezuela.html",
+            "author": "Isayen Herrera and Julie Turkewitz",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01latam-venezuela-top/01latam-venezuela-top-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/americas/gustavo-petro-nicolas-maduro-venezuela.html"
+        },
+        {
+            "title": "Canada Aims to Add 1.45 Million Immigrants by 2025",
+            "description": "The policy would increase immigration one week after the country’s census agency announced that Canada had set a new milestone in immigration.",
+            "pubDate": "2022-11-02T00:03:38.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/canada/canada-immigrants.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/canada/canada-immigrants.html",
+            "author": "Vjosa Isai",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01Canada/merlin_210693849_b0a3c3b3-fd97-4da4-83ae-b6d14c7a5de9-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/canada/canada-immigrants.html"
+        },
+        {
+            "title": "For Netanyahu’s Corruption Trial, Court Is Hearing From Over 300 Witnesses",
+            "description": "The Israeli electorate remains divided over the former prime minister, even as his continuing trial on corruption charges has mostly dropped out of the headlines.",
+            "pubDate": "2022-11-01T20:46:46.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-netanyahu-corruption-trial.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-netanyahu-corruption-trial.html",
+            "author": "Isabel Kershner",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01israel-elections-briefing-TRIAL-01/merlin_215490498_96097ef0-63c4-4a1c-a16e-9949a967d20b-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-netanyahu-corruption-trial.html"
+        },
+        {
+            "title": "Matt Hancock, Former UK Health Secretary, Gets a TV Gig, Then a Suspension",
+            "description": "Matt Hancock, who was filmed in a steamy embrace with an aide, breaking strict Covid distancing rules, will appear on “I’m a Celebrity … Get Me Out of Here!”",
+            "pubDate": "2022-11-01T17:30:08.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/europe/matt-hancock-im-a-celebrity-britain-parliament.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/europe/matt-hancock-im-a-celebrity-britain-parliament.html",
+            "author": "Stephen Castle",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/12/01/world/01uk-hancock-2/01uk-hancock-2-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/matt-hancock-im-a-celebrity-britain-parliament.html"
+        },
+        {
+            "title": "On the scene of a Russian rocket attack.",
+            "pubDate": "2022-11-01T16:22:01.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/europe/on-the-scene-of-a-russian-rocket-attack.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/europe/on-the-scene-of-a-russian-rocket-attack.html",
+            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/on-the-scene-of-a-russian-rocket-attack.html"
+        },
+        {
+            "title": "Bolsonaro Agrees to Transition, Two Days After Losing Brazil Election",
+            "description": "Breaking his silence, President Jair Bolsonaro did not admit defeat or repeat his baseless claims about election fraud, but his administration signaled that the transfer of power would proceed.",
+            "pubDate": "2022-11-02T00:29:30.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/americas/bolsonaro-protest-brazil-election.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/americas/bolsonaro-protest-brazil-election.html",
+            "author": "Jack Nicas and André Spigariol",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01brazil-top/01brazil-top-moth-v3.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/americas/bolsonaro-protest-brazil-election.html"
+        },
+        {
+            "title": "Under Russia’s Rain of Fire in Kherson, Ukrainians Sneak Forward",
+            "description": "The commander of a Ukrainian reconnaissance unit spearheading the counterattack in the southern region of Kherson explained how his team helped breach defenses he described as frighteningly dense.",
+            "pubDate": "2022-11-01T14:24:54.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/europe/ukraine-war-kherson.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/europe/ukraine-war-kherson.html",
+            "author": "Carlotta Gall and Ivor Prickett",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/00ukraine-scene01a-promo/00ukraine-scene01a-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/ukraine-war-kherson.html"
+        },
+        {
+            "title": "Scientists Are Gaining On RSV, a Persistent Threat to Children",
+            "description": "Vaccines and treatments are in trials, but the virus remains a leading killer of infants worldwide.",
+            "pubDate": "2022-11-01T13:11:18.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/health/rsv-children-vaccines.html",
+            "guid": "https://www.nytimes.com/2022/11/01/health/rsv-children-vaccines.html",
+            "author": "Apoorva Mandavilli",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01rsv/01rsv-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/health/rsv-children-vaccines.html"
+        },
+        {
+            "title": "What’s the Future of Affirmative Action?",
+            "description": "The Supreme Court seems poised to end the policy.",
+            "pubDate": "2022-11-01T11:19:44.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/briefing/affirmative-action-supreme-court.html",
+            "guid": "https://www.nytimes.com/2022/11/01/briefing/affirmative-action-supreme-court.html",
+            "author": "German Lopez",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/01themorning-promo/01themorning-lead-2-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/briefing/affirmative-action-supreme-court.html"
+        },
+        {
+            "title": "Denmark Heads for Period of Uncertainty After Snap Election",
+            "description": "With no clear coalition as of Tuesday night, the stage is set for a negotiation to form what analysts say will likely be a centrist government.",
+            "pubDate": "2022-11-02T00:43:39.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/europe/denmark-election.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/europe/denmark-election.html",
+            "author": "Jasmina Nielsen and Isabella Kwai",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01denmark-election/01denmark-election-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/denmark-election.html"
+        },
+        {
+            "title": "Why Does Israel Keep Having So Many Elections?",
+            "description": "A divided electorate and shifting alliances make for a delicate balance in the country’s voting outcomes and lawmakers’ ability to hold diverse blocs together.",
+            "pubDate": "2022-11-01T14:56:22.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-why-many-elections.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-why-many-elections.html",
+            "author": "Patrick Kingsley",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01israel-election-lede-new/01israel-election-lede-new-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-why-many-elections.html"
+        },
+        {
+            "title": "Israel Election: Here’s what’s at stake.",
+            "pubDate": "2022-11-01T19:32:35.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/heres-whats-at-stake-in-the-election.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/heres-whats-at-stake-in-the-election.html",
+            "author": "Patrick Kingsley",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01israel-election-why-new/01israel-election-why-new-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/heres-whats-at-stake-in-the-election.html"
+        },
+        {
+            "title": "Your Tuesday Briefing",
+            "description": "Skyrocketing inflation in Europe.",
+            "pubDate": "2022-11-01T05:23:03.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/briefing/inflation-brazil-russia.html",
+            "guid": "https://www.nytimes.com/2022/11/01/briefing/inflation-brazil-russia.html",
+            "author": "Jonathan Wolfe",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/01ambriefing-europe-nl-promo/31eurozone-inflation-2-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/briefing/inflation-brazil-russia.html"
+        },
+        {
+            "title": "Three more grain ships set sail from Ukraine amid questions about their safety.",
+            "pubDate": "2022-11-01T13:08:47.000Z",
+            "link": "https://www.nytimes.com/2022/11/01/world/europe/putin-reaffirms-russias-suspension-of-grain-deal-even-as-grain-ships-leave-ukrainian-ports.html",
+            "guid": "https://www.nytimes.com/2022/11/01/world/europe/putin-reaffirms-russias-suspension-of-grain-deal-even-as-grain-ships-leave-ukrainian-ports.html",
+            "author": "Dan Bilefsky, Anton Troianovski and Matthew Mpoke Bigg",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/multimedia/01ukraine-briefing-grain-morning-lead-03-1-63c5/01ukraine-briefing-grain-morning-lead-03-1-63c5-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/putin-reaffirms-russias-suspension-of-grain-deal-even-as-grain-ships-leave-ukrainian-ports.html"
+        },
+        {
+            "title": "Russian Missiles Deliver New Woe to Kyiv, Knocking Out Tap Water",
+            "description": "Moscow kept up its campaign to destroy civilian infrastructure, in an apparent bid — so far unsuccessful — to break Ukrainian morale by making cities unlivable.",
+            "pubDate": "2022-11-01T06:12:32.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html",
+            "author": "Marc Santora and Matthew Mpoke Bigg",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31ukraine-ledeall01/31ukraine-ledeall01-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html"
+        },
+        {
+            "title": "Your Tuesday Briefing: Jair Bolsonaro Loses",
+            "description": "But he has not conceded Brazil’s presidential election.",
+            "pubDate": "2022-10-31T21:07:57.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html",
+            "guid": "https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html",
+            "author": "Amelia Nierenberg",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/world/110122ambriefing-asia-promo/01ambriefing-asia-brazil-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html"
+        },
+        {
+            "title": "Rishi Sunak’s First Crisis: Turmoil Engulfing His Home Secretary",
+            "description": "Suella Braverman has come under political fire for breaching security rules and for her handling of immigration issues.",
+            "pubDate": "2022-10-31T21:07:35.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html",
+            "author": "Mark Landler and Stephen Castle",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31uk-politics-02/31uk-politics-02-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html"
+        },
+        {
+            "title": "Key Evidence in Report on Missing Mexican Students Cannot Be Verified, Experts Say",
+            "description": "An international panel said it had found numerous inconsistencies in evidence presented by the government’s truth commission on the disappearance of the 43 students in 2014.",
+            "pubDate": "2022-11-01T02:49:19.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html",
+            "author": "Natalie Kitroeff and Oscar Lopez",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31mexico-killings-report/merlin_215453949_4bb262ab-277a-4060-b282-1f35facc9f81-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html"
+        },
+        {
+            "title": "Sea Drone Attack on Russian Fleet Puts Focus on Expanded Ukrainian Arms",
+            "description": "Military experts say that the apparent use of remote-controlled boats to attack Russian ships over the weekend is likely to demonstrate a new capability for Ukrainian forces.",
+            "pubDate": "2022-10-31T20:39:59.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html",
+            "guid": "https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html",
+            "author": "Lara Jakes",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31ukraine-drone-boats-01/31ukraine-drone-boats-01-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html"
+        },
+        {
+            "title": "South Korea Halloween Deaths Were ‘Absolutely Avoidable’ Disaster, Experts Say",
+            "description": "Days after the deaths of more than 150 young people, officials were still struggling to explain what exactly went wrong and who was to blame.",
+            "pubDate": "2022-11-01T08:13:39.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html",
+            "author": "Choe Sang-Hun",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31SKOREA-ACCOUNTABILITY-02-SUB/merlin_215774364_3af086b6-e869-406e-96b0-c6ea5c4fc6be-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html"
+        },
+        {
+            "title": "Oleg Tinkov Renounces Russian Citizenship Over Ukraine",
+            "description": "The multimillionaire said on Instagram that he “can’t and won’t be associated with a fascist country.”",
+            "pubDate": "2022-11-01T12:05:44.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html",
+            "author": "Anton Troianovski",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/11/01/multimedia/31ukraine-briefing-tinkov-02-1-f24e/31ukraine-briefing-tinkov-02-1-f24e-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html"
+        },
+        {
+            "title": "What Lula’s Victory in Brazil Means for Climate",
+            "description": "The president-elect once helped slash deforestation rates in the Amazon rainforest. He says he wants to do it again.",
+            "pubDate": "2022-11-01T11:42:17.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html",
+            "guid": "https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html",
+            "author": "Manuela Andreoni",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/climate/31cli-brazilclimate-1/31cli-brazilclimate-1-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html"
+        },
+        {
+            "title": "Aging Infrastructure May Create Higher Flood Risk in L.A., Study Finds",
+            "description": "Between 197,000 and 874,000 city residents could experience a foot of flooding during an extreme storm, scientists found. Most of them don’t live in beachfront mansions.",
+            "pubDate": "2022-11-02T14:45:36.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html",
+            "guid": "https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html",
+            "author": "Raymond Zhong",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/science/31cli-californiaflood-01/31cli-californiaflood-01-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html"
+        },
+        {
+            "title": "Kyiv Residents Line Up At Wells After City Loses Running Water",
+            "description": "Before the latest round of assaults on Ukrainian infrastructure, a buzz had returned to the capital.",
+            "pubDate": "2022-10-31T16:56:09.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html",
+            "author": "Marc Santora",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/multimedia/31ukraine-briefing-kyiv-scene-1-321b/31ukraine-briefing-kyiv-scene-1-321b-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html"
+        },
+        {
+            "title": "At Least 134 Dead With Yet Another Failure in India’s Infrastructure",
+            "description": "After the deaths of at least 134 pedestrians, the country is asking why its infrastructure has failed so calamitously once again.",
+            "pubDate": "2022-10-31T18:41:15.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html",
+            "author": "Sameer Yasir, Suhasini Raj, Hari Kumar and Emily Schmall",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31india-bridge-01/31india-bridge-01-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html"
+        },
+        {
+            "title": "What Is COP27?",
+            "description": "With the world still struggling to get global warming under control, diplomats will gather in Egypt for United Nations climate talks. Here are some key facts.",
+            "pubDate": "2022-10-31T20:40:51.000Z",
+            "link": "https://www.nytimes.com/article/cop27-climate-change-summit.html",
+            "guid": "https://www.nytimes.com/article/cop27-climate-change-summit.html",
+            "author": "Lisa Friedman",
+            "permalink": "https://www.nytimes.com/article/cop27-climate-change-summit.html"
+        },
+        {
+            "title": "Bolsonaro Is Silent After Brazil Election Defeat",
+            "description": "President Jair Bolsonaro has not yet recognized his election defeat after months of warning, without evidence, that opponents would rig the vote.",
+            "pubDate": "2022-10-31T23:07:31.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html",
+            "author": "Jack Nicas, Flávia Milhorance and André Spigariol",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31brazil/31brazil-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html"
+        },
+        {
+            "title": "As Last Module Docks, China Completes Its Space Station",
+            "description": "The Mengtian module was launched into orbit and docked with the Tiangong space station, the latest step in Beijing’s effort to surpass the United States in space exploration.",
+            "pubDate": "2022-11-01T01:23:41.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html",
+            "author": "Keith Bradsher",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/10/31/world/31China-Space/31China-Space-moth.jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html"
+        },
+        {
+            "title": "Russian Missile Debris Lands in Moldova",
+            "description": "Parts of a Russian missile intercepted by Ukrainian air defenses landed in a Moldovan border village on Monday.",
+            "pubDate": "2022-10-31T16:42:08.000Z",
+            "link": "https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html",
+            "guid": "https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html",
+            "author": "Maria Varenikova and Monika Pronczuk",
+            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html"
+        }
+    ]
 }
