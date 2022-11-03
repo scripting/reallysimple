@@ -8,7 +8,7 @@ I always like to see the code first...
 
 ```javascriptconst reallysimple = require ("reallysimple");const urlFeed = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml";reallysimple.readFeed (urlFeed, function (err, theFeed) {	if (err) {		console.log (err.message);		}	else {		console.log (JSON.stringify (theFeed, undefined, 4));		}	});```
 
-Here's <a href="https://github.com/scripting/reallysimple/blob/main/example/test.json">the file</a> that's created when you run the code. 
+This is <a href="https://github.com/scripting/reallysimple/blob/main/example/test.json">what you see</a> when you run the code. 
 
 #### Why?
 
