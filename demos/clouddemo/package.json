@@ -1,0 +1,16 @@
+{
+	"name": "clouddemo",
+	"version": "0.4.0",
+	"author": "Dave Winer <dave@scripting.com>",
+	"main": "clouddemo.js",
+	"dependencies" : {
+		"daveutils": "*",
+		"http": "*",
+		"davehttp": "*",
+		"request": "*",
+		"qs": "*",
+		"reallysimple": "*",
+		"xml2js": "*",
+		"daveappserver": "*"
+		} 
+	}
