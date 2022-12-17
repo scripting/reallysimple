@@ -13,8 +13,8 @@ var config = {
 	flPostEnabled: true,
 	flLogToConsole: true, //davehttp logs each request to the console
 	flTraceOnError: false, //davehttp does not try to catch the error
-	defaultFeedUrl: "https://unberkeley.wordpress.com/feed/",
-	thisServer: { //how the cloud server should call us back
+	defaultFeedUrl: "https://unberkeley.wordpress.com/feed/", //4
+	thisServer: { //how the cloud server should call us back -- //1
 		domain: "clouddemo.rss.land",
 		port: 80,
 		feedUpdatedCallback: "/feedupdated"
@@ -23,7 +23,7 @@ var config = {
 var whenLastRequest = new Date (0);
 
 var stats = {
-	events: new Array ()
+	events: new Array () //2
 	}
 var flStatsChanged = false;
 const fnameStats = "stats.json";
@@ -82,7 +82,7 @@ function getUrlCloudServer (theCloudElement) {
 		}
 	return (url);
 	}
-function pleaseNotify (urlCloudServer, feedUrl, thisServer, callback) { //rssCloud support
+function pleaseNotify (urlCloudServer, feedUrl, thisServer, callback) { //3
 	function buildParamList (paramtable) { //12/10/22 by DW
 		if (paramtable === undefined) {
 			return ("");
@@ -188,7 +188,7 @@ function requestNotification (feedUrl, callback) {
 			}
 		});
 	}
-function handlePing (feedUrl, callback) {
+function handlePing (feedUrl, callback) { //5
 	//12/17/22; 11:14:18 AM by DW
 		//this is where you'd put code that reads the feed, looks for new or updated items
 		//it's the punchline, why we did all this stuff in rssCloud, to get you this bit of info
@@ -213,7 +213,7 @@ function handleHttpRequest (theRequest) {
 	switch (theRequest.method) {
 		case "POST":
 			switch (theRequest.lowerpath) {
-				case config.thisServer.feedUpdatedCallback:
+				case config.thisServer.feedUpdatedCallback: //6
 					var jstruct = qs.parse (theRequest.postBody);
 					handlePing (jstruct.url, function (err, pingResponse) { //read the feed, add new stuff to database, etc.
 						returnPlainText (pingResponse.status);
@@ -235,7 +235,7 @@ function handleHttpRequest (theRequest) {
 				case "/now": 
 					returnPlainText (new Date ());
 					return (true);
-				case config.thisServer.feedUpdatedCallback: 
+				case config.thisServer.feedUpdatedCallback: //7 
 					handlePing (params.url, function (err, pingResponse) { //read the feed, add new stuff to database, etc.
 						logEvent ({
 							method: "GET",
