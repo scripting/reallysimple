@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "method": "GET",
+            "path": "/feedupdated",
+            "params": {
+                "url": "https://unberkeley.wordpress.com/feed/",
+                "challenge": "f2cc22ce631795f79314c67ffb06ea"
+            },
+            "myResponse": "f2cc22ce631795f79314c67ffb06ea",
+            "when": "12/17/2022, 11:24:50 AM"
+        },
+        {
+            "type": "requestNotification",
+            "urlCloudServer": "http://unberkeley.wordpress.com:80/?rsscloud=notify",
+            "response": {
+                "success": "true",
+                "msg": "Registration successful."
+            },
+            "feedUrl": "https://unberkeley.wordpress.com/feed/",
+            "ctSecs": 1.123,
+            "when": "12/17/2022, 11:24:50 AM"
+        },
+        {
+            "method": "POST",
+            "path": "/feedupdated",
+            "params": {
+                "url": "https://unberkeley.wordpress.com/feed/"
+            },
+            "myResponse": {
+                "status": "Got the update. Thanks! :-)"
+            },
+            "when": "12/17/2022, 11:25:17 AM"
+        }
+    ]
+}

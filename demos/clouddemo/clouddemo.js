@@ -4,16 +4,16 @@ const fs = require ("fs");
 const utils = require ("daveutils");
 const qs = require ("querystring"); 
 const request = require ("request");
-const daveappserver = require ("daveappserver"); 
 const davehttp = require ("davehttp"); 
 const xml2js = require ("xml2js");
 const reallysimple = require ("reallysimple"); 
 
 var config = {
 	port: process.env.PORT || 1422,
+	flPostEnabled: true,
 	flLogToConsole: true, //davehttp logs each request to the console
 	flTraceOnError: false, //davehttp does not try to catch the error
-	defaultFeedUrl: "http://scripting.com/rss.xml",
+	defaultFeedUrl: "https://unberkeley.wordpress.com/feed/",
 	thisServer: { //how the cloud server should call us back
 		domain: "clouddemo.rss.land",
 		port: 80,
@@ -42,38 +42,14 @@ function readStats (callback) {
 function statsChanged () {
 	flStatsChanged = true;
 	}
-function addEvent (infoAboutEvent) {
+function logEvent (infoAboutEvent) {
+	if (infoAboutEvent.whenstart !== undefined) {
+		infoAboutEvent.ctSecs = utils.secondsSince (infoAboutEvent.whenstart);
+		delete infoAboutEvent.whenstart;
+		}
 	infoAboutEvent.when = new Date ().toLocaleString ();
 	stats.events.push (infoAboutEvent); //insert at beginning
 	statsChanged ();
-	}
-function readFeed (feedUrl, callback) {
-	const whenstart = new Date ();
-	reallysimple.readFeed (feedUrl, function (err, theFeed) {
-		if (err) {
-			callback (err);
-			}
-		else {
-			callback (undefined, theFeed);
-			}
-		});
-	}
-function buildParamList (paramtable) { //12/10/22 by DW
-	if (paramtable === undefined) {
-		return ("");
-		}
-	else {
-		var s = "";
-		for (var x in paramtable) {
-			if (paramtable [x] !== undefined) { //8/4/21 by DW
-				if (s.length > 0) {
-					s += "&";
-					}
-				s += x + "=" + encodeURIComponent (paramtable [x]);
-				}
-			}
-		return (s);
-		}
 	}
 function requestWithRedirect (theRequest, callback) { //12/11/22 by DW
 	var myRequest = new Object ();
@@ -107,7 +83,23 @@ function getUrlCloudServer (theCloudElement) {
 	return (url);
 	}
 function pleaseNotify (urlCloudServer, feedUrl, thisServer, callback) { //rssCloud support
-	var now = new Date ();
+	function buildParamList (paramtable) { //12/10/22 by DW
+		if (paramtable === undefined) {
+			return ("");
+			}
+		else {
+			var s = "";
+			for (var x in paramtable) {
+				if (paramtable [x] !== undefined) { //8/4/21 by DW
+					if (s.length > 0) {
+						s += "&";
+						}
+					s += x + "=" + encodeURIComponent (paramtable [x]);
+					}
+				}
+			return (s);
+			}
+		}
 	const theRequest = {
 		url: urlCloudServer,
 		method: "POST",
@@ -134,6 +126,7 @@ function pleaseNotify (urlCloudServer, feedUrl, thisServer, callback) { //rssClo
 		});
 	}
 function requestNotification (feedUrl, callback) {
+	const whenstart = new Date ();
 	function getResponseFromXml (xmltext, callback) {
 		var options = {
 			explicitArray: false
@@ -153,7 +146,7 @@ function requestNotification (feedUrl, callback) {
 				}
 			});
 		}
-	readFeed (feedUrl, function (err, theFeed) {
+	reallysimple.readFeed (feedUrl, function (err, theFeed) {
 		if (err) {
 			console.log (err.message);
 			if (callback !== undefined) {
@@ -165,11 +158,12 @@ function requestNotification (feedUrl, callback) {
 			pleaseNotify (urlCloudServer, feedUrl, config.thisServer, function (err, xmltext) {
 				if (err) {
 					console.log ("requestNotification: err.message == " + err.message + ", urlCloudServer == " + urlCloudServer + ", feedUrl == " + feedUrl);
-					addEvent ({
+					logEvent ({
 						type: "requestNotification",
 						error: err.message, 
 						urlCloudServer,
-						feedUrl
+						feedUrl,
+						whenstart
 						});
 					if (callback !== undefined) {
 						callback (err);
@@ -177,12 +171,14 @@ function requestNotification (feedUrl, callback) {
 					}
 				else {
 					getResponseFromXml (xmltext, function (err, jstruct) {
-						addEvent ({
+						var theEvent = {
 							type: "requestNotification",
-							response: jstruct.notifyResult ["$"],
 							urlCloudServer,
-							feedUrl
-							});
+							response: jstruct.notifyResult ["$"],
+							feedUrl,
+							whenstart
+							}
+						logEvent (theEvent);
 						});
 					if (callback !== undefined) {
 						callback (undefined, theFeed);
@@ -192,85 +188,62 @@ function requestNotification (feedUrl, callback) {
 			}
 		});
 	}
+function handlePing (feedUrl, callback) {
+	//12/17/22; 11:14:18 AM by DW
+		//this is where you'd put code that reads the feed, looks for new or updated items
+		//it's the punchline, why we did all this stuff in rssCloud, to get you this bit of info
+		//much faster.
+	callback (undefined, {status: "Got the update. Thanks! :-)"})
+	}
 function handleHttpRequest (theRequest) {
 	var now = new Date ();
 	const params = theRequest.params;
-	function returnRedirect (url, code) { 
-		var headers = {
-			location: url
-			};
-		if (code === undefined) {
-			code = 302;
+	function returnPlainText (theString) {
+		if (theString === undefined) {
+			theString = "";
 			}
-		theRequest.httpReturn (code, "text/plain", code + " REDIRECT", headers);
-		}
-		
-	function returnPlainText (s) {
-		theRequest.httpReturn (200, "text/plain", s.toString ());
+		theRequest.httpReturn (200, "text/plain", theString);
 		}
 	function returnNotFound () {
 		theRequest.httpReturn (404, "text/plain", "Not found.");
 		}
-	function returnData (jstruct) {
-		if (jstruct === undefined) {
-			jstruct = {};
-			}
-		theRequest.httpReturn (200, "application/json", utils.jsonStringify (jstruct));
-		}
-	function returnJsontext (jsontext) { //9/14/22 by DW
-		theRequest.httpReturn (200, "application/json", jsontext.toString ());
-		}
 	function returnError (jstruct) {
 		theRequest.httpReturn (500, "application/json", utils.jsonStringify (jstruct));
-		}
-	function returnOpml (err, opmltext) {
-		if (err) {
-			returnError (err);
-			}
-		else {
-			theRequest.httpReturn (200, "text/xml", opmltext);
-			}
-		}
-	function httpReturn (err, returnedValue) {
-		if (err) {
-			returnError (err);
-			}
-		else {
-			if (typeof returnedValue == "object") {
-				returnData (returnedValue);
-				}
-			else {
-				returnJsontext (returnedValue); //9/14/22 by DW
-				}
-			}
 		}
 	switch (theRequest.method) {
 		case "POST":
 			switch (theRequest.lowerpath) {
 				case config.thisServer.feedUpdatedCallback:
 					var jstruct = qs.parse (theRequest.postBody);
-					addEvent ({
-						type: "feedUpdate",
-						params: jstruct,
-						method: "POST"
+					handlePing (jstruct.url, function (err, pingResponse) { //read the feed, add new stuff to database, etc.
+						returnPlainText (pingResponse.status);
+						logEvent ({
+							method: "POST",
+							path: config.thisServer.feedUpdatedCallback,
+							params: jstruct,
+							myResponse: pingResponse
+							});
 						});
-					returnPlainText ("Thanks for the update! ;-)");
 					break;
 				default: 
 					returnNotFound ()
 					break;
 				}
+			break;
 		case "GET":
 			switch (theRequest.lowerpath) {
 				case "/now": 
-					returnPlainText (new Date ().toString ());
+					returnPlainText (new Date ());
 					return (true);
 				case config.thisServer.feedUpdatedCallback: 
-					returnPlainText (params.challenge);
-					addEvent ({
-						type: "feedUpdate",
-						params,
-						method: "GET"
+					handlePing (params.url, function (err, pingResponse) { //read the feed, add new stuff to database, etc.
+						logEvent ({
+							method: "GET",
+							path: config.thisServer.feedUpdatedCallback,
+							params,
+							myResponse: params.challenge
+							});
+						returnPlainText (params.challenge);
 						});
 					break;
 				default: 
@@ -281,18 +254,20 @@ function handleHttpRequest (theRequest) {
 		}
 	}
 function everySecond () {
-	if (utils.secondsSince (whenLastRequest) > 3600) {
+	if (utils.secondsSince (whenLastRequest) > 3600) { //request notification once an hour
 		requestNotification (config.defaultFeedUrl);
 		whenLastRequest = new Date ();
 		}
 	if (flStatsChanged) {
 		flStatsChanged = false;
 		fs.writeFile (fnameStats, utils.jsonStringify (stats), function (err) {
+			if (err) {
+				console.log ("everySecond: err.message == " + err.message);
+				}
 			});
 		}
 	}
 readStats (function (err) {
-	console.log ("config == " + utils.jsonStringify (config));
 	davehttp.start (config, handleHttpRequest);
 	setInterval (everySecond, 1000);
 	});

@@ -1,8 +1,17 @@
 {
 	"name": "clouddemo",
-	"version": "0.4.0",
+	"description": "A working example of a server-based feed reader implementation of rssCloud",
 	"author": "Dave Winer <dave@scripting.com>",
+	"version": "0.4.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/scripting/reallysimple.git"
+		},
 	"main": "clouddemo.js",
+	"files": [
+		"clouddemo.js"
+		],
 	"dependencies" : {
 		"daveutils": "*",
 		"http": "*",
@@ -10,7 +19,6 @@
 		"request": "*",
 		"qs": "*",
 		"reallysimple": "*",
-		"xml2js": "*",
-		"daveappserver": "*"
+		"xml2js": "*"
 		} 
 	}
