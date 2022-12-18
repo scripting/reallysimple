@@ -1,4 +1,4 @@
-# rssCloudServer demo
+# rssCloud server demo
 
 A working example of a server-based feed reader implementation of rssCloud.
 
