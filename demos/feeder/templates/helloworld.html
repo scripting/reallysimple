@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title>[%feedTitle%]</title>
+		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+		<style>
+			.divPageBody {
+				width: 85%;
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				margin-bottom: 400px;
+				}
+			.divFeedInfo {
+				border: 1px solid silver;
+				padding: 3px;
+				overflow: scroll;
+				}
+			</style>
+		<script>
+			const config = [%config%];
+			const theFeed = [%feedJsonText%];
+			
+			function startup () {
+				console.log (config.productName + " v" + config.version);
+				$("#idFeedInfo").text (JSON.stringify (theFeed, undefined, 4));
+				}
+			</script>
+		</head>
+	<body>
+		<div class="divPageBody">
+			<h1>Hello World</h1>
+			<h4>This is a very simple bare-bones template for the feeder app. More info <a href="https://github.com/scripting/feeder/blob/main/docs/templates.md#the-hello-world-template">here</a>.</h4>
+			<pre class="divFeedInfo" id="idFeedInfo">
+				</pre>
+			<script>
+				$(document).ready (function () {
+					startup ();
+					});
+				</script>
+			</div>
+		</body>
+	</html>

@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<title>[%productnameForDisplay%]: [%feedTitle%]</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/jquery-1.9.1.min.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.css" rel="stylesheet">
+<script src="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//s3.amazonaws.com/scripting.com/code/fontawesome/css/all.css">
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Rancho" rel="stylesheet">
+
+<script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
+
+		<script src="http://fargo.io/code/shared/emojify.js"></script>
+		<link rel="stylesheet" href="http://fargo.io/code/shared/emojify.css"/>
+		<script src="http://fargo.io/code/markdownConverter.js"></script>
+		<script src="//s3.amazonaws.com/fargo.io/cms/dateFormat.js" async></script>
+		
+		<script src="http://scripting.com/code/river6/browsers/outlinebrowser.js"></script>
+		<script src="http://scripting.com/code/river6/browsers/riverbrowser.js"></script>
+		<link rel="stylesheet" href="http://scripting.com/code/river6/browsers/styles.css"/>
+		<script src="http://scripting.com/code/feedbase/api.js"></script>
+		<script src="http://scripting.com/code/river6/templates/serverhomepage/code.js"></script>
+		<link rel="stylesheet" href="http://scripting.com/code/river6/templates/serverhomepage/styles.css"/>
+		<script src="http://scripting.com/code/river6/templates/feedviewer/code.js"></script>
+		<link rel="stylesheet" href="http://scripting.com/code/river6/templates/feedviewer/styles.css"/>
+		<script src="http://scripting.com/code/nodestorage/api.js"></script>
+		
+		<script>
+			var serverConfig = [%config%];
+			var globalFeedStruct = [%riverJsonText%];
+			</script>
+		</head>
+	<body>
+		<div class="divPageBody">
+			<table>
+				<tr>
+					<td class="tdLeftPanel">
+						<div class="divTopOfPage">
+							<div class="divWhenLastNewItem" id="idWhenLastNewItem"></div>
+							<div class="divTopFeedTitle" id="idFeedTitle"></div>
+							<div class="divTopFeedDescription" id="idFeedDescription"></div>
+							</div>
+						<div class="divFeedItems" id="idFeedItems"></div>
+						<td>
+					<td class="tdRightPanel">
+						<div class="divItemContent" id="idItemContent">
+							</div>
+						<td>
+					</tr>
+				</table>
+			</div>
+		<script>
+			$(document).ready (function () {
+				startup ();
+				});
+			</script>
+		</body>
+	</html>

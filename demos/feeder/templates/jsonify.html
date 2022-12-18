@@ -1,0 +1,84 @@
+<html>
+	<head>
+		<title>JSONify Feed: [%feedTitle%]</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/jquery-1.9.1.min.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.css" rel="stylesheet">
+<script src="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//s3.amazonaws.com/scripting.com/code/fontawesome/css/all.css">
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Rancho" rel="stylesheet">
+
+<script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
+
+		<script src="http://scripting.com/code/concord/testing/3.0.6/concord.js"></script>
+		<link rel="stylesheet" href="http://scripting.com/code/concord/testing/3.0.6/concordstyles.css"/>
+		<script src="http://fargo.io/code/shared/outliner.js"></script>
+		<script src="http://fargo.io/code/shared/xml.js"></script>
+		<script src="http://fargo.io/code/keypress.js" /></script>
+		<style>
+			body {
+				font-family: Ubuntu;
+				font-size: 18px;
+				background-color: whitesmoke;
+				}
+			.divPageBody {
+				width: 80%;
+				margin-top: 40px;
+				margin-left: auto;
+				margin-right: auto;
+				}
+			h1, h4 {
+				margin-bottom: 15px;
+				}
+			.divOutlineContainer {
+				border: 1px solid silver;
+				background-color: white;
+				padding: 4px;
+				overflow: scroll;
+				}
+			</style>
+		<script>
+			const config = [%config%];
+			const theFeed = [%feedJsonText%];
+			
+			var appPrefs = {
+				outlineFontSize: 16,
+				outlineLineHeight: 24
+				};
+			
+			function encodeText (theFeed) {
+				theFeed.items.forEach (function (item) {
+					item.description = replaceAll (item.description, "<img ", "&lt;img ");
+					});
+				}
+			function startup () {
+				console.log ("startup: it took " + config.ctSecs + " secs to read the feed.");
+				opInitOutliner (initialOpmltext, false, true);
+				encodeText (theFeed);
+				opInsertObject (undefined, theFeed, right);
+				opExpand (1)
+				opFirstSummit ();
+				opSetLineText (config.feedUrl);
+				}
+			</script>
+		</head>
+	<body>
+		<div class="divPageBody">
+			<h1>The <i>JSONify Feed</i> template</h1>
+			<h4>A very simple template for the feeder app. More info <a href="https://github.com/scripting/feeder/blob/main/docs/templates.md#the-jsonify-feed-template">here</a>.</h4>
+			<div class="divOutlineContainer">
+				<div id="outliner">
+					</div>
+				</div>
+			</div>
+		<script>
+			$(document).ready (function () {
+				startup ();
+				});
+			</script>
+		</body>
+	</html>

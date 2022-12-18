@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title>Titled Items: [%feedTitle%]</title>
+		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+		<style>
+			.divPageBody {
+				width: 85%;
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				margin-bottom: 400px;
+				}
+			.divItemList li {
+				margin-bottom: 10px;
+				}
+			</style>
+		<script>
+			const config = [%config%];
+			const theFeed = [%feedJsonText%];
+			
+			function viewTitledItems () {
+				var htmltext = "";
+				function add (s) {
+					htmltext += s + "\n";
+					}
+				add ("<ul>"); 
+				theFeed.items.forEach (function (item) {
+					if (item.title !== undefined) {
+						var link = item.title;
+						if (item.link !== undefined) {
+							link = "<a href=\"" + item.link + "\">" + link + "</a>";
+							}
+						add ("<li>" + link + "</li>");
+						}
+					});
+				add ("</ul>"); 
+				return (htmltext);
+				}
+			function startup () {
+				console.log ("startup");
+				$("#idItemList").html (viewTitledItems ());
+				}
+			</script>
+		</head>
+	<body>
+		<div class="divPageBody">
+			<h1>The <i>Titled Items</i> template</h1>
+			<h4>This is a very simple template for the feeder app. More info <a href="https://github.com/scripting/feeder/blob/main/docs/templates.md#the-titled-items-template">here</a>.</h4>
+			<div class="divItemList" id="idItemList">
+				</div>
+			<script>
+				$(document).ready (function () {
+					startup ();
+					});
+				</script>
+			</div>
+		</body>
+	</html>
