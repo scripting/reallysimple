@@ -66,5 +66,5 @@ You can test the method with any feed you like. Try entering different feed addr
 
 You also have the source, and can come up with your own design and share it with us, and let's see, maybe this basic method can be improved on. 
 
-PS: <a href="http://scripting.com/2020/05/26/194558.html?title=bugReportsNotPullRequests">No pull requests</a>. :-)
+PS: <a href="http://scripting.com/2020/05/26/194558.html?title=bugReportsNotPullRequests">Bug reports, not pull requests</a>. :-)
 
