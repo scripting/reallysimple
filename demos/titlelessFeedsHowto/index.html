@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>Feed item viewer</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/jquery-1.9.1.min.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.css" rel="stylesheet">
+<script src="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//s3.amazonaws.com/scripting.com/code/fontawesome/css/all.css">
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Rancho" rel="stylesheet">
+
+<script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
+
+		<script src="code.js"></script>
+		<link href="styles.css" rel="stylesheet" type="text/css">
+		</head>
+	<body>
+		<div class="divPageBody">
+			<div class="divVersionNumber">
+				</div>
+			<div class="divUrlInput">
+				<input type="text" class="input-xlarge" id="idFeedUrlInput"/>
+				<button class="btn" onclick="goToNewUrl ()">Go</button>
+				</div>
+			<div class="divFeedTitle" id="idFeedTitle"></div>
+			<div class="divItemViewer" id="idItemViewer">
+				</div>
+			<div class="divMoreInfo">For more information and JavaScript source code, see <a href="https://github.com/scripting/titlelessFeedsHowto">titlelessFeedsHowto</a> on GitHub.</div>
+			</div>
+		<script>
+			$(document).ready (function () {
+				startup ();
+				});
+			</script>
+		</body>
+	</html>
