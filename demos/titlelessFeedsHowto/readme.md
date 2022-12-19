@@ -28,7 +28,7 @@ This is a writer's medium, not a programmer's.
 
 ### Your software is probably wrong
 
-I am giving you <a href="https://github.com/scripting/titlelessFeedsHowto/blob/main/code.js">code to crib</a> to make your software handle titleless items well. 
+I am giving you <a href="https://github.com/scripting/reallysimple/blob/main/demos/titlelessFeedsHowto/code.js">code to crib</a> to make your software handle titleless items well. 
 
 In all likelihood your software does not do that currently. That's okay -- we can easily fix this.
 
@@ -62,7 +62,7 @@ Here's how this app deals with three test feeds.
 
 ### Testing and development
 
-You can test the method with any feed you like. Try entering different feed addresses in the app. If you spot a problem, share the URL of the feed as an <a href="https://github.com/scripting/titlelessFeedsHowto/issues">issue</a> in the repo here. 
+You can test the method with any feed you like. Try entering different feed addresses in the app. If you spot a problem, share the URL of the feed as an <a href="https://github.com/scripting/reallysimple/issues">issue</a> in the repo here. 
 
 You also have the source, and can come up with your own design and share it with us, and let's see, maybe this basic method can be improved on. 
 
