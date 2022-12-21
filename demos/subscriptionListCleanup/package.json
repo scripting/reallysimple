@@ -1,0 +1,13 @@
+{
+	"name": "subscriptionlistcleanup", 
+	"description": "Read an OPML subscription list, and loop over all the feeds and only pass on the ones that are reachable and parseable.",
+	"version": "0.4.3",
+	"author": "Dave Winer <dave@scripting.com>",
+	"main": "subscriptionlistcleanup.js",
+	"dependencies" : {
+		"opml": "*",
+		"reallysimple": "*",
+		"request": "*",
+		"daveutils": "*"
+		} 
+	}
