@@ -24,7 +24,7 @@ These calls are used from <a href="http://drummer.scripting.com/">Drummer</a> to
 
 You an also run the contents of a reallysimple query through a template, which is just a web page, which has the result of the query as a local object you can use JavaScript to render.
 
-Here's the <a href="https://github.com/scripting/feeder/blob/main/docs/templates.md">docs page</a> for templates. 
+Here's the <a href="https://github.com/scripting/reallysimple/blob/main/demos/feeder/docs/templates.md">docs page</a> for templates. 
 
 ### Caveats
 
