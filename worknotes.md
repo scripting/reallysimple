@@ -1,6 +1,6 @@
 # Worknotes
 
-#### 11/11/22 by DW 
+#### 11/11/22 by DW
 
 <a href="http://scripting.com/2022/11/11.html#a141519">Hack alert</a>: We generate item-level link elements for items that don't have link elements. Explained <a href="http://scripting.com/2022/11/11.html#a141519">here</a>. This isn't my code that's doing it, it's a lower-level package that I'm using. I think it was copying an even older <a href="https://pythonhosted.org/feedparser/reference-entry-link.html">package</a>. Which did something they should not have done. 
 
