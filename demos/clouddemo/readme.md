@@ -4,7 +4,7 @@ A working example of a server-based feed reader implementation of rssCloud.
 
 ### A feed with a cloud element
 
-This is a Node.js app that works with one feed that has a cloud element. <a href="http://feeder.scripting.com/returnjson?feedurl=http://scripting.com/rss.xml">Example.</a>
+This is a Node.js app that works with one feed that has a cloud element. <a href="http://scripting.com/rss.xml">Example.</a>
 
 When it starts up, it reads the feed, sees if it has a cloud element, and if so it requests notification from the server specified in the cloud element. It tells the cloud server how to notifiy it. 
 
