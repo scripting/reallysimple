@@ -1,0 +1,16 @@
+{
+	"name": "outlinecloud",
+	"description": "Connects outlines to rssCloud.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"main": "opmlcloud.js",
+	"license": "MIT",
+	"version": "0.4.0",
+	"dependencies" : {
+		"nodejs-websocket": "*",
+		"xml2js": "*",
+		"request": "*",
+		"daveutils": "*",
+		"opml": "*",
+		"davehttp": "*"
+		} 
+	}
