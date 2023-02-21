@@ -1,6 +1,6 @@
 {
-	"name": "outlinecloud",
-	"description": "Connects outlines to rssCloud.",
+	"name": "opmlcloud",
+	"description": "Bridges between rssCloud and Drummer's instant outlining protocol.",
 	"author": "Dave Winer <dave@scripting.com>",
 	"main": "opmlcloud.js",
 	"license": "MIT",

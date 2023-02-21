@@ -1,4 +1,4 @@
-var myProductName = "outlinecloud"; myVersion = "0.4.0";    
+var myProductName = "opmlcloud"; myVersion = "0.4.0";    
 
 const fs = require ("fs");
 const utils = require ("daveutils"); 
