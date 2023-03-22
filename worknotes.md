@@ -1,5 +1,9 @@
 # Worknotes
 
+#### 3/22/23 by DW -- v0.4.23
+
+Allow for the possibility that rss:guid elements might not have atttributes. I know it happens because when it does FeedLand crashes. ;-)
+
 #### 11/11/22 by DW
 
 <a href="http://scripting.com/2022/11/11.html#a141519">Hack alert</a>: We generate item-level link elements for items that don't have link elements. Explained <a href="http://scripting.com/2022/11/11.html#a141519">here</a>. This isn't my code that's doing it, it's a lower-level package that I'm using. I think it was copying an even older <a href="https://pythonhosted.org/feedparser/reference-entry-link.html">package</a>. Which did something they should not have done. 

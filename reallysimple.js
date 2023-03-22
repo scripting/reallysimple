@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.22";     
+var myProductName = "reallysimple", myVersion = "0.4.23";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -44,12 +44,14 @@ function getItemPermalink (item) {
 	var rssguid = item ["rss:guid"], returnedval = undefined;
 	if (rssguid !== undefined) {
 		var atts = rssguid ["@"];
-		if (atts.ispermalink === undefined) {
-			returnedval = rssguid ["#"];
-			}
-		else {
-			if (utils.getBoolean (atts.ispermalink)) {
+		if (atts !== undefined) { //3/22/23 by DW
+			if (atts.ispermalink === undefined) {
 				returnedval = rssguid ["#"];
+				}
+			else {
+				if (utils.getBoolean (atts.ispermalink)) {
+					returnedval = rssguid ["#"];
+					}
 				}
 			}
 		}
