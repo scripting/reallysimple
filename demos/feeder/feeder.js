@@ -1,4 +1,4 @@
-const myVersion = "0.4.10", myProductName = "feeder";     
+const myVersion = "0.4.11", myProductName = "feeder";     
 
 const fs = require ("fs");
 const utils = require ("daveutils");
@@ -126,6 +126,31 @@ function readConfig (f, config, callback) {
 		callback ();
 		});
 	}
+
+function convertFeedToMarkdown (theOutline) { //3/29/23 by DW
+	var mdtext = "";
+	function add (s) {
+		mdtext += s + "\n\n";
+		}
+	theOutline.items.forEach (function (item) {
+		if (item.pubDate !== undefined) {
+			add ("# " + item.pubDate.toUTCString ());
+			}
+		if (item.title === undefined) {
+			if (item.description !== undefined) {
+				add ("## " + item.description);
+				}
+			}
+		else {
+			add ("## " + item.title);
+			if (item.description !== undefined) {
+				add ("- " + item.description);
+				}
+			}
+		});
+	return (mdtext);
+	}
+
 function everySecond () {
 	if (flStatsChanged) {
 		flStatsChanged = false;
@@ -143,6 +168,9 @@ function handleHttpRequest (theRequest) {
 		theRequest.httpReturn (code, "text/plain", code + " REDIRECT", {location: url});
 		}
 		
+	function returnString (s) {
+		theRequest.httpReturn (200, "text/plain", s);
+		}
 	function returnHtml (htmltext) {
 		theRequest.httpReturn (200, "text/html; charset=utf-8", htmltext); //6/13/22 by DW
 		}
@@ -201,6 +229,16 @@ function handleHttpRequest (theRequest) {
 						}
 					else {
 						returnOpml (reallysimple.convertFeedToOpml (theFeed));
+						}
+					});
+				break;
+			case "/returnmarkdown": //3/29/23 by DW
+				readFeed (params.feedurl, function (err, theFeed) {
+					if (err) {
+						returnError (err);
+						}
+					else {
+						returnString (convertFeedToMarkdown (theFeed));
 						}
 					});
 				break;
