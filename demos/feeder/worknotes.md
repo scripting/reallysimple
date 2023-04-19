@@ -1,3 +1,21 @@
+4/19/23; 9:36:56 AM by DW
+
+New call -- /returnlinkblog
+
+An example --
+
+http://feeder.scripting.com/returnlinkblog?feedurl=http://data.feedland.org/feeds/davewiner.xml
+
+We return the HTML text you'd display if you wanted to display the links for the current day, as we do in the nightly email.
+
+I needed a place to test this code before including it in the server app. 
+
+Increasingly that's a role the feeder app is taking on. A nice development testbed for feed renderings built on the reallysimple package. 
+
+#### 4/7/23; 10:00:28 AM by DW
+
+Return text/plain with  charset=utf-8.
+
 #### 3/29/23; 12:36:50 PM by DW
 
 Add /returnmarkdown endpoint.

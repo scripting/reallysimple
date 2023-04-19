@@ -1,7 +1,7 @@
 {
 	"name": "feeder",
 	"description": "A Node server app that hooks the reallysimple package up to the web.",
-	"version": "0.4.11", 
+	"version": "0.4.12", 
 	"author": "Dave Winer <dave@scripting.com>",
 	"license": "MIT",
 	"main": "feeder.js",

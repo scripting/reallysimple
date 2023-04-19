@@ -1,4 +1,4 @@
-const myVersion = "0.4.11", myProductName = "feeder";     
+const myVersion = "0.4.12", myProductName = "feeder";     
 
 const fs = require ("fs");
 const utils = require ("daveutils");
@@ -126,7 +126,6 @@ function readConfig (f, config, callback) {
 		callback ();
 		});
 	}
-
 function convertFeedToMarkdown (theOutline) { //3/29/23 by DW
 	var mdtext = "";
 	function add (s) {
@@ -150,7 +149,6 @@ function convertFeedToMarkdown (theOutline) { //3/29/23 by DW
 		});
 	return (mdtext);
 	}
-
 function everySecond () {
 	if (flStatsChanged) {
 		flStatsChanged = false;
@@ -158,6 +156,7 @@ function everySecond () {
 			});
 		}
 	}
+
 function handleHttpRequest (theRequest) {
 	var params = theRequest.params;
 	function returnNotFound () {
@@ -169,7 +168,7 @@ function handleHttpRequest (theRequest) {
 		}
 		
 	function returnString (s) {
-		theRequest.httpReturn (200, "text/plain", s);
+		theRequest.httpReturn (200, "text/plain; charset=utf-8", s); //4/7/23 by DW
 		}
 	function returnHtml (htmltext) {
 		theRequest.httpReturn (200, "text/html; charset=utf-8", htmltext); //6/13/22 by DW
@@ -177,6 +176,49 @@ function handleHttpRequest (theRequest) {
 	function returnOpml (opmltext) {
 		theRequest.httpReturn (200, "text/xml; charset=utf-8", opmltext); //6/13/22 by DW
 		}
+	
+	function returnLinkblog (feedUrl, callback) {
+		const theDay = new Date (); //get the linkblog html for today
+		readFeed (feedUrl, function (err, theFeed) { 
+			if (err) {
+				returnError (err);
+				}
+			else {
+				var htmltext = "";
+				function add (s) {
+					htmltext += s + "\n";
+					}
+				var ctitems = 0;
+				theFeed.items.forEach (function (item) {
+					if (utils.sameDay (theDay, item.pubDate)) {
+						var pubdatestring = new Date (item.pubDate).toLocaleTimeString ();
+						
+						var link = "";
+						if (typeof item.link == "string") { //1/13/23 by DW
+							link = "<a href=\"" + item.link + "\">" + utils.getDomainFromUrl (item.link) + "</a>";
+							}
+						
+						function cleanDescription (desc) {
+							if (utils.beginsWith (desc, "<p>")) {
+								desc = utils.stringDelete (desc, 1, 3);
+								}
+							if (utils.endsWith (desc, "</p>\n")) {
+								desc = utils.stringMid (desc, 1, desc.length - 5);
+								}
+							return (desc);
+							}
+						add ("<div class=\"divLinkblogItem\">" + cleanDescription (item.description) + " " + link + "</div>");
+						ctitems++;
+						}
+					});
+				if (ctitems > 0) {
+					htmltext = "<h4>Linkblog items for the day.</h4>\n" + htmltext;
+					}
+				callback (undefined, htmltext);
+				}
+			});
+		}
+	
 	function returnError (jstruct) {
 		theRequest.httpReturn (500, "application/json", utils.jsonStringify (jstruct));
 		}
@@ -244,6 +286,16 @@ function handleHttpRequest (theRequest) {
 				break;
 			case "/returnmailbox": //6/18/22 by DW
 				mailboxRedirect ();
+				break;
+			case "/returnlinkblog": //4/18/23 by DW
+				returnLinkblog (params.feedurl, function (err, htmltext) {
+					if (err) {
+						returnError (err);
+						}
+					else {
+						returnHtml (htmltext);
+						}
+					});
 				break;
 			default:
 				returnNotFound ();
