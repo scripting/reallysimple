@@ -1,7 +1,7 @@
 {
 	"name": "feeder",
 	"description": "A Node server app that hooks the reallysimple package up to the web.",
-	"version": "0.4.12", 
+	"version": "0.5.0", 
 	"author": "Dave Winer <dave@scripting.com>",
 	"license": "MIT",
 	"main": "feeder.js",
@@ -13,6 +13,7 @@
 		"daveutils": "*",
 		"reallysimple": "*",
 		"request": "*",
+		"dateformat": "4.5.1",
 		"davehttp": "*"
 		},
 	"engines": { 

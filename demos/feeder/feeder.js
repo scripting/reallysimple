@@ -1,7 +1,8 @@
-const myVersion = "0.4.12", myProductName = "feeder";     
+const myVersion = "0.5.0", myProductName = "feeder";     
 
 const fs = require ("fs");
 const utils = require ("daveutils");
+const dateformat = require ("dateformat");
 const request = require ("request"); 
 const davehttp = require ("davehttp"); 
 const reallysimple = require ("reallysimple");
@@ -149,6 +150,15 @@ function convertFeedToMarkdown (theOutline) { //3/29/23 by DW
 		});
 	return (mdtext);
 	}
+function cleanDescription (desc) { //4/19/23 by DW
+	if (utils.beginsWith (desc, "<p>")) {
+		desc = utils.stringDelete (desc, 1, 3);
+		}
+	if (utils.endsWith (desc, "</p>\n")) {
+		desc = utils.stringMid (desc, 1, desc.length - 5);
+		}
+	return (desc);
+	}
 function everySecond () {
 	if (flStatsChanged) {
 		flStatsChanged = false;
@@ -177,7 +187,7 @@ function handleHttpRequest (theRequest) {
 		theRequest.httpReturn (200, "text/xml; charset=utf-8", opmltext); //6/13/22 by DW
 		}
 	
-	function returnLinkblog (feedUrl, callback) {
+	function returnLinkblogDay (feedUrl, callback) {
 		const theDay = new Date (); //get the linkblog html for today
 		readFeed (feedUrl, function (err, theFeed) { 
 			if (err) {
@@ -198,21 +208,109 @@ function handleHttpRequest (theRequest) {
 							link = "<a href=\"" + item.link + "\">" + utils.getDomainFromUrl (item.link) + "</a>";
 							}
 						
-						function cleanDescription (desc) {
-							if (utils.beginsWith (desc, "<p>")) {
-								desc = utils.stringDelete (desc, 1, 3);
-								}
-							if (utils.endsWith (desc, "</p>\n")) {
-								desc = utils.stringMid (desc, 1, desc.length - 5);
-								}
-							return (desc);
-							}
 						add ("<div class=\"divLinkblogItem\">" + cleanDescription (item.description) + " " + link + "</div>");
 						ctitems++;
 						}
 					});
 				if (ctitems > 0) {
 					htmltext = "<h4>Linkblog items for the day.</h4>\n" + htmltext;
+					}
+				callback (undefined, htmltext);
+				}
+			});
+		}
+	function returnLinkblogJson (feedUrl, callback) { //4/19/23 by DW
+		readFeed (feedUrl, function (err, theFeed) { 
+			if (err) {
+				callback (err);
+				}
+			else {
+				var daysArray = new Array ();
+				theFeed.items.forEach (function (item) {
+					const convertedItem = {
+						text: cleanDescription (item.description),
+						title: item.title,
+						link: item.link,
+						linkShort: "",
+						whenLastEdit: item.pubDate,
+						flDirty: false,
+						when: item.pubDate
+						};
+					const pubDate = new Date (item.pubDate);
+					const datestring = pubDate.toLocaleDateString (); //something like 4/19/2023
+					var flfound = false;
+					daysArray.forEach (function (theDay) {
+						if (utils.sameDay (pubDate, theDay.when)) {
+							flfound = true;
+							theDay.jstruct.dayHistory.push (convertedItem);
+							}
+						});
+					if (!flfound) {
+						daysArray.push ({
+							when: pubDate,
+							jstruct: {
+								version: "1.0",
+								when: new Date (),
+								whenLastUpdate: new Date (),
+								dayHistory: [convertedItem]
+								}
+							});
+						}
+					});
+				callback (undefined, daysArray);
+				}
+			});
+		}
+	function returnLinkblogHtml (feedUrl, callback) { //4/20/23 by DW
+		const firstLinkblogDay = new Date ("April 17, 2023");
+		
+		function getDayTitle (when) {
+			return (dateformat (when, "dddd, mmmm d, yyyy"));
+			}
+		
+		function buildDaysTable (theFeed) {
+			var daysTable = new Object ();
+			theFeed.items.forEach (function (item) {
+				const pubDate = new Date (item.pubDate);
+				if (utils.dayGreaterThanOrEqual (pubDate, firstLinkblogDay)) {
+					const datestring = pubDate.toLocaleDateString (); //something like 4/19/2023
+					var bucket = daysTable [datestring];
+					if (bucket === undefined) {
+						daysTable [datestring] = new Array ();
+						bucket = daysTable [datestring];
+						}
+					bucket.push (item);
+					}
+				});
+			return (daysTable);
+			}
+		function appendDay (dayString, theDayItems) {
+			const when = new Date (dayString); //turn something like 4/19/2023 to a date object
+			var daytext = "", indentlevel = 0;
+			
+			function add (s) {
+				daytext += utils.filledString ("\t", indentlevel) + s + "\n";
+				}
+			add ("<div class=\"divLinkblogDayTitle\">" + getDayTitle (when) + "</div>");
+			add ("<div class=\"divLinkblogDay\">"); indentlevel++;
+			theDayItems.forEach (function (item) {
+				var link = "";
+				if (typeof item.link == "string") { //1/13/23 by DW
+					link = "<a href=\"" + item.link + "\">" + utils.getDomainFromUrl (item.link) + "</a>";
+					}
+				add ("<p>" + cleanDescription (item.description) + " " + link + "</p>"); //4/18/23 by DW
+				});
+			add ("</div>"); indentlevel--;
+			return (daytext)
+			}
+		readFeed (feedUrl, function (err, theFeed) { 
+			if (err) {
+				callback (err);
+				}
+			else {
+				var daysTable = buildDaysTable (theFeed), htmltext = "";
+				for (var x in daysTable) {
+					htmltext += appendDay (x, daysTable [x]);
 					}
 				callback (undefined, htmltext);
 				}
@@ -287,8 +385,21 @@ function handleHttpRequest (theRequest) {
 			case "/returnmailbox": //6/18/22 by DW
 				mailboxRedirect ();
 				break;
-			case "/returnlinkblog": //4/18/23 by DW
-				returnLinkblog (params.feedurl, function (err, htmltext) {
+			case "/returnlinkblogday": //4/18/23 by DW
+				returnLinkblogDay (params.feedurl, function (err, htmltext) {
+					if (err) {
+						returnError (err);
+						}
+					else {
+						returnHtml (htmltext);
+						}
+					});
+				break;
+			case "/returnlinkblogjson": //4/19/23 by DW
+				returnLinkblogJson (params.feedurl, httpReturn);
+				break;
+			case "/returnlinkbloghtml": //4/20/23 by DW
+				returnLinkblogHtml (params.feedurl, function (err, htmltext) {
 					if (err) {
 						returnError (err);
 						}
