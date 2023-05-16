@@ -1,5 +1,11 @@
 # Worknotes
 
+#### 5/16/23 by DW -- v0.4.24
+
+Believe it or not node-emoji of all things introduced a breaking change, so we have to hold at v1.11.0.
+
+I'm not sure if this will get it to work, but emoji is a nice feature to have not a <i>required</i> feature. 
+
 #### 3/22/23 by DW -- v0.4.23
 
 Allow for the possibility that rss:guid elements might not have atttributes. I know it happens because when it does FeedLand crashes. ;-)

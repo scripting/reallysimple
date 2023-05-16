@@ -1,7 +1,7 @@
 { 
 	"name": "reallysimple", 
 	"description": "A Node package that reads RSS-like feeds and calls back with a simple, consistent JavaScript object. Easy to use, hides the history.",
-	"version": "0.4.23", 
+	"version": "0.4.24", 
 	"author": "Dave Winer <dave@scripting.com>",
 	"license": "MIT",
 	"files": [
@@ -15,7 +15,7 @@
 		},
 	"dependencies" : {
 		"marked": "*",
-		"node-emoji": "*",
+		"node-emoji": "1.11.0",
 		"opml": "*",
 		"daveutils": "*",
 		"davefeedread": ">=0.5.23"
