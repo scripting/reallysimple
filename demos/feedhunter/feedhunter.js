@@ -1,4 +1,4 @@
-var myProductName = "feedfinder", myVersion = "0.4.0";
+var myProductName = "feedhunter", myVersion = "0.4.1";
 
 exports.huntForFeed = huntForFeed;
 
