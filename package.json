@@ -1,7 +1,7 @@
 { 
 	"name": "reallysimple", 
 	"description": "A Node package that reads RSS-like feeds and calls back with a simple, consistent JavaScript object. Easy to use, hides the history.",
-	"version": "0.4.24", 
+	"version": "0.4.25", 
 	"author": "Dave Winer <dave@scripting.com>",
 	"license": "MIT",
 	"files": [
@@ -14,7 +14,7 @@
 		"url": "https://github.com/scripting/reallysimple.git"
 		},
 	"dependencies" : {
-		"marked": "*",
+		"marked": "3.0.8",
 		"node-emoji": "1.11.0",
 		"opml": "*",
 		"daveutils": "*",

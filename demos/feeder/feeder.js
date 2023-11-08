@@ -150,6 +150,7 @@ function convertFeedToMarkdown (theOutline) { //3/29/23 by DW
 		});
 	return (mdtext);
 	}
+
 function cleanDescription (desc) { //4/19/23 by DW
 	if (utils.beginsWith (desc, "<p>")) {
 		desc = utils.stringDelete (desc, 1, 3);

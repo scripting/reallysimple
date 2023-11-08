@@ -1,4 +1,6 @@
-# Worknotes
+#### 11/8/23; 10:20:30 AM by DW
+
+Changed version number on marked package to 3.0.8, the last version that worked afaik.
 
 #### 5/16/23 by DW -- v0.4.24
 

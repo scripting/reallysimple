@@ -1,0 +1,16 @@
+{
+	"name": "feedhunter",
+	"description": "Look for an HTML file's associated feed.",
+	"version": "0.4.0",
+	"main": "feedhunter.js",
+	"license": "GPLV2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/scripting/reallysimple/tree/main/demos/feedhunter"
+		},
+	"dependencies" : {
+		"request": "*",
+		"reallysimple": "*",
+		"daveutils": "*"
+		}
+	}
