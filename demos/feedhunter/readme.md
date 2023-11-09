@@ -16,7 +16,13 @@ We also use a set of common feed locations we found by studying the feed list of
 
 I put this code in a separate package, because it seemed it might be useful in other contexts and people may have other ideas for standard feed locations we could add to the search.
 
-If you want to try an experiment, choose <i>To one feed</i> from the Subscribe sub-menu in FeedLand's main menu, and enter http://bullmancuso.com. I put a copy of a very old feed in a weird location, one of the places <a href="https://github.com/scripting/reallysimple/tree/main/demos/feedhunter">feedhunter</a> looks. If it's working we'll find the feed anyway. :smile:
+### Experiment in FeedLand
+
+If you want to try an experiment, choose <i>To one feed</i> from the Subscribe sub-menu in FeedLand's main menu, and enter http://bullmancuso.com. 
+
+I put a copy of a very old feed in a weird location, one of the places <a href="https://github.com/scripting/reallysimple/tree/main/demos/feedhunter">feedhunter</a> looks. 
+
+If it's working we'll find the feed anyway. :smile:
 
 ### Questions, comments?
 
