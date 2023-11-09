@@ -1,8 +1,16 @@
 {
 	"name": "feedhunter",
-	"description": "Look for an HTML file's associated feed.",
-	"version": "0.4.1",
+	"description": "A Node.js package that looks for a feed, starting with the address of an HTML file.",
+	"version": "0.4.3",
 	"main": "feedhunter.js",
+	"files": [
+		"feedhunter.js",
+		"package.json",
+		"readme.md",
+		"source.opml",
+		"test/testfeedhunter.js",
+		"test/package.json"
+		],
 	"license": "GPLV2",
 	"repository": {
 		"type": "git",

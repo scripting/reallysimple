@@ -1,0 +1,9 @@
+{
+	"name": "testfeedhunter",
+	"version": "0.4.0",
+	"main": "feedhunter.js",
+	"license": "MIT",
+	"dependencies" : {
+		"feedhunter": "*"
+		}
+	}

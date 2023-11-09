@@ -1,4 +1,4 @@
-var myProductName = "feedhunter", myVersion = "0.4.1";
+var myProductName = "feedhunter", myVersion = "0.4.3";
 
 exports.huntForFeed = huntForFeed;
 
@@ -92,8 +92,6 @@ function huntForFeed (htmlUrl, options, callback) {
 		}
 	const parsedUrl = urlpackage.parse (htmlUrl, true);
 	const origin = parsedUrl.protocol + "//" + parsedUrl.host + "/";
-	console.log (utils.jsonStringify (parsedUrl));
-	console.log ("origin == " + origin);
 	var fileQueue = new Array ();
 	getFeedsLinkedToFromHtml (htmlUrl, function (err, feeds) {
 		if (feeds !== undefined) {
@@ -109,11 +107,9 @@ function huntForFeed (htmlUrl, options, callback) {
 				const feedUrl = fileQueue [ix];
 				reallysimple.readFeed (feedUrl, function (err, theFeed) {
 					if (err) {
-						console.log ("huntForFeed: feedUrl == " + feedUrl);
 						checkNext (ix + 1);
 						}
 					else {
-						console.log ("huntForFeed: found! feedUrl == " + feedUrl);
 						callback (feedUrl); 
 						}
 					});
