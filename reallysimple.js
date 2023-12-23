@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.25";     
+var myProductName = "reallysimple", myVersion = "0.4.26";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -14,7 +14,7 @@ const emoji = require ("node-emoji");  //7/18/22 by DW
 
 const allowedHeadNames = [
 	"title", "link", "description", "language", "copyright", "managingEditor", "webMaster", "lastBuildDate", "pubDate", "category",
-	"generator", "docs", "cloud", "ttl", "image", "rating", "textInput", "skipHours", "skipDays", "source:account", "source:localtime", "linkToSelf"
+	"generator", "docs", "cloud", "ttl", "image", "rating", "textInput", "skipHours", "skipDays", "source:account", "source:localtime", "source:cloud", "linkToSelf"
 	];
 const allowedItemNames = [
 	"title", "link", "description", "author", "category", "comments", "enclosures", "guid", "pubDate", "source", "source:outline", "source:likes"
@@ -161,6 +161,10 @@ function convertFeed (oldFeed, whenstart) {
 				if (item.meta ["source:localtime"] !== undefined) {
 					var localtime = item.meta ["source:localtime"]; 
 					newFeed.localtime = localtime ["#"];
+					}
+				if (item.meta ["source:cloud"] !== undefined) { //11/28/23 by DW
+					const cloud = item.meta ["source:cloud"]; 
+					newFeed.cloudUrl = cloud ["#"];
 					}
 				}
 			}

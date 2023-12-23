@@ -1,4 +1,4 @@
-var myProductName = "feedhunter", myVersion = "0.4.3";
+var myProductName = "feedhunter", myVersion = "0.4.4";
 
 exports.huntForFeed = huntForFeed;
 
@@ -26,6 +26,15 @@ function httpReadUrl (url, callback) { //8/21/22 by DW
 				}
 			}
 		});
+	}
+function fixRelativeUrl (htmlUrl, url) { //12/23/23 by DW
+	if (utils.beginsWith (url, "//") || utils.beginsWith (url, "http://") || utils.beginsWith (url, "https://")) { //not a relative URL
+		return (url);
+		}
+	else {
+		const jstruct = new URL (url, htmlUrl);
+		return (jstruct.href);
+		}
 	}
 function getFeedsLinkedToFromHtml (htmlUrl, callback) { //11/8/23 by DW
 	function findFeedsFromHTML (html) {
@@ -95,8 +104,9 @@ function huntForFeed (htmlUrl, options, callback) {
 	var fileQueue = new Array ();
 	getFeedsLinkedToFromHtml (htmlUrl, function (err, feeds) {
 		if (feeds !== undefined) {
-			feeds.forEach (function (item) {
-				fileQueue.push (item);
+			feeds.forEach (function (url) {
+				url = fixRelativeUrl (htmlUrl, url); //12/23/23 by DW
+				fileQueue.push (url);
 				});
 			}
 		config.filePathsToCheck.forEach (function (item) {

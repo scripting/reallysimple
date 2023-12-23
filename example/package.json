@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"main": "test.js",
 	"dependencies" : {
-		"marked": "*",
+		"marked": "3.0.8",
 		"node-emoji": "*",
 		"daveutils": "*",
 		"reallysimple": "*"

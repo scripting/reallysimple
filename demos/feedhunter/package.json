@@ -1,7 +1,7 @@
 {
 	"name": "feedhunter",
 	"description": "A Node.js package that looks for a feed, starting with the address of an HTML file.",
-	"version": "0.4.3",
+	"version": "0.4.4",
 	"main": "feedhunter.js",
 	"files": [
 		"feedhunter.js",

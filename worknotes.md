@@ -1,3 +1,7 @@
+#### 11/28/23; 3:41:08 PM by DW
+
+Added support for source:cloud element. 
+
 #### 11/8/23; 10:20:30 AM by DW
 
 Changed version number on marked package to 3.0.8, the last version that worked afaik.

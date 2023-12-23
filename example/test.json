@@ -1,754 +1,425 @@
 {
-    "title": "NYT > World News",
-    "pubDate": "2022-11-03T01:17:43.000Z",
-    "link": "https://www.nytimes.com/section/world",
-    "language": "en-us",
-    "copyright": "Copyright 2022 The New York Times Company",
-    "image": {
-        "url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
-        "title": "NYT > World News"
+    "title": "Dave's linkblog feed",
+    "description": "My linkblog has been around in various locations for many years.",
+    "pubDate": "2023-11-28T19:57:44.000Z",
+    "link": "http://feedland.org/?river=http://data.feedland.org/feeds/davewiner.xml",
+    "generator": "feedland v0.6.35",
+    "cloud": {
+        "domain": "rpc.rsscloud.io",
+        "port": "5337",
+        "path": "/pleaseNotify",
+        "registerprocedure": "",
+        "protocol": "http-post",
+        "type": "rsscloud"
     },
+    "localtime": "Tue, November 28, 2023 3:13 PM EST",
+    "cloudUrl": "https://rpc.rsscloud.io:5337/pleaseNotify",
     "reader": {
-        "app": "reallysimple v0.4.21 (darwin)",
-        "ctSecsToRead": 0.433
+        "app": "reallysimple v0.4.25 (darwin)",
+        "ctSecsToRead": 0.222
     },
     "items": [
         {
-            "title": "Russia Rejoins Grain Deal, but Warns It Could Pull Out Again",
-            "description": "The agreement allows Ukraine, a major food producer, to export grain by sea, easing the threat of famine in other countries.",
-            "pubDate": "2022-11-02T22:09:53.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html",
-            "author": "Ivan Nechepurenko and Matthew Mpoke Bigg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02ukraine-ledeall-1/02ukraine-ledeall-1-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html"
+            "description": "<p>Media gave much less play to Trump’s ‘vermin’ comment than Clinton remark.</p>\n",
+            "pubDate": "2023-11-28T19:57:44.000Z",
+            "link": "https://www.theguardian.com/us-news/2023/nov/28/media-trump-hillary-clinton-vermin-deplorables",
+            "guid": "https://feedland.org/?item=7186822",
+            "permalink": "https://feedland.org/?item=7186822",
+            "markdowntext": "Media gave much less play to Trump’s ‘vermin’ comment than Clinton remark."
         },
         {
-            "title": "Netanyahu Extends Lead in Israel Election, Projections Say",
-            "description": "Benjamin Netanyahu’s near-certain victory in this week’s election in Israel won’t be confirmed until Thursday, but his far right allies are already savoring their rise to power.",
-            "pubDate": "2022-11-02T19:13:41.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html",
-            "author": "Patrick Kingsley",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02Israel1/02Israel1-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html"
+            "description": "<p>&quot;Bob and Don: A Love Story&quot; a short documentary by Judd Apatow.</p>\n",
+            "pubDate": "2023-11-28T19:01:28.000Z",
+            "link": "https://m.youtube.com/watch?si=U82r40BkYyy-LNKG&v=o3cs7PyXPsU&feature=youtu.be",
+            "guid": "https://feedland.org/?item=7185650",
+            "permalink": "https://feedland.org/?item=7185650",
+            "markdowntext": "\"Bob and Don: A Love Story\" a short documentary by Judd Apatow."
         },
         {
-            "title": "Ethiopia and Tigray Rebels Agree to End Civil War, Mediators Say",
-            "description": "After two years of fighting that left hundreds of thousands dead and millions displaced and facing starvation, the surprise deal came out of peace talks convened by the African Union in South Africa.",
-            "pubDate": "2022-11-02T21:52:01.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html",
-            "author": "Declan Walsh, Abdi Latif Dahir and Lynsey Chutel",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02ethiopia-1sub/02ethiopia-1sub-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html"
+            "description": "<p>As Groundwater Levels Fall in the U.S., Powerful Players Block Change.</p>\n",
+            "pubDate": "2023-11-28T17:50:27.000Z",
+            "link": "https://www.nytimes.com/interactive/2023/11/24/climate/groundwater-levels.html",
+            "guid": "https://feedland.org/?item=7184016",
+            "permalink": "https://feedland.org/?item=7184016",
+            "markdowntext": "As Groundwater Levels Fall in the U.S., Powerful Players Block Change."
         },
         {
-            "title": "Angry Bolsonaro Supporters Protest in the Streets",
-            "description": "Tens of thousands of people demonstrated in cities across Brazil, many of them demanding that the military stop the transfer of power to President-elect Luiz Inácio Lula da Silva.",
-            "pubDate": "2022-11-02T22:57:02.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html",
-            "author": "Jack Nicas",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02brazil-protests-1/merlin_215894454_b6af8baf-f0ba-4261-8f83-72a64aa746e5-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html"
+            "description": "<p>A question for rssCloud implementors.</p>\n",
+            "pubDate": "2023-11-28T17:17:35.000Z",
+            "link": "https://github.com/scripting/Scripting-News/issues/280",
+            "guid": "https://feedland.org/?item=7183209",
+            "permalink": "https://feedland.org/?item=7183209",
+            "markdowntext": "A question for rssCloud implementors."
         },
         {
-            "title": "Power Outages Leave Kyiv, Ukraine, Draped in Darkness",
-            "description": "The streets of Ukraine’s capital, illuminated with nightlife only weeks ago, are shrouded in darkness and shadows now because of restrictions on the use of electricity. The lack of light creates moments of apprehension, but also of beauty.",
-            "pubDate": "2022-11-02T12:40:59.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html",
-            "author": "Marc Santora and Brendan Hoffman",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01ukraine-kyiv-night05-promo/merlin_215196270_570ec7ac-784a-4b44-9c95-c8e73a1e245c-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html"
+            "description": "<p>Mellon Foundation Pledges a Total $500 Million for Monuments.</p>\n",
+            "pubDate": "2023-11-28T17:14:29.000Z",
+            "link": "https://www.nytimes.com/2023/11/28/arts/design/mellon-foundation-funding-monuments.html",
+            "guid": "https://feedland.org/?item=7183189",
+            "permalink": "https://feedland.org/?item=7183189",
+            "markdowntext": "Mellon Foundation Pledges a Total $500 Million for Monuments."
         },
         {
-            "title": "U.S. Accuses North Korea of Sending Russia Munitions",
-            "description": "A White House official says North Korea has covertly sent a “significant number” of artillery shells to Russia.",
-            "pubDate": "2022-11-03T01:10:39.000Z",
-            "link": "https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates",
-            "guid": "https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates",
-            "author": "The New York Times",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-header-1am/02ukraine-briefing-header-1am-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates"
+            "description": "<p>ChatGPT 3.5 loves to exaggerate.</p>\n",
+            "pubDate": "2023-11-28T14:48:06.000Z",
+            "link": "http://oldschool.scripting.com/ksmith3123@gmail.com/2023/10/25/111518.html",
+            "guid": "https://feedland.org/?item=7179732",
+            "permalink": "https://feedland.org/?item=7179732",
+            "markdowntext": "ChatGPT 3.5 loves to exaggerate."
         },
         {
-            "title": "Iranian Authorities Crack Down on Protests at Tehran Apartment Complex",
-            "description": "Iran’s security forces shot at windows and threw stun grenades in a raid at the Shahrak Ekbatan complex, where a member of the feared Basij militia was killed last week, residents said.",
-            "pubDate": "2022-11-02T19:53:17.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html",
-            "author": "Farnaz Fassihi",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02iran-protests01/02iran-protests01-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html"
+            "description": "<p>2009: The idea [of rssCloud] is to deliver news faster, without relying on a single company to do all the work.</p>\n",
+            "pubDate": "2023-11-28T14:30:05.000Z",
+            "link": "http://scripting.com/stories/2009/09/08/whatDoesRsscloudMeanToYou.html",
+            "guid": "https://feedland.org/?item=7179404",
+            "permalink": "https://feedland.org/?item=7179404",
+            "markdowntext": "2009: The idea [of rssCloud] is to deliver news faster, without relying on a single company to do all the work."
         },
         {
-            "title": "U.S. Seeks Removal of Iran From U.N. Women’s Rights Agency",
-            "description": "At an informal meeting of the United Nations Security Council on Wednesday, the American ambassador called on the global community to give its “moral support” to protesters in Iran.",
-            "pubDate": "2022-11-02T23:18:09.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html",
-            "author": "Farnaz Fassihi",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02nations-Iran-1-ffc2/02nations-Iran-1-ffc2-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html"
+            "description": "<p>ChatGPT&#39;s success reshaped the landscape for every one of tech&#39;s giants.</p>\n",
+            "pubDate": "2023-11-28T12:43:45.000Z",
+            "link": "https://www.axios.com/2023/11/28/chatgpt-big-tech-microsoft-google-apple-meta-amazon",
+            "guid": "https://feedland.org/?item=7177557",
+            "permalink": "https://feedland.org/?item=7177557",
+            "markdowntext": "ChatGPT's success reshaped the landscape for every one of tech's giants."
         },
         {
-            "title": "Israel’s Election: 5 Takeaways",
-            "description": "Benjamin Netanyahu seems poised to take power again. But regardless of his fate, the election already highlights several trends that could have a lasting effect on Israel.",
-            "pubDate": "2022-11-02T16:42:10.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html",
-            "author": "Patrick Kingsley",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02Israel-Explainer-1/02Israel-Explainer-1-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html"
+            "description": "<p>Tumblr sheds Post Plus subscriptions as the platform downsizes.</p>\n",
+            "pubDate": "2023-11-28T00:10:06.000Z",
+            "link": "https://www.theverge.com/2023/11/27/23978683/tumblr-post-plus-subscription-downsize",
+            "guid": "https://feedland.org/?item=7165411",
+            "permalink": "https://feedland.org/?item=7165411",
+            "markdowntext": "Tumblr sheds Post Plus subscriptions as the platform downsizes."
         },
         {
-            "title": "After Covid Lockdown, Fear and Unrest Sweep iPhone Factory in China",
-            "description": "Hundreds of workers are said to have fled, afraid of being forced into quarantine with inadequate food and supplies.",
-            "pubDate": "2022-11-02T18:25:23.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html",
-            "author": "Chang Che and Amy Chang Chien",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/12/01/world/01china-foxconn-01/01china-foxconn-01-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html"
+            "title": "RSS Club | daverupert.com",
+            "description": "<p>RSS Club is a collection of blogs (personal and otherwise) committed to providing RSS-only content.</p>\n",
+            "pubDate": "2023-11-27T21:05:38.000Z",
+            "link": "https://daverupert.com/rss-club/",
+            "guid": "https://feedland.org/?item=7160854",
+            "permalink": "https://feedland.org/?item=7160854",
+            "markdowntext": "RSS Club is a collection of blogs (personal and otherwise) committed to providing RSS-only content."
         },
         {
-            "title": "Denmark’s Center-Left Coalition Wins Election Majority",
-            "description": "An unpredictable race ultimately gave the governing Social Democratic Party its best showing in two decades, though analysts said it looked set to form a more centrist government.",
-            "pubDate": "2022-11-02T15:58:47.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html",
-            "author": "Jasmina Nielsen and Isabella Kwai",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/02denmark-election/02denmark-election-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html"
+            "description": "<p>Spying on Trump&#39;s Mar-a-Lago Club Was Easy. Is Your Privacy Safe?</p>\n",
+            "pubDate": "2023-11-27T19:01:32.000Z",
+            "link": "https://www.rollingstone.com/culture/culture-features/data-brokers-trump-tech-spying-privacy-threat-1234897098/",
+            "guid": "https://feedland.org/?item=7157447",
+            "permalink": "https://feedland.org/?item=7157447",
+            "markdowntext": "Spying on Trump's Mar-a-Lago Club Was Easy. Is Your Privacy Safe?"
         },
         {
-            "title": "North Korea Launches 23 Missiles, Triggering Air-Raid Alarm in South",
-            "description": "People on an island took cover as one missile landed near South Korean territorial waters. The South responded by firing three missiles of its own.",
-            "pubDate": "2022-11-02T23:32:27.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html",
-            "author": "Choe Sang-Hun",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/12/01/world/01nkorea-11/01nkorea-11-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html"
+            "description": "<p>The real AI fight.</p>\n",
+            "pubDate": "2023-11-27T18:00:19.000Z",
+            "link": "https://pluralistic.net/2023/11/27/10-types-of-people/",
+            "guid": "https://feedland.org/?item=7156113",
+            "permalink": "https://feedland.org/?item=7156113",
+            "markdowntext": "The real AI fight."
         },
         {
-            "title": "Pleas for Help Went Unheeded for Hours in Deadly South Korea Crush",
-            "description": "Transcripts of desperate emergency calls exposed the failure of the government response, and contradicted official claims about when the disaster was first reported.",
-            "pubDate": "2022-11-01T19:10:24.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/asia/south-korea-crowd-crush.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/asia/south-korea-crowd-crush.html",
-            "author": "Choe Sang-Hun",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01skorea-1/01skorea-1-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/asia/south-korea-crowd-crush.html"
+            "description": "<p>Yup hacks together a cross-posting app for X, Threads, Bluesky and others.</p>\n",
+            "pubDate": "2023-11-27T17:28:13.000Z",
+            "link": "https://techcrunch.com/2023/11/21/yup-hacks-together-a-cross-posting-app-for-x-threads-bluesky-and-others/",
+            "guid": "https://feedland.org/?item=7155476",
+            "permalink": "https://feedland.org/?item=7155476",
+            "markdowntext": "Yup hacks together a cross-posting app for X, Threads, Bluesky and others."
         },
         {
-            "title": "India Bridge Offered Respite to Migrants, Before Taking Their Lives",
-            "description": "Cash compensation for victims’ families will do little to make up for the life, and economic hope, of migrants among the 134 killed in India.",
-            "pubDate": "2022-11-01T14:03:42.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/asia/india-bridge-disaster.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/asia/india-bridge-disaster.html",
-            "author": "Sameer Yasir and Emily Schmall",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01india-bridge-1/01india-bridge-1-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/asia/india-bridge-disaster.html"
+            "description": "<p>2013: A question maybe no one has ever asked you.</p>\n",
+            "pubDate": "2023-11-27T16:14:17.000Z",
+            "link": "http://scripting.com/2013/11/27/question",
+            "guid": "https://feedland.org/?item=7153935",
+            "permalink": "https://feedland.org/?item=7153935",
+            "markdowntext": "2013: A question maybe no one has ever asked you."
         },
         {
-            "title": "North Korea Fires 3 More Missiles Toward Japan, Including Suspected ICBM",
-            "description": "Just a day after launching nearly two dozen missiles, the North fired off more, one of which officials said appeared to be an intercontinental ballistic missile.",
-            "pubDate": "2022-11-03T01:17:43.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/asia/north-korea-missile-japan.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/asia/north-korea-missile-japan.html",
-            "author": "Choe Sang-Hun and Motoko Rich",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/03/multimedia/03nkorea-01-1-518c/03nkorea-01-1-518c-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/asia/north-korea-missile-japan.html"
+            "description": "<p>Trump Thinks He Can Run As an Abortion ‘Moderate’ in ’24.</p>\n",
+            "pubDate": "2023-11-27T10:26:10.000Z",
+            "link": "https://www.rollingstone.com/politics/politics-features/donald-trump-abortion-moderate-run-2024-election-1234893936/",
+            "guid": "https://feedland.org/?item=7148573",
+            "permalink": "https://feedland.org/?item=7148573",
+            "markdowntext": "Trump Thinks He Can Run As an Abortion ‘Moderate’ in ’24."
         },
         {
-            "title": "Russia’s Nuclear Weapons Rhetoric: How Concerned Should We Be?",
-            "description": "U.S. officials say they do not believe that Russia has decided to detonate a tactical device, but concerns are rising.",
-            "pubDate": "2022-11-02T23:58:47.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html",
-            "guid": "https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html",
-            "author": "Julian E. Barnes, Helene Cooper and Eric Schmitt",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02dc-nukes-1-6a21/02dc-nukes-1-6a21-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html"
+            "description": "<p>Preserving our digital content is vital. But paying $38,000 for the privilege is not.</p>\n",
+            "pubDate": "2023-11-27T09:06:30.000Z",
+            "link": "https://www.theguardian.com/commentisfree/2023/nov/25/wordpress-preserve-digital-content-100-years",
+            "guid": "https://feedland.org/?item=7147448",
+            "permalink": "https://feedland.org/?item=7147448",
+            "markdowntext": "Preserving our digital content is vital. But paying $38,000 for the privilege is not."
         },
         {
-            "title": "Your Thursday Briefing: A Truce in Tigray",
-            "description": "Plus North Korea fired a record number of missiles, and Russia rejoined the grail deal.",
-            "pubDate": "2022-11-02T20:58:19.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html",
-            "guid": "https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html",
-            "author": "Amelia Nierenberg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/03ambriefing-asia-ethiopia-promo/02ethiopia-HP-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html"
+            "description": "<p>EV Batteries Are Perfect For Storing Solar Power.</p>\n",
+            "pubDate": "2023-11-27T02:36:01.000Z",
+            "link": "https://cleantechnica.com/2023/11/26/ev-batteries-are-perfect-for-storing-solar-power/",
+            "guid": "https://feedland.org/?item=7142716",
+            "permalink": "https://feedland.org/?item=7142716",
+            "markdowntext": "EV Batteries Are Perfect For Storing Solar Power."
         },
         {
-            "title": "Dobby’s Grave Can Stay on a Beach in Wales, but Please Stop Giving Him Socks",
-            "description": "After a grave site for the “Harry Potter” elf became a tourist attraction, tributes to the character prompted environmental concerns.",
-            "pubDate": "2022-11-02T17:39:55.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html",
-            "author": "Daniel Victor",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02xp-dobby/02xp-dobby-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html"
+            "description": "<p>Benedict Evans on Twitter. I don’t care if he’s leaving or not, but it’s a good story, worth a read.</p>\n",
+            "pubDate": "2023-11-26T19:41:56.000Z",
+            "link": "https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter",
+            "guid": "https://feedland.org/?item=7136648",
+            "permalink": "https://feedland.org/?item=7136648",
+            "markdowntext": "Benedict Evans on Twitter. I don’t care if he’s leaving or not, but it’s a good story, worth a read."
         },
         {
-            "title": "North Korea Sending Ammunition to Russia for War, White House Says",
-            "description": "The national security spokesman, John Kirby, said that it was unclear if the munitions had reached Russia, but that in any case, they would not “change the course of the war.”",
-            "pubDate": "2022-11-03T00:50:23.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html",
-            "author": "Alan Rappeport",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02ukraine-briefing-north-korea-01-1-3113/02ukraine-briefing-north-korea-01-1-3113-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html"
+            "title": "Biden Asked If He’s Too Old to Run in 2024: ‘That’s Stupid!’ - The Messenger",
+            "description": "<p>The reporter did get some blowback from critics over crediting the age question to &quot;a reporter&quot; rather than to himself. (I’ve seen reporters do worse.)</p>\n",
+            "pubDate": "2023-11-26T19:23:50.000Z",
+            "link": "https://themessenger.com/politics/joe-biden-nantucket-2024-age-fox-news",
+            "guid": "https://feedland.org/?item=7136401",
+            "permalink": "https://feedland.org/?item=7136401",
+            "markdowntext": "The reporter did get some blowback from critics over crediting the age question to \"a reporter\" rather than to himself. (I’ve seen reporters do worse.)"
         },
         {
-            "title": "Kyiv Prepares 425 Shelters in Case of a Russian Nuclear Attack",
-            "description": "Worries that the Kremlin might turn to its nuclear arsenal have deepened since President Vladimir V. Putin of Russia raised the specter of using such weapons to hold on to territorial gains.",
-            "pubDate": "2022-11-02T14:06:11.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html",
-            "author": "Marc Santora",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/multimedia/02ukraine-briefing-nuclear-shelter-5-1-6864/02ukraine-briefing-nuclear-shelter-5-1-6864-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html"
+            "description": "<p>Former McDonald&#39;s Chef Explains Why Menu Doesn&#39;t Change.</p>\n",
+            "pubDate": "2023-11-26T18:10:48.000Z",
+            "link": "https://www.dailydot.com/news/why-mcdonalds-menu-stays-the-same/",
+            "guid": "https://feedland.org/?item=7135328",
+            "permalink": "https://feedland.org/?item=7135328",
+            "markdowntext": "Former McDonald's Chef Explains Why Menu Doesn't Change."
         },
         {
-            "title": "The New Abortion Landscape",
-            "description": "Women in states with abortion bans are turning to telemedicine.",
-            "pubDate": "2022-11-02T14:23:32.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html",
-            "guid": "https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html",
-            "author": "Emily Bazelon",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/multimedia/02themorning-lead-promo/02themorning-lead-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html"
+            "description": "<p>AI’s Spicy-Mayo Problem.</p>\n",
+            "pubDate": "2023-11-26T12:31:29.000Z",
+            "link": "https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/?gift=2iIN4YrefPjuvZ5d2Kh30ziSbGfKfDht_XJh24I6h-M",
+            "guid": "https://feedland.org/?item=7131638",
+            "permalink": "https://feedland.org/?item=7131638",
+            "markdowntext": "AI’s Spicy-Mayo Problem."
         },
         {
-            "title": "Hurricane or Typhoon? How Tropical Cyclones Get Their Names.",
-            "description": "There are variations around the world, particularly in the Western Pacific, in how countries name and measure tropical cyclones. We can explain.",
-            "pubDate": "2022-11-02T09:40:06.000Z",
-            "link": "https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html",
-            "guid": "https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html",
-            "author": "Mike Ives",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/22/multimedia/00xp-typhoons-01-1-9959/00xp-typhoons-01-1-9959-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html"
+            "description": "<p>‘We will coup whoever we want!’: the unbearable hubris of Musk and the billionaire tech bros.</p>\n",
+            "pubDate": "2023-11-25T13:48:42.000Z",
+            "link": "https://www.theguardian.com/books/2023/nov/25/we-will-coup-whoever-we-want-the-unbearable-hubris-of-musk-and-the-billionaire-tech-bros",
+            "guid": "https://feedland.org/?item=7116292",
+            "permalink": "https://feedland.org/?item=7116292",
+            "markdowntext": "‘We will coup whoever we want!’: the unbearable hubris of Musk and the billionaire tech bros."
         },
         {
-            "title": "As Climate Change Worsens, US Weighs Which Communities to Save",
-            "description": "Native American tribes are competing for the first federal grants designed to help move communities away from high water and other dangers posed by climate change.",
-            "pubDate": "2022-11-02T15:57:00.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html",
-            "guid": "https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html",
-            "author": "Christopher Flavelle and Tailyr Irvine",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/climate/00cli-RELOCATING_TRIBES-promo/00cli-RELOCATING_TRIBES-promo-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html"
+            "description": "<p>Tesla starts releasing to employees FSD v12 - a critical update to self-driving effort.</p>\n",
+            "pubDate": "2023-11-24T19:33:32.000Z",
+            "link": "https://electrek.co/2023/11/24/tesla-releasing-employees-fsd-v12-a-critical-update-self-driving-effort/",
+            "guid": "https://feedland.org/?item=7100867",
+            "permalink": "https://feedland.org/?item=7100867",
+            "markdowntext": "Tesla starts releasing to employees FSD v12 - a critical update to self-driving effort."
         },
         {
-            "title": "Trial of Kansas Teacher Who Joined ISIS Shows Family’s Deep Scars",
-            "description": "Allison Fluke-Ekren, a teacher from Kansas, dragged her family to Syria and forced her daughter, Leyla, to train for war on behalf of the Islamic State. Now her daughter wields final words against her.",
-            "pubDate": "2022-11-02T16:56:20.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html",
-            "guid": "https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html",
-            "author": "Adam Goldman",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/us/politics/01dc-isis15/01dc-isis15-moth.png",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html"
+            "description": "<p>Haddon Sundblom and the Coca-Cola Santas.</p>\n",
+            "pubDate": "2023-11-24T17:10:47.000Z",
+            "link": "https://www.coca-colacompany.com/about-us/history/haddon-sundblom-and-the-coca-cola-santas",
+            "guid": "https://feedland.org/?item=7097960",
+            "permalink": "https://feedland.org/?item=7097960",
+            "markdowntext": "Haddon Sundblom and the Coca-Cola Santas."
         },
         {
-            "title": "Russia rejoins the grain deal after saying it received safety assurances.",
-            "pubDate": "2022-11-02T11:04:40.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html",
-            "guid": "https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html",
-            "author": "Matthew Mpoke Bigg and James C. McKinley Jr.",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/02ukraine-briefing-grain-wednesday-writhru/01ukraine-ledeall-5-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html"
+            "description": "<p>Elon Musk Says There&#39;s a &quot;Large Graveyard Filled With My Enemies.&quot;</p>\n",
+            "pubDate": "2023-11-24T09:08:35.000Z",
+            "link": "https://news.yahoo.com/elon-musk-says-theres-large-183752696.html",
+            "guid": "https://feedland.org/?item=7090092",
+            "permalink": "https://feedland.org/?item=7090092",
+            "markdowntext": "Elon Musk Says There's a \"Large Graveyard Filled With My Enemies.\""
         },
         {
-            "title": "Your Wednesday Briefing",
-            "description": "The latest developments from elections in Brazil, Denmark and Israel.",
-            "pubDate": "2022-11-02T04:54:32.000Z",
-            "link": "https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html",
-            "guid": "https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html",
-            "author": "Natasha Frost",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/02ambriefing-europe-nl-promo-nov/02ambriefing-europe-nl-promo-nov-moth-v3.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html"
+            "description": "<p>Chunks, anchors and textcasting.</p>\n",
+            "pubDate": "2023-11-24T02:24:03.000Z",
+            "link": "https://da.vebrig.gs/2023/11/23/chunks-anchors-and-textcasting/",
+            "guid": "https://feedland.org/?item=7083805",
+            "permalink": "https://feedland.org/?item=7083805",
+            "markdowntext": "Chunks, anchors and textcasting."
         },
         {
-            "title": "Netanyahu Holds Slight Lead in Israeli Election, Exit Polls Show",
-            "description": "If the right-wing bloc does eke out a narrow victory, it will allow Mr. Netanyahu, Israel’s longest-serving prime minister, to return to office even as he stands trial on corruption charges.",
-            "pubDate": "2022-11-02T01:53:39.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html",
-            "author": "Patrick Kingsley and Isabel Kershner",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/01israel-ledeall-01/01israel-ledeall-01-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html"
+            "description": "<p>It&#39;s really gratifying that so many new people are using <a href=\"http://news.scripting.com\"><span data-auto-link=\"true\" data-href=\"http://news.scripting.com\">news.scripting.com</span></a>. It&#39;s basically a front-end for FeedLand. I totally manage it with the tools in FeedLand.</p>\n",
+            "pubDate": "2023-11-23T19:40:28.000Z",
+            "link": "http://news.scripting.com/",
+            "guid": "https://feedland.org/?item=7076516",
+            "permalink": "https://feedland.org/?item=7076516",
+            "markdowntext": "It's really gratifying that so many new people are using [<span data-auto-link=\"true\" data-href=\"http://news.scripting.com\">news.scripting.com</span>](http://news.scripting.com). It's basically a front-end for FeedLand. I totally manage it with the tools in FeedLand."
         },
         {
-            "title": "Russia Pushes Ukrainians to Relocate as Possible Battle for Kherson Looms",
-            "description": "Ukrainian officials said that Moscow was trying to clear out civilians to provide places for newly mobilized Russian troops to occupy.",
-            "pubDate": "2022-11-01T23:47:43.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html",
-            "author": "Marc Santora",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01ukraine-ledeall-1/01ukraine-ledeall-1-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html"
+            "description": "<p>OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say.</p>\n",
+            "pubDate": "2023-11-23T18:11:46.000Z",
+            "link": "https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/",
+            "guid": "https://feedland.org/?item=7075395",
+            "permalink": "https://feedland.org/?item=7075395",
+            "markdowntext": "OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say."
         },
         {
-            "title": "Your Wednesday Briefing: Israel Votes, Again",
-            "description": "Plus Bolsonaro will step aside in Brazil and investigations mount in India’s bridge collapse.",
-            "pubDate": "2022-11-01T21:08:53.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/briefing/israeli-netanyahu-brazil-asia.html",
-            "guid": "https://www.nytimes.com/2022/11/01/briefing/israeli-netanyahu-brazil-asia.html",
-            "author": "Amelia Nierenberg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/02/world/110222ambriefing-asia-promo/02ambriefing-asia-israel-moth-v2.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/briefing/israeli-netanyahu-brazil-asia.html"
+            "description": "<p>A couple of WordPress blocks that use the FeedLand API to show your latest feed items on a WordPress site. Written by Fernando Fernandes, a developer at Automattic who I&#39;m working with.</p>\n",
+            "pubDate": "2023-11-23T17:52:55.000Z",
+            "link": "https://github.com/a8cteam51/feedland",
+            "guid": "https://feedland.org/?item=7075021",
+            "permalink": "https://feedland.org/?item=7075021",
+            "markdowntext": "A couple of WordPress blocks that use the FeedLand API to show your latest feed items on a WordPress site. Written by Fernando Fernandes, a developer at Automattic who I'm working with."
         },
         {
-            "title": "Colombia’s President Visits Venezuela, Moving Away From Isolation",
-            "description": "Colombia’s new president met with his Venezuelan counterpart, a milestone in the move by leftist leaders in Latin America to ease the isolation of Nicolás Maduro’s government in Caracas.",
-            "pubDate": "2022-11-01T23:29:28.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/americas/gustavo-petro-nicolas-maduro-venezuela.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/americas/gustavo-petro-nicolas-maduro-venezuela.html",
-            "author": "Isayen Herrera and Julie Turkewitz",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01latam-venezuela-top/01latam-venezuela-top-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/americas/gustavo-petro-nicolas-maduro-venezuela.html"
+            "description": "<p>YouTube: Intro to Large Language Models.</p>\n",
+            "pubDate": "2023-11-23T17:24:23.000Z",
+            "link": "https://simonwillison.net/2023/Nov/23/intro-to-large-language-models/",
+            "guid": "https://feedland.org/?item=7074630",
+            "permalink": "https://feedland.org/?item=7074630",
+            "markdowntext": "YouTube: Intro to Large Language Models."
         },
         {
-            "title": "Canada Aims to Add 1.45 Million Immigrants by 2025",
-            "description": "The policy would increase immigration one week after the country’s census agency announced that Canada had set a new milestone in immigration.",
-            "pubDate": "2022-11-02T00:03:38.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/canada/canada-immigrants.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/canada/canada-immigrants.html",
-            "author": "Vjosa Isai",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01Canada/merlin_210693849_b0a3c3b3-fd97-4da4-83ae-b6d14c7a5de9-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/canada/canada-immigrants.html"
+            "description": "<p>The Red State Brain Drain Isn’t Coming. It’s Happening Right Now.</p>\n",
+            "pubDate": "2023-11-22T17:41:02.000Z",
+            "link": "https://newrepublic.com/article/176854/republican-red-states-brain-drain",
+            "guid": "https://feedland.org/?item=7046381",
+            "permalink": "https://feedland.org/?item=7046381",
+            "markdowntext": "The Red State Brain Drain Isn’t Coming. It’s Happening Right Now."
         },
         {
-            "title": "For Netanyahu’s Corruption Trial, Court Is Hearing From Over 300 Witnesses",
-            "description": "The Israeli electorate remains divided over the former prime minister, even as his continuing trial on corruption charges has mostly dropped out of the headlines.",
-            "pubDate": "2022-11-01T20:46:46.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-netanyahu-corruption-trial.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-netanyahu-corruption-trial.html",
-            "author": "Isabel Kershner",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01israel-elections-briefing-TRIAL-01/merlin_215490498_96097ef0-63c4-4a1c-a16e-9949a967d20b-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-netanyahu-corruption-trial.html"
+            "description": "<p>Downtown Greyhound stations closing after sale to Alden Global Capital subsidiary.</p>\n",
+            "pubDate": "2023-11-21T10:39:19.000Z",
+            "link": "https://www.axios.com/2023/11/18/greyhound-alden-bus-stations-close",
+            "guid": "https://feedland.org/?item=7012588",
+            "permalink": "https://feedland.org/?item=7012588",
+            "markdowntext": "Downtown Greyhound stations closing after sale to Alden Global Capital subsidiary."
         },
         {
-            "title": "Matt Hancock, Former UK Health Secretary, Gets a TV Gig, Then a Suspension",
-            "description": "Matt Hancock, who was filmed in a steamy embrace with an aide, breaking strict Covid distancing rules, will appear on “I’m a Celebrity … Get Me Out of Here!”",
-            "pubDate": "2022-11-01T17:30:08.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/europe/matt-hancock-im-a-celebrity-britain-parliament.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/europe/matt-hancock-im-a-celebrity-britain-parliament.html",
-            "author": "Stephen Castle",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/12/01/world/01uk-hancock-2/01uk-hancock-2-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/matt-hancock-im-a-celebrity-britain-parliament.html"
+            "description": "<p>The problem with Automattic’s 100 year plan.</p>\n",
+            "pubDate": "2023-11-21T10:04:27.000Z",
+            "link": "https://onemanandhisblog.com/2023/11/the-problem-with-automattics-100-year-plan/",
+            "guid": "https://feedland.org/?item=7012047",
+            "permalink": "https://feedland.org/?item=7012047",
+            "markdowntext": "The problem with Automattic’s 100 year plan."
         },
         {
-            "title": "On the scene of a Russian rocket attack.",
-            "pubDate": "2022-11-01T16:22:01.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/europe/on-the-scene-of-a-russian-rocket-attack.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/europe/on-the-scene-of-a-russian-rocket-attack.html",
-            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/on-the-scene-of-a-russian-rocket-attack.html"
+            "description": "<p>I’d pay $10K up front for this 100-year service.</p>\n",
+            "pubDate": "2023-11-21T02:24:42.000Z",
+            "link": "http://scripting.com/2023/11/20/183510.html",
+            "guid": "https://feedland.org/?item=7004411",
+            "permalink": "https://feedland.org/?item=7004411",
+            "markdowntext": "I’d pay $10K up front for this 100-year service."
         },
         {
-            "title": "Bolsonaro Agrees to Transition, Two Days After Losing Brazil Election",
-            "description": "Breaking his silence, President Jair Bolsonaro did not admit defeat or repeat his baseless claims about election fraud, but his administration signaled that the transfer of power would proceed.",
-            "pubDate": "2022-11-02T00:29:30.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/americas/bolsonaro-protest-brazil-election.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/americas/bolsonaro-protest-brazil-election.html",
-            "author": "Jack Nicas and André Spigariol",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01brazil-top/01brazil-top-moth-v3.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/americas/bolsonaro-protest-brazil-election.html"
+            "description": "<p>2011: We need to improve tech criticism. Here’s how.</p>\n",
+            "pubDate": "2023-11-20T22:20:17.000Z",
+            "link": "https://www.niemanlab.org/2011/12/dave-winer-we-need-to-improve-tech-criticism-heres-how/",
+            "guid": "https://feedland.org/?item=6998453",
+            "permalink": "https://feedland.org/?item=6998453",
+            "markdowntext": "2011: We need to improve tech criticism. Here’s how."
         },
         {
-            "title": "Under Russia’s Rain of Fire in Kherson, Ukrainians Sneak Forward",
-            "description": "The commander of a Ukrainian reconnaissance unit spearheading the counterattack in the southern region of Kherson explained how his team helped breach defenses he described as frighteningly dense.",
-            "pubDate": "2022-11-01T14:24:54.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/europe/ukraine-war-kherson.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/europe/ukraine-war-kherson.html",
-            "author": "Carlotta Gall and Ivor Prickett",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/00ukraine-scene01a-promo/00ukraine-scene01a-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/ukraine-war-kherson.html"
+            "description": "<p>Hacker News thread about Colin’s piece about RSS.</p>\n",
+            "pubDate": "2023-11-20T11:50:47.000Z",
+            "link": "https://news.ycombinator.com/item?id=38343385",
+            "guid": "https://feedland.org/?item=6984959",
+            "permalink": "https://feedland.org/?item=6984959",
+            "markdowntext": "Hacker News thread about Colin’s piece about RSS."
         },
         {
-            "title": "Scientists Are Gaining On RSV, a Persistent Threat to Children",
-            "description": "Vaccines and treatments are in trials, but the virus remains a leading killer of infants worldwide.",
-            "pubDate": "2022-11-01T13:11:18.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/health/rsv-children-vaccines.html",
-            "guid": "https://www.nytimes.com/2022/11/01/health/rsv-children-vaccines.html",
-            "author": "Apoorva Mandavilli",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01rsv/01rsv-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/health/rsv-children-vaccines.html"
+            "description": "<p>DatePress.</p>\n",
+            "pubDate": "2023-11-19T23:30:21.000Z",
+            "link": "https://doc.searls.com/2023/11/09/datepress/",
+            "guid": "https://feedland.org/?item=6975751",
+            "permalink": "https://feedland.org/?item=6975751",
+            "markdowntext": "DatePress."
         },
         {
-            "title": "What’s the Future of Affirmative Action?",
-            "description": "The Supreme Court seems poised to end the policy.",
-            "pubDate": "2022-11-01T11:19:44.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/briefing/affirmative-action-supreme-court.html",
-            "guid": "https://www.nytimes.com/2022/11/01/briefing/affirmative-action-supreme-court.html",
-            "author": "German Lopez",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/01themorning-promo/01themorning-lead-2-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/briefing/affirmative-action-supreme-court.html"
+            "description": "<p>Colin Walker likes RSS.</p>\n",
+            "pubDate": "2023-11-19T22:53:18.000Z",
+            "link": "https://colinwalker.blog/blog/?date=2023-11-19#p1",
+            "guid": "https://feedland.org/?item=6975372",
+            "permalink": "https://feedland.org/?item=6975372",
+            "markdowntext": "Colin Walker likes RSS."
         },
         {
-            "title": "Denmark Heads for Period of Uncertainty After Snap Election",
-            "description": "With no clear coalition as of Tuesday night, the stage is set for a negotiation to form what analysts say will likely be a centrist government.",
-            "pubDate": "2022-11-02T00:43:39.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/europe/denmark-election.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/europe/denmark-election.html",
-            "author": "Jasmina Nielsen and Isabella Kwai",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01denmark-election/01denmark-election-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/denmark-election.html"
+            "description": "<p>Rosalynn Carter, first lady who championed mental health, dies at 96.</p>\n",
+            "pubDate": "2023-11-19T20:37:08.000Z",
+            "link": "https://www.washingtonpost.com/obituaries/2023/11/19/rosalynn-carter-first-lady-jimmy-carter-dies/",
+            "guid": "https://feedland.org/?item=6973544",
+            "permalink": "https://feedland.org/?item=6973544",
+            "markdowntext": "Rosalynn Carter, first lady who championed mental health, dies at 96."
         },
         {
-            "title": "Why Does Israel Keep Having So Many Elections?",
-            "description": "A divided electorate and shifting alliances make for a delicate balance in the country’s voting outcomes and lawmakers’ ability to hold diverse blocs together.",
-            "pubDate": "2022-11-01T14:56:22.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-why-many-elections.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-why-many-elections.html",
-            "author": "Patrick Kingsley",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01israel-election-lede-new/01israel-election-lede-new-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/israel-why-many-elections.html"
+            "description": "<p>Rosalynn Carter, former first lady and tireless humanitarian, dies at 96.</p>\n",
+            "pubDate": "2023-11-19T20:32:33.000Z",
+            "link": "https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862",
+            "guid": "https://feedland.org/?item=6973513",
+            "permalink": "https://feedland.org/?item=6973513",
+            "markdowntext": "Rosalynn Carter, former first lady and tireless humanitarian, dies at 96."
         },
         {
-            "title": "Israel Election: Here’s what’s at stake.",
-            "pubDate": "2022-11-01T19:32:35.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/middleeast/heres-whats-at-stake-in-the-election.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/middleeast/heres-whats-at-stake-in-the-election.html",
-            "author": "Patrick Kingsley",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01israel-election-why-new/01israel-election-why-new-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/middleeast/heres-whats-at-stake-in-the-election.html"
+            "description": "<p>Antisemitism.</p>\n",
+            "pubDate": "2023-11-19T18:53:09.000Z",
+            "link": "https://ritholtz.com/2023/11/antisemitism/",
+            "guid": "https://feedland.org/?item=6972413",
+            "permalink": "https://feedland.org/?item=6972413",
+            "markdowntext": "Antisemitism."
         },
         {
-            "title": "Your Tuesday Briefing",
-            "description": "Skyrocketing inflation in Europe.",
-            "pubDate": "2022-11-01T05:23:03.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/briefing/inflation-brazil-russia.html",
-            "guid": "https://www.nytimes.com/2022/11/01/briefing/inflation-brazil-russia.html",
-            "author": "Jonathan Wolfe",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/01ambriefing-europe-nl-promo/31eurozone-inflation-2-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/briefing/inflation-brazil-russia.html"
+            "description": "<p>A 30-Year Trap: The Problem With America’s Weird Mortgages.</p>\n",
+            "pubDate": "2023-11-19T18:40:10.000Z",
+            "link": "https://www.nytimes.com/2023/11/19/business/economy/30-year-mortgage.html",
+            "guid": "https://feedland.org/?item=6972270",
+            "permalink": "https://feedland.org/?item=6972270",
+            "markdowntext": "A 30-Year Trap: The Problem With America’s Weird Mortgages."
         },
         {
-            "title": "Three more grain ships set sail from Ukraine amid questions about their safety.",
-            "pubDate": "2022-11-01T13:08:47.000Z",
-            "link": "https://www.nytimes.com/2022/11/01/world/europe/putin-reaffirms-russias-suspension-of-grain-deal-even-as-grain-ships-leave-ukrainian-ports.html",
-            "guid": "https://www.nytimes.com/2022/11/01/world/europe/putin-reaffirms-russias-suspension-of-grain-deal-even-as-grain-ships-leave-ukrainian-ports.html",
-            "author": "Dan Bilefsky, Anton Troianovski and Matthew Mpoke Bigg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/multimedia/01ukraine-briefing-grain-morning-lead-03-1-63c5/01ukraine-briefing-grain-morning-lead-03-1-63c5-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/11/01/world/europe/putin-reaffirms-russias-suspension-of-grain-deal-even-as-grain-ships-leave-ukrainian-ports.html"
+            "description": "<p>Privacy is Priceless, but Signal is Expensive.</p>\n",
+            "pubDate": "2023-11-19T18:32:54.000Z",
+            "link": "https://signal.org/blog/signal-is-expensive/",
+            "guid": "https://feedland.org/?item=6972165",
+            "permalink": "https://feedland.org/?item=6972165",
+            "markdowntext": "Privacy is Priceless, but Signal is Expensive."
         },
         {
-            "title": "Russian Missiles Deliver New Woe to Kyiv, Knocking Out Tap Water",
-            "description": "Moscow kept up its campaign to destroy civilian infrastructure, in an apparent bid — so far unsuccessful — to break Ukrainian morale by making cities unlivable.",
-            "pubDate": "2022-11-01T06:12:32.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html",
-            "author": "Marc Santora and Matthew Mpoke Bigg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31ukraine-ledeall01/31ukraine-ledeall01-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html"
+            "description": "<p>Newsom TV ad hits DeSantis on abortion as Fox debate looms.</p>\n",
+            "pubDate": "2023-11-19T18:08:29.000Z",
+            "link": "https://www.politico.com/news/2023/11/19/newsom-desantis-tv-ad-debate-00127932",
+            "guid": "https://feedland.org/?item=6971809",
+            "permalink": "https://feedland.org/?item=6971809",
+            "markdowntext": "Newsom TV ad hits DeSantis on abortion as Fox debate looms."
         },
         {
-            "title": "Your Tuesday Briefing: Jair Bolsonaro Loses",
-            "description": "But he has not conceded Brazil’s presidential election.",
-            "pubDate": "2022-10-31T21:07:57.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html",
-            "guid": "https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html",
-            "author": "Amelia Nierenberg",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/world/110122ambriefing-asia-promo/01ambriefing-asia-brazil-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html"
+            "description": "<p>Lou Grant: &quot;You&#39;ve got spunk!&quot;</p>\n",
+            "pubDate": "2023-11-19T14:00:34.000Z",
+            "link": "https://www.youtube.com/watch?v=0cHSYhafCQM",
+            "guid": "https://feedland.org/?item=6968245",
+            "permalink": "https://feedland.org/?item=6968245",
+            "markdowntext": "Lou Grant: \"You've got spunk!\""
         },
         {
-            "title": "Rishi Sunak’s First Crisis: Turmoil Engulfing His Home Secretary",
-            "description": "Suella Braverman has come under political fire for breaching security rules and for her handling of immigration issues.",
-            "pubDate": "2022-10-31T21:07:35.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html",
-            "author": "Mark Landler and Stephen Castle",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31uk-politics-02/31uk-politics-02-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html"
+            "description": "<p>Tesla&#39;s Cybertruck has a serious problem that only a complete redesign.</p>\n",
+            "pubDate": "2023-11-19T11:48:01.000Z",
+            "link": "https://www.fastcompany.com/90945689/teslas-cybertruck-has-a-serious-problem-that-only-a-complete-redesign-can-fix?kwp_0=2314753&kwp_4=6523033&kwp_1=2792233",
+            "guid": "https://feedland.org/?item=6966777",
+            "permalink": "https://feedland.org/?item=6966777",
+            "markdowntext": "Tesla's Cybertruck has a serious problem that only a complete redesign."
         },
         {
-            "title": "Key Evidence in Report on Missing Mexican Students Cannot Be Verified, Experts Say",
-            "description": "An international panel said it had found numerous inconsistencies in evidence presented by the government’s truth commission on the disappearance of the 43 students in 2014.",
-            "pubDate": "2022-11-01T02:49:19.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html",
-            "author": "Natalie Kitroeff and Oscar Lopez",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31mexico-killings-report/merlin_215453949_4bb262ab-277a-4060-b282-1f35facc9f81-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html"
+            "description": "<p>Of course we have no privacy from Google, but they never say that part.</p>\n",
+            "pubDate": "2023-11-19T11:24:47.000Z",
+            "link": "https://www.bleepingcomputer.com/news/google/google-shares-plans-for-blocking-third-party-cookies-in-chrome/",
+            "guid": "https://feedland.org/?item=6966611",
+            "permalink": "https://feedland.org/?item=6966611",
+            "markdowntext": "Of course we have no privacy from Google, but they never say that part."
         },
         {
-            "title": "Sea Drone Attack on Russian Fleet Puts Focus on Expanded Ukrainian Arms",
-            "description": "Military experts say that the apparent use of remote-controlled boats to attack Russian ships over the weekend is likely to demonstrate a new capability for Ukrainian forces.",
-            "pubDate": "2022-10-31T20:39:59.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html",
-            "guid": "https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html",
-            "author": "Lara Jakes",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31ukraine-drone-boats-01/31ukraine-drone-boats-01-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html"
+            "description": "<p>There’s nothing new about Nazis.</p>\n",
+            "pubDate": "2023-11-19T01:49:59.000Z",
+            "link": "https://www.jsonline.com/story/news/politics/2023/11/18/neo-nazi-group-marches-on-state-capital/71636061007/",
+            "guid": "https://feedland.org/?item=6960839",
+            "permalink": "https://feedland.org/?item=6960839",
+            "markdowntext": "There’s nothing new about Nazis."
         },
         {
-            "title": "South Korea Halloween Deaths Were ‘Absolutely Avoidable’ Disaster, Experts Say",
-            "description": "Days after the deaths of more than 150 young people, officials were still struggling to explain what exactly went wrong and who was to blame.",
-            "pubDate": "2022-11-01T08:13:39.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html",
-            "author": "Choe Sang-Hun",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31SKOREA-ACCOUNTABILITY-02-SUB/merlin_215774364_3af086b6-e869-406e-96b0-c6ea5c4fc6be-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html"
+            "description": "<p>This Louisiana Village Brought in $1 Million Through a Court Where the Mayor Is the Judge.</p>\n",
+            "pubDate": "2023-11-18T23:29:59.000Z",
+            "link": "https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court",
+            "guid": "https://feedland.org/?item=6959031",
+            "permalink": "https://feedland.org/?item=6959031",
+            "markdowntext": "This Louisiana Village Brought in $1 Million Through a Court Where the Mayor Is the Judge."
         },
         {
-            "title": "Oleg Tinkov Renounces Russian Citizenship Over Ukraine",
-            "description": "The multimillionaire said on Instagram that he “can’t and won’t be associated with a fascist country.”",
-            "pubDate": "2022-11-01T12:05:44.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html",
-            "author": "Anton Troianovski",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/11/01/multimedia/31ukraine-briefing-tinkov-02-1-f24e/31ukraine-briefing-tinkov-02-1-f24e-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html"
-        },
-        {
-            "title": "What Lula’s Victory in Brazil Means for Climate",
-            "description": "The president-elect once helped slash deforestation rates in the Amazon rainforest. He says he wants to do it again.",
-            "pubDate": "2022-11-01T11:42:17.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html",
-            "guid": "https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html",
-            "author": "Manuela Andreoni",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/climate/31cli-brazilclimate-1/31cli-brazilclimate-1-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html"
-        },
-        {
-            "title": "Aging Infrastructure May Create Higher Flood Risk in L.A., Study Finds",
-            "description": "Between 197,000 and 874,000 city residents could experience a foot of flooding during an extreme storm, scientists found. Most of them don’t live in beachfront mansions.",
-            "pubDate": "2022-11-02T14:45:36.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html",
-            "guid": "https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html",
-            "author": "Raymond Zhong",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/science/31cli-californiaflood-01/31cli-californiaflood-01-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html"
-        },
-        {
-            "title": "Kyiv Residents Line Up At Wells After City Loses Running Water",
-            "description": "Before the latest round of assaults on Ukrainian infrastructure, a buzz had returned to the capital.",
-            "pubDate": "2022-10-31T16:56:09.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html",
-            "author": "Marc Santora",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/multimedia/31ukraine-briefing-kyiv-scene-1-321b/31ukraine-briefing-kyiv-scene-1-321b-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html"
-        },
-        {
-            "title": "At Least 134 Dead With Yet Another Failure in India’s Infrastructure",
-            "description": "After the deaths of at least 134 pedestrians, the country is asking why its infrastructure has failed so calamitously once again.",
-            "pubDate": "2022-10-31T18:41:15.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html",
-            "author": "Sameer Yasir, Suhasini Raj, Hari Kumar and Emily Schmall",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31india-bridge-01/31india-bridge-01-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html"
-        },
-        {
-            "title": "What Is COP27?",
-            "description": "With the world still struggling to get global warming under control, diplomats will gather in Egypt for United Nations climate talks. Here are some key facts.",
-            "pubDate": "2022-10-31T20:40:51.000Z",
-            "link": "https://www.nytimes.com/article/cop27-climate-change-summit.html",
-            "guid": "https://www.nytimes.com/article/cop27-climate-change-summit.html",
-            "author": "Lisa Friedman",
-            "permalink": "https://www.nytimes.com/article/cop27-climate-change-summit.html"
-        },
-        {
-            "title": "Bolsonaro Is Silent After Brazil Election Defeat",
-            "description": "President Jair Bolsonaro has not yet recognized his election defeat after months of warning, without evidence, that opponents would rig the vote.",
-            "pubDate": "2022-10-31T23:07:31.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html",
-            "author": "Jack Nicas, Flávia Milhorance and André Spigariol",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31brazil/31brazil-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html"
-        },
-        {
-            "title": "As Last Module Docks, China Completes Its Space Station",
-            "description": "The Mengtian module was launched into orbit and docked with the Tiangong space station, the latest step in Beijing’s effort to surpass the United States in space exploration.",
-            "pubDate": "2022-11-01T01:23:41.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html",
-            "author": "Keith Bradsher",
-            "enclosure": {
-                "url": "https://static01.nyt.com/images/2022/10/31/world/31China-Space/31China-Space-moth.jpg",
-                "type": "image"
-            },
-            "permalink": "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html"
-        },
-        {
-            "title": "Russian Missile Debris Lands in Moldova",
-            "description": "Parts of a Russian missile intercepted by Ukrainian air defenses landed in a Moldovan border village on Monday.",
-            "pubDate": "2022-10-31T16:42:08.000Z",
-            "link": "https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html",
-            "guid": "https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html",
-            "author": "Maria Varenikova and Monika Pronczuk",
-            "permalink": "https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html"
+            "description": "<p>You shouldn&#39;t be driving over 100 mph — and your car shouldn&#39;t let you.</p>\n",
+            "pubDate": "2023-11-18T22:59:58.000Z",
+            "link": "https://www.fastcompany.com/90985257/you-shouldnt-be-driving-over-100-mph-and-your-car-shouldnt-let-you",
+            "guid": "https://feedland.org/?item=6958674",
+            "permalink": "https://feedland.org/?item=6958674",
+            "markdowntext": "You shouldn't be driving over 100 mph — and your car shouldn't let you."
         }
     ]
 }
