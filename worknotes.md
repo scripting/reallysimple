@@ -1,3 +1,7 @@
+#### 3/14/24; 1:40:38 PM by DW
+
+Added support for <source:blogroll>.
+
 #### 11/28/23; 3:41:08 PM by DW
 
 Added support for source:cloud element. 

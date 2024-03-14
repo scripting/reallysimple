@@ -1,4 +1,4 @@
-const feedhunter = require ("feedhunter");
+const feedhunter = require ("feedhunter"); 
 const htmlUrl = "https://bsky.app/profile/scripting.com";
 feedhunter.huntForFeed (htmlUrl, undefined, function (feedUrl) {
 	if (feedUrl === undefined) {
