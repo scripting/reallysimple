@@ -1,6 +1,6 @@
 # reallysimple
 
-A Node package that reads RSS-like feeds and calls back with a simple, consistent JavaScript object. Easy to use, hides the history.
+A <a href="https://www.npmjs.com/package/reallysimple">Node package</a> that reads RSS-like feeds and calls back with a simple, consistent JavaScript object. Easy to use, hides the history.
 
 #### Code example
 
