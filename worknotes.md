@@ -1,3 +1,9 @@
+#### 5/25/24; 1:36:02 PM by DW
+
+Added support for <source:self> element, map it to linkToSelf, the same as atom:link, implemented on 6/15/22.
+
+Wrote a <a href="http://scripting.com/2024/05/25.html#a174503">blog post</a> about it. 
+
 #### 3/14/24; 1:40:38 PM by DW
 
 Added support for <source:blogroll>.

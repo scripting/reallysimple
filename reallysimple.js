@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.28";     
+var myProductName = "reallysimple", myVersion = "0.4.29";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -169,6 +169,10 @@ function convertFeed (oldFeed, whenstart) {
 				if (item.meta ["source:blogroll"] !== undefined) { //3/14/24 by DW
 					var blogroll = item.meta ["source:blogroll"]; 
 					newFeed.blogroll = blogroll ["#"];
+					}
+				if (item.meta ["source:self"] !== undefined) { //5/25/24 by DW
+					var linkToSelf = item.meta ["source:self"]; 
+					newFeed.linkToSelf = linkToSelf ["#"];
 					}
 				}
 			}
