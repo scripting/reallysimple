@@ -1,3 +1,15 @@
+#### 10/19/24; 11:24:25 AM by DW
+
+I took a few hours to try to turn this into an HTTP server. I preserved the code in discuss.root, under today's archive. 
+
+The problem was that it can take a long time, the way the timeouts are set, each time we hit a bad feed.
+
+To fix all that, I'd have to dig into code that hasn't been touched in a long time. That's not my idea of a quick one day project. It could spiral into much more. 
+
+So I punted. It was a nice idea, a utility that might have attracted exactly the kind of people I want to work with. 
+
+I must get back to WordLand where I am very well dug in, and making good progress. 
+
 #### 12/21/22; 8:51:20 AM by DW
 
 Moved to the demos folder of the reallySimple repo. Want to build a nice collection for devs working with feeds.
