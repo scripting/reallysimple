@@ -22,6 +22,10 @@ RSS, Atom, and RDF.
 
 Here's a <a href="http://feeder.scripting.com/returnjson?feedurl=https%3A%2F%2Frss.nytimes.com%2Fservices%2Fxml%2Frss%2Fnyt%2FTheater.xml">demo app</a> that runs a feed through reallySimple. 
 
+#### tinyFeedReader
+
+<a href="https://github.com/scripting/tinyFeedReader">tinyFeedReader</a> is a useful Node app that builds on the reallySimple package.
+
 #### What we build on
 
 Thanks to Dan MacTough for the <a href="https://www.npmjs.com/package/feedparser">feedparser</a> package.

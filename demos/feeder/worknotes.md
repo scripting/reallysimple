@@ -1,3 +1,17 @@
+#### 1/11/25; 11:01:56 AM by DW
+
+In the jsonify template we were including http files when the app is served via https.
+
+This way of calling it should work, but doesn't --
+
+* https://feeder.scripting.com/?feedurl=https://news.ycombinator.com/rss
+
+What we do --
+
+* if a request is made for / and no template was specified, we do the same thing we do as if returnjson had been called
+
+* this is what i always expect it to do, when using it as a utility, so let's make it work that way.
+
 #### 4/20/23; 9:26:31 AM by DW -- v0.5.0
 
 More new calls:

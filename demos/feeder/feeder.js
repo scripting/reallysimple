@@ -355,7 +355,12 @@ function handleHttpRequest (theRequest) {
 	else {
 		switch (theRequest.lowerpath) {
 			case "/": //6/20/22 by DW
-				viewFeedInTemplate (params.feedurl, params.template, returnHtml);
+				if (params.template === undefined) { //1/11/25 by DW -- don't use a template, just return the json
+					readFeed (params.feedurl, httpReturn);
+					}
+				else {
+					viewFeedInTemplate (params.feedurl, params.template, returnHtml);
+					}
 				break;
 			case "/stats": 
 				returnData (stats); 
