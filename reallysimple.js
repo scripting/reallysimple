@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.4.29";     
+var myProductName = "reallysimple", myVersion = "0.5.1";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -22,6 +22,8 @@ const allowedItemNames = [
 const allowedEnclosureNames = [
 	"url", "type", "length"
 	];
+
+const wpNamespace = "com-wordpress:feed-additions:1"; //8/22/25 by DW
 
 var config = {
 	timeOutSecs: 10
@@ -174,6 +176,19 @@ function convertFeed (oldFeed, whenstart) {
 					var linkToSelf = item.meta ["source:self"]; 
 					newFeed.linkToSelf = linkToSelf ["#"];
 					}
+				if (item.meta ["rss:site"] !== undefined) { //8/22/25 by DW
+					const linkToSite = item.meta ["rss:site"];
+					const linkToNamespaces = linkToSite ["@"];
+					var flFoundNamespace = false;
+					for (var x in linkToNamespaces) {
+						if (linkToNamespaces [x] == wpNamespace) {
+							flFoundNamespace = true;
+							}
+						}
+					if (flFoundNamespace) {
+						newFeed.wpSiteId = linkToSite ["#"];
+						}
+					}
 				}
 			}
 		}
@@ -259,6 +274,20 @@ function convertFeed (oldFeed, whenstart) {
 			let markdowntext = item ["source:markdown"] ["#"];
 			newItem.description = markdownProcess (emojiProcess (markdowntext));
 			newItem.markdowntext = markdowntext; //8/25/22 by DW
+			}
+		
+		if (item ["rss:post-id"] !== undefined) { //8/22/25 by DW
+			const linkToPostId = item ["rss:post-id"];
+			const linkToNamespaces = linkToPostId ["@"];
+			var flFoundNamespace = false;
+			for (var x in linkToNamespaces) {
+				if (linkToNamespaces [x] == wpNamespace) {
+					flFoundNamespace = true;
+					}
+				}
+			if (flFoundNamespace) {
+				newItem.wpPostId = linkToPostId ["#"];
+				}
 			}
 		
 		newFeed.items.push (newItem);

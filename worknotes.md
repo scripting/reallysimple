@@ -1,3 +1,15 @@
+#### 8/22/25; 9:30:06 AM by DW -- v0.5.1
+
+We now look for the wordpress site id and post id, if present...
+
+* the site id is saved at the top level of the jstruct with the name wpSiteId
+
+* the post id is saved in the item with the name wpPostId
+
+This facilitates the Edit This Page function in wordpress editors, such as WordLand.
+
+Thought of doing a more general solution, but that'll have to wait until other people are in the loop.
+
 #### 5/25/24; 1:36:02 PM by DW
 
 Added support for <source:self> element, map it to linkToSelf, the same as atom:link, implemented on 6/15/22.

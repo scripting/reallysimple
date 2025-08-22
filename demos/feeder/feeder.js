@@ -1,4 +1,4 @@
-const myVersion = "0.5.0", myProductName = "feeder";     
+const myVersion = "0.5.0", myProductName = "feeder";      
 
 const fs = require ("fs");
 const utils = require ("daveutils");
