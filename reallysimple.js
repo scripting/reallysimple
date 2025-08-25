@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.5.1";     
+var myProductName = "reallysimple", myVersion = "0.5.2";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -73,6 +73,15 @@ function emojiProcess (s) {
 		return ("<span class=\"spRssEmoji\">" + code + "</span>");
 		}
 	return (emoji.emojify (s, undefined, addSpan));
+	}
+function stringToNum (theString) { //return a number if we can convert, otherwise return string -- 8/23/25 by DW
+	const num = Number (theString);
+	if (num == NaN) {
+		return (theString);
+		}
+	else {
+		return (num);
+		}
 	}
 
 function convertFeedToOpml (theFeed) { //use this if you want to show an RSS feed in an outline
@@ -186,7 +195,7 @@ function convertFeed (oldFeed, whenstart) {
 							}
 						}
 					if (flFoundNamespace) {
-						newFeed.wpSiteId = linkToSite ["#"];
+						newFeed.wpSiteId = stringToNum (linkToSite ["#"]);
 						}
 					}
 				}
@@ -286,7 +295,7 @@ function convertFeed (oldFeed, whenstart) {
 					}
 				}
 			if (flFoundNamespace) {
-				newItem.wpPostId = linkToPostId ["#"];
+				newItem.wpPostId = stringToNum (linkToPostId ["#"]);
 				}
 			}
 		

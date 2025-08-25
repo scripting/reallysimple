@@ -1,3 +1,7 @@
+#### 8/23/25; 10:54:38 AM by DW
+
+wpSiteId and wpPostId are now numbers.
+
 #### 8/22/25; 9:30:06 AM by DW -- v0.5.1
 
 We now look for the wordpress site id and post id, if present...
