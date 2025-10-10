@@ -4,7 +4,7 @@ const fs = require ("fs");
 const utils = require ("daveutils");
 const reallysimple = require ("reallysimple");
 
-const urlfeed = "http://data.feedland.org/feeds/davewiner.xml";
+const urlfeed = "https://scripting4.wordpress.com/feed/";
 
 reallysimple.readFeed (urlfeed, function (err, theFeed) {
 	if (err) {

@@ -1,3 +1,9 @@
+#### 10/10/25; 11:13:23 AM by DW
+
+We now look for site id and post id in wordpress-generated sites. 
+
+No we don't. I misunderstood, the id's are not present in the feeds, they are present in the API.
+
 #### 8/23/25; 10:54:38 AM by DW
 
 wpSiteId and wpPostId are now numbers.

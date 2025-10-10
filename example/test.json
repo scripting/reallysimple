@@ -1,425 +1,147 @@
 {
-    "title": "Dave's linkblog feed",
-    "description": "My linkblog has been around in various locations for many years.",
-    "pubDate": "2023-11-28T19:57:44.000Z",
-    "link": "http://feedland.org/?river=http://data.feedland.org/feeds/davewiner.xml",
-    "generator": "feedland v0.6.35",
+    "title": "An experimental blog",
+    "description": "A place for interesting experiments.",
+    "pubDate": "2025-10-10T15:04:39.000Z",
+    "link": "https://scripting4.wordpress.com/",
+    "language": "en",
+    "generator": "http://wordpress.com/",
     "cloud": {
-        "domain": "rpc.rsscloud.io",
-        "port": "5337",
-        "path": "/pleaseNotify",
+        "domain": "scripting4.wordpress.com",
+        "port": "80",
+        "path": "/?rsscloud=notify",
         "registerprocedure": "",
         "protocol": "http-post",
         "type": "rsscloud"
     },
-    "localtime": "Tue, November 28, 2023 3:13 PM EST",
-    "cloudUrl": "https://rpc.rsscloud.io:5337/pleaseNotify",
+    "image": {
+        "url": "https://s0.wp.com/i/buttonw-com.png",
+        "title": "An experimental blog"
+    },
+    "linkToSelf": "https://scripting4.wordpress.com/feed/",
     "reader": {
-        "app": "reallysimple v0.4.25 (darwin)",
-        "ctSecsToRead": 0.222
+        "app": "reallysimple v0.5.3 (darwin)",
+        "ctSecsToRead": 119.95
     },
     "items": [
         {
-            "description": "<p>Media gave much less play to Trump’s ‘vermin’ comment than Clinton remark.</p>\n",
-            "pubDate": "2023-11-28T19:57:44.000Z",
-            "link": "https://www.theguardian.com/us-news/2023/nov/28/media-trump-hillary-clinton-vermin-deplorables",
-            "guid": "https://feedland.org/?item=7186822",
-            "permalink": "https://feedland.org/?item=7186822",
-            "markdowntext": "Media gave much less play to Trump’s ‘vermin’ comment than Clinton remark."
+            "description": "<p>Oregon is nice this time of year.</p>",
+            "pubDate": "2025-10-10T15:04:39.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/10/420/",
+            "guid": "http://scripting4.wordpress.com/2025/10/10/420/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/10/420/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>&quot;Bob and Don: A Love Story&quot; a short documentary by Judd Apatow.</p>\n",
-            "pubDate": "2023-11-28T19:01:28.000Z",
-            "link": "https://m.youtube.com/watch?si=U82r40BkYyy-LNKG&v=o3cs7PyXPsU&feature=youtu.be",
-            "guid": "https://feedland.org/?item=7185650",
-            "permalink": "https://feedland.org/?item=7185650",
-            "markdowntext": "\"Bob and Don: A Love Story\" a short documentary by Judd Apatow."
+            "description": "<p>next in a series of new posts.</p>",
+            "pubDate": "2025-10-10T14:51:20.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/10/419/",
+            "guid": "http://scripting4.wordpress.com/2025/10/10/419/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/10/419/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>As Groundwater Levels Fall in the U.S., Powerful Players Block Change.</p>\n",
-            "pubDate": "2023-11-28T17:50:27.000Z",
-            "link": "https://www.nytimes.com/interactive/2023/11/24/climate/groundwater-levels.html",
-            "guid": "https://feedland.org/?item=7184016",
-            "permalink": "https://feedland.org/?item=7184016",
-            "markdowntext": "As Groundwater Levels Fall in the U.S., Powerful Players Block Change."
+            "description": "<p>Now we&#039;re going to do a bunch of new posts.</p>",
+            "pubDate": "2025-10-10T14:46:29.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/10/418/",
+            "guid": "http://scripting4.wordpress.com/2025/10/10/418/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/10/418/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>A question for rssCloud implementors.</p>\n",
-            "pubDate": "2023-11-28T17:17:35.000Z",
-            "link": "https://github.com/scripting/Scripting-News/issues/280",
-            "guid": "https://feedland.org/?item=7183209",
-            "permalink": "https://feedland.org/?item=7183209",
-            "markdowntext": "A question for rssCloud implementors."
+            "description": "<p>Lettuce Z.</p>",
+            "pubDate": "2025-10-09T15:07:59.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/09/417/",
+            "guid": "http://scripting4.wordpress.com/2025/10/09/417/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/09/417/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>Mellon Foundation Pledges a Total $500 Million for Monuments.</p>\n",
-            "pubDate": "2023-11-28T17:14:29.000Z",
-            "link": "https://www.nytimes.com/2023/11/28/arts/design/mellon-foundation-funding-monuments.html",
-            "guid": "https://feedland.org/?item=7183189",
-            "permalink": "https://feedland.org/?item=7183189",
-            "markdowntext": "Mellon Foundation Pledges a Total $500 Million for Monuments."
+            "description": "<p>Guilty pleasure.</p>",
+            "pubDate": "2025-10-09T15:04:34.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/09/416/",
+            "guid": "http://scripting4.wordpress.com/2025/10/09/416/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/09/416/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>ChatGPT 3.5 loves to exaggerate.</p>\n",
-            "pubDate": "2023-11-28T14:48:06.000Z",
-            "link": "http://oldschool.scripting.com/ksmith3123@gmail.com/2023/10/25/111518.html",
-            "guid": "https://feedland.org/?item=7179732",
-            "permalink": "https://feedland.org/?item=7179732",
-            "markdowntext": "ChatGPT 3.5 loves to exaggerate."
+            "description": "<p>Gravy time.</p>",
+            "pubDate": "2025-10-09T15:03:58.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/09/415/",
+            "guid": "http://scripting4.wordpress.com/2025/10/09/415/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/09/415/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>2009: The idea [of rssCloud] is to deliver news faster, without relying on a single company to do all the work.</p>\n",
-            "pubDate": "2023-11-28T14:30:05.000Z",
-            "link": "http://scripting.com/stories/2009/09/08/whatDoesRsscloudMeanToYou.html",
-            "guid": "https://feedland.org/?item=7179404",
-            "permalink": "https://feedland.org/?item=7179404",
-            "markdowntext": "2009: The idea [of rssCloud] is to deliver news faster, without relying on a single company to do all the work."
+            "description": "<p>keep testing</p>",
+            "pubDate": "2025-10-09T15:02:29.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/09/414/",
+            "guid": "http://scripting4.wordpress.com/2025/10/09/414/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/09/414/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>ChatGPT&#39;s success reshaped the landscape for every one of tech&#39;s giants.</p>\n",
-            "pubDate": "2023-11-28T12:43:45.000Z",
-            "link": "https://www.axios.com/2023/11/28/chatgpt-big-tech-microsoft-google-apple-meta-amazon",
-            "guid": "https://feedland.org/?item=7177557",
-            "permalink": "https://feedland.org/?item=7177557",
-            "markdowntext": "ChatGPT's success reshaped the landscape for every one of tech's giants."
+            "description": "<p><a href=\"https://www.metacritic.com/movie/28-days-later/\">Nother</a> test</p>",
+            "pubDate": "2025-10-09T14:59:47.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/09/413/",
+            "guid": "http://scripting4.wordpress.com/2025/10/09/413/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/09/413/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "description": "<p>Tumblr sheds Post Plus subscriptions as the platform downsizes.</p>\n",
-            "pubDate": "2023-11-28T00:10:06.000Z",
-            "link": "https://www.theverge.com/2023/11/27/23978683/tumblr-post-plus-subscription-downsize",
-            "guid": "https://feedland.org/?item=7165411",
-            "permalink": "https://feedland.org/?item=7165411",
-            "markdowntext": "Tumblr sheds Post Plus subscriptions as the platform downsizes."
+            "description": "<p>oops i had that feed hidden</p>",
+            "pubDate": "2025-10-09T14:55:53.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/09/412/",
+            "guid": "http://scripting4.wordpress.com/2025/10/09/412/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/09/412/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         },
         {
-            "title": "RSS Club | daverupert.com",
-            "description": "<p>RSS Club is a collection of blogs (personal and otherwise) committed to providing RSS-only content.</p>\n",
-            "pubDate": "2023-11-27T21:05:38.000Z",
-            "link": "https://daverupert.com/rss-club/",
-            "guid": "https://feedland.org/?item=7160854",
-            "permalink": "https://feedland.org/?item=7160854",
-            "markdowntext": "RSS Club is a collection of blogs (personal and otherwise) committed to providing RSS-only content."
-        },
-        {
-            "description": "<p>Spying on Trump&#39;s Mar-a-Lago Club Was Easy. Is Your Privacy Safe?</p>\n",
-            "pubDate": "2023-11-27T19:01:32.000Z",
-            "link": "https://www.rollingstone.com/culture/culture-features/data-brokers-trump-tech-spying-privacy-threat-1234897098/",
-            "guid": "https://feedland.org/?item=7157447",
-            "permalink": "https://feedland.org/?item=7157447",
-            "markdowntext": "Spying on Trump's Mar-a-Lago Club Was Easy. Is Your Privacy Safe?"
-        },
-        {
-            "description": "<p>The real AI fight.</p>\n",
-            "pubDate": "2023-11-27T18:00:19.000Z",
-            "link": "https://pluralistic.net/2023/11/27/10-types-of-people/",
-            "guid": "https://feedland.org/?item=7156113",
-            "permalink": "https://feedland.org/?item=7156113",
-            "markdowntext": "The real AI fight."
-        },
-        {
-            "description": "<p>Yup hacks together a cross-posting app for X, Threads, Bluesky and others.</p>\n",
-            "pubDate": "2023-11-27T17:28:13.000Z",
-            "link": "https://techcrunch.com/2023/11/21/yup-hacks-together-a-cross-posting-app-for-x-threads-bluesky-and-others/",
-            "guid": "https://feedland.org/?item=7155476",
-            "permalink": "https://feedland.org/?item=7155476",
-            "markdowntext": "Yup hacks together a cross-posting app for X, Threads, Bluesky and others."
-        },
-        {
-            "description": "<p>2013: A question maybe no one has ever asked you.</p>\n",
-            "pubDate": "2023-11-27T16:14:17.000Z",
-            "link": "http://scripting.com/2013/11/27/question",
-            "guid": "https://feedland.org/?item=7153935",
-            "permalink": "https://feedland.org/?item=7153935",
-            "markdowntext": "2013: A question maybe no one has ever asked you."
-        },
-        {
-            "description": "<p>Trump Thinks He Can Run As an Abortion ‘Moderate’ in ’24.</p>\n",
-            "pubDate": "2023-11-27T10:26:10.000Z",
-            "link": "https://www.rollingstone.com/politics/politics-features/donald-trump-abortion-moderate-run-2024-election-1234893936/",
-            "guid": "https://feedland.org/?item=7148573",
-            "permalink": "https://feedland.org/?item=7148573",
-            "markdowntext": "Trump Thinks He Can Run As an Abortion ‘Moderate’ in ’24."
-        },
-        {
-            "description": "<p>Preserving our digital content is vital. But paying $38,000 for the privilege is not.</p>\n",
-            "pubDate": "2023-11-27T09:06:30.000Z",
-            "link": "https://www.theguardian.com/commentisfree/2023/nov/25/wordpress-preserve-digital-content-100-years",
-            "guid": "https://feedland.org/?item=7147448",
-            "permalink": "https://feedland.org/?item=7147448",
-            "markdowntext": "Preserving our digital content is vital. But paying $38,000 for the privilege is not."
-        },
-        {
-            "description": "<p>EV Batteries Are Perfect For Storing Solar Power.</p>\n",
-            "pubDate": "2023-11-27T02:36:01.000Z",
-            "link": "https://cleantechnica.com/2023/11/26/ev-batteries-are-perfect-for-storing-solar-power/",
-            "guid": "https://feedland.org/?item=7142716",
-            "permalink": "https://feedland.org/?item=7142716",
-            "markdowntext": "EV Batteries Are Perfect For Storing Solar Power."
-        },
-        {
-            "description": "<p>Benedict Evans on Twitter. I don’t care if he’s leaving or not, but it’s a good story, worth a read.</p>\n",
-            "pubDate": "2023-11-26T19:41:56.000Z",
-            "link": "https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter",
-            "guid": "https://feedland.org/?item=7136648",
-            "permalink": "https://feedland.org/?item=7136648",
-            "markdowntext": "Benedict Evans on Twitter. I don’t care if he’s leaving or not, but it’s a good story, worth a read."
-        },
-        {
-            "title": "Biden Asked If He’s Too Old to Run in 2024: ‘That’s Stupid!’ - The Messenger",
-            "description": "<p>The reporter did get some blowback from critics over crediting the age question to &quot;a reporter&quot; rather than to himself. (I’ve seen reporters do worse.)</p>\n",
-            "pubDate": "2023-11-26T19:23:50.000Z",
-            "link": "https://themessenger.com/politics/joe-biden-nantucket-2024-age-fox-news",
-            "guid": "https://feedland.org/?item=7136401",
-            "permalink": "https://feedland.org/?item=7136401",
-            "markdowntext": "The reporter did get some blowback from critics over crediting the age question to \"a reporter\" rather than to himself. (I’ve seen reporters do worse.)"
-        },
-        {
-            "description": "<p>Former McDonald&#39;s Chef Explains Why Menu Doesn&#39;t Change.</p>\n",
-            "pubDate": "2023-11-26T18:10:48.000Z",
-            "link": "https://www.dailydot.com/news/why-mcdonalds-menu-stays-the-same/",
-            "guid": "https://feedland.org/?item=7135328",
-            "permalink": "https://feedland.org/?item=7135328",
-            "markdowntext": "Former McDonald's Chef Explains Why Menu Doesn't Change."
-        },
-        {
-            "description": "<p>AI’s Spicy-Mayo Problem.</p>\n",
-            "pubDate": "2023-11-26T12:31:29.000Z",
-            "link": "https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/?gift=2iIN4YrefPjuvZ5d2Kh30ziSbGfKfDht_XJh24I6h-M",
-            "guid": "https://feedland.org/?item=7131638",
-            "permalink": "https://feedland.org/?item=7131638",
-            "markdowntext": "AI’s Spicy-Mayo Problem."
-        },
-        {
-            "description": "<p>‘We will coup whoever we want!’: the unbearable hubris of Musk and the billionaire tech bros.</p>\n",
-            "pubDate": "2023-11-25T13:48:42.000Z",
-            "link": "https://www.theguardian.com/books/2023/nov/25/we-will-coup-whoever-we-want-the-unbearable-hubris-of-musk-and-the-billionaire-tech-bros",
-            "guid": "https://feedland.org/?item=7116292",
-            "permalink": "https://feedland.org/?item=7116292",
-            "markdowntext": "‘We will coup whoever we want!’: the unbearable hubris of Musk and the billionaire tech bros."
-        },
-        {
-            "description": "<p>Tesla starts releasing to employees FSD v12 - a critical update to self-driving effort.</p>\n",
-            "pubDate": "2023-11-24T19:33:32.000Z",
-            "link": "https://electrek.co/2023/11/24/tesla-releasing-employees-fsd-v12-a-critical-update-self-driving-effort/",
-            "guid": "https://feedland.org/?item=7100867",
-            "permalink": "https://feedland.org/?item=7100867",
-            "markdowntext": "Tesla starts releasing to employees FSD v12 - a critical update to self-driving effort."
-        },
-        {
-            "description": "<p>Haddon Sundblom and the Coca-Cola Santas.</p>\n",
-            "pubDate": "2023-11-24T17:10:47.000Z",
-            "link": "https://www.coca-colacompany.com/about-us/history/haddon-sundblom-and-the-coca-cola-santas",
-            "guid": "https://feedland.org/?item=7097960",
-            "permalink": "https://feedland.org/?item=7097960",
-            "markdowntext": "Haddon Sundblom and the Coca-Cola Santas."
-        },
-        {
-            "description": "<p>Elon Musk Says There&#39;s a &quot;Large Graveyard Filled With My Enemies.&quot;</p>\n",
-            "pubDate": "2023-11-24T09:08:35.000Z",
-            "link": "https://news.yahoo.com/elon-musk-says-theres-large-183752696.html",
-            "guid": "https://feedland.org/?item=7090092",
-            "permalink": "https://feedland.org/?item=7090092",
-            "markdowntext": "Elon Musk Says There's a \"Large Graveyard Filled With My Enemies.\""
-        },
-        {
-            "description": "<p>Chunks, anchors and textcasting.</p>\n",
-            "pubDate": "2023-11-24T02:24:03.000Z",
-            "link": "https://da.vebrig.gs/2023/11/23/chunks-anchors-and-textcasting/",
-            "guid": "https://feedland.org/?item=7083805",
-            "permalink": "https://feedland.org/?item=7083805",
-            "markdowntext": "Chunks, anchors and textcasting."
-        },
-        {
-            "description": "<p>It&#39;s really gratifying that so many new people are using <a href=\"http://news.scripting.com\"><span data-auto-link=\"true\" data-href=\"http://news.scripting.com\">news.scripting.com</span></a>. It&#39;s basically a front-end for FeedLand. I totally manage it with the tools in FeedLand.</p>\n",
-            "pubDate": "2023-11-23T19:40:28.000Z",
-            "link": "http://news.scripting.com/",
-            "guid": "https://feedland.org/?item=7076516",
-            "permalink": "https://feedland.org/?item=7076516",
-            "markdowntext": "It's really gratifying that so many new people are using [<span data-auto-link=\"true\" data-href=\"http://news.scripting.com\">news.scripting.com</span>](http://news.scripting.com). It's basically a front-end for FeedLand. I totally manage it with the tools in FeedLand."
-        },
-        {
-            "description": "<p>OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say.</p>\n",
-            "pubDate": "2023-11-23T18:11:46.000Z",
-            "link": "https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/",
-            "guid": "https://feedland.org/?item=7075395",
-            "permalink": "https://feedland.org/?item=7075395",
-            "markdowntext": "OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say."
-        },
-        {
-            "description": "<p>A couple of WordPress blocks that use the FeedLand API to show your latest feed items on a WordPress site. Written by Fernando Fernandes, a developer at Automattic who I&#39;m working with.</p>\n",
-            "pubDate": "2023-11-23T17:52:55.000Z",
-            "link": "https://github.com/a8cteam51/feedland",
-            "guid": "https://feedland.org/?item=7075021",
-            "permalink": "https://feedland.org/?item=7075021",
-            "markdowntext": "A couple of WordPress blocks that use the FeedLand API to show your latest feed items on a WordPress site. Written by Fernando Fernandes, a developer at Automattic who I'm working with."
-        },
-        {
-            "description": "<p>YouTube: Intro to Large Language Models.</p>\n",
-            "pubDate": "2023-11-23T17:24:23.000Z",
-            "link": "https://simonwillison.net/2023/Nov/23/intro-to-large-language-models/",
-            "guid": "https://feedland.org/?item=7074630",
-            "permalink": "https://feedland.org/?item=7074630",
-            "markdowntext": "YouTube: Intro to Large Language Models."
-        },
-        {
-            "description": "<p>The Red State Brain Drain Isn’t Coming. It’s Happening Right Now.</p>\n",
-            "pubDate": "2023-11-22T17:41:02.000Z",
-            "link": "https://newrepublic.com/article/176854/republican-red-states-brain-drain",
-            "guid": "https://feedland.org/?item=7046381",
-            "permalink": "https://feedland.org/?item=7046381",
-            "markdowntext": "The Red State Brain Drain Isn’t Coming. It’s Happening Right Now."
-        },
-        {
-            "description": "<p>Downtown Greyhound stations closing after sale to Alden Global Capital subsidiary.</p>\n",
-            "pubDate": "2023-11-21T10:39:19.000Z",
-            "link": "https://www.axios.com/2023/11/18/greyhound-alden-bus-stations-close",
-            "guid": "https://feedland.org/?item=7012588",
-            "permalink": "https://feedland.org/?item=7012588",
-            "markdowntext": "Downtown Greyhound stations closing after sale to Alden Global Capital subsidiary."
-        },
-        {
-            "description": "<p>The problem with Automattic’s 100 year plan.</p>\n",
-            "pubDate": "2023-11-21T10:04:27.000Z",
-            "link": "https://onemanandhisblog.com/2023/11/the-problem-with-automattics-100-year-plan/",
-            "guid": "https://feedland.org/?item=7012047",
-            "permalink": "https://feedland.org/?item=7012047",
-            "markdowntext": "The problem with Automattic’s 100 year plan."
-        },
-        {
-            "description": "<p>I’d pay $10K up front for this 100-year service.</p>\n",
-            "pubDate": "2023-11-21T02:24:42.000Z",
-            "link": "http://scripting.com/2023/11/20/183510.html",
-            "guid": "https://feedland.org/?item=7004411",
-            "permalink": "https://feedland.org/?item=7004411",
-            "markdowntext": "I’d pay $10K up front for this 100-year service."
-        },
-        {
-            "description": "<p>2011: We need to improve tech criticism. Here’s how.</p>\n",
-            "pubDate": "2023-11-20T22:20:17.000Z",
-            "link": "https://www.niemanlab.org/2011/12/dave-winer-we-need-to-improve-tech-criticism-heres-how/",
-            "guid": "https://feedland.org/?item=6998453",
-            "permalink": "https://feedland.org/?item=6998453",
-            "markdowntext": "2011: We need to improve tech criticism. Here’s how."
-        },
-        {
-            "description": "<p>Hacker News thread about Colin’s piece about RSS.</p>\n",
-            "pubDate": "2023-11-20T11:50:47.000Z",
-            "link": "https://news.ycombinator.com/item?id=38343385",
-            "guid": "https://feedland.org/?item=6984959",
-            "permalink": "https://feedland.org/?item=6984959",
-            "markdowntext": "Hacker News thread about Colin’s piece about RSS."
-        },
-        {
-            "description": "<p>DatePress.</p>\n",
-            "pubDate": "2023-11-19T23:30:21.000Z",
-            "link": "https://doc.searls.com/2023/11/09/datepress/",
-            "guid": "https://feedland.org/?item=6975751",
-            "permalink": "https://feedland.org/?item=6975751",
-            "markdowntext": "DatePress."
-        },
-        {
-            "description": "<p>Colin Walker likes RSS.</p>\n",
-            "pubDate": "2023-11-19T22:53:18.000Z",
-            "link": "https://colinwalker.blog/blog/?date=2023-11-19#p1",
-            "guid": "https://feedland.org/?item=6975372",
-            "permalink": "https://feedland.org/?item=6975372",
-            "markdowntext": "Colin Walker likes RSS."
-        },
-        {
-            "description": "<p>Rosalynn Carter, first lady who championed mental health, dies at 96.</p>\n",
-            "pubDate": "2023-11-19T20:37:08.000Z",
-            "link": "https://www.washingtonpost.com/obituaries/2023/11/19/rosalynn-carter-first-lady-jimmy-carter-dies/",
-            "guid": "https://feedland.org/?item=6973544",
-            "permalink": "https://feedland.org/?item=6973544",
-            "markdowntext": "Rosalynn Carter, first lady who championed mental health, dies at 96."
-        },
-        {
-            "description": "<p>Rosalynn Carter, former first lady and tireless humanitarian, dies at 96.</p>\n",
-            "pubDate": "2023-11-19T20:32:33.000Z",
-            "link": "https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862",
-            "guid": "https://feedland.org/?item=6973513",
-            "permalink": "https://feedland.org/?item=6973513",
-            "markdowntext": "Rosalynn Carter, former first lady and tireless humanitarian, dies at 96."
-        },
-        {
-            "description": "<p>Antisemitism.</p>\n",
-            "pubDate": "2023-11-19T18:53:09.000Z",
-            "link": "https://ritholtz.com/2023/11/antisemitism/",
-            "guid": "https://feedland.org/?item=6972413",
-            "permalink": "https://feedland.org/?item=6972413",
-            "markdowntext": "Antisemitism."
-        },
-        {
-            "description": "<p>A 30-Year Trap: The Problem With America’s Weird Mortgages.</p>\n",
-            "pubDate": "2023-11-19T18:40:10.000Z",
-            "link": "https://www.nytimes.com/2023/11/19/business/economy/30-year-mortgage.html",
-            "guid": "https://feedland.org/?item=6972270",
-            "permalink": "https://feedland.org/?item=6972270",
-            "markdowntext": "A 30-Year Trap: The Problem With America’s Weird Mortgages."
-        },
-        {
-            "description": "<p>Privacy is Priceless, but Signal is Expensive.</p>\n",
-            "pubDate": "2023-11-19T18:32:54.000Z",
-            "link": "https://signal.org/blog/signal-is-expensive/",
-            "guid": "https://feedland.org/?item=6972165",
-            "permalink": "https://feedland.org/?item=6972165",
-            "markdowntext": "Privacy is Priceless, but Signal is Expensive."
-        },
-        {
-            "description": "<p>Newsom TV ad hits DeSantis on abortion as Fox debate looms.</p>\n",
-            "pubDate": "2023-11-19T18:08:29.000Z",
-            "link": "https://www.politico.com/news/2023/11/19/newsom-desantis-tv-ad-debate-00127932",
-            "guid": "https://feedland.org/?item=6971809",
-            "permalink": "https://feedland.org/?item=6971809",
-            "markdowntext": "Newsom TV ad hits DeSantis on abortion as Fox debate looms."
-        },
-        {
-            "description": "<p>Lou Grant: &quot;You&#39;ve got spunk!&quot;</p>\n",
-            "pubDate": "2023-11-19T14:00:34.000Z",
-            "link": "https://www.youtube.com/watch?v=0cHSYhafCQM",
-            "guid": "https://feedland.org/?item=6968245",
-            "permalink": "https://feedland.org/?item=6968245",
-            "markdowntext": "Lou Grant: \"You've got spunk!\""
-        },
-        {
-            "description": "<p>Tesla&#39;s Cybertruck has a serious problem that only a complete redesign.</p>\n",
-            "pubDate": "2023-11-19T11:48:01.000Z",
-            "link": "https://www.fastcompany.com/90945689/teslas-cybertruck-has-a-serious-problem-that-only-a-complete-redesign-can-fix?kwp_0=2314753&kwp_4=6523033&kwp_1=2792233",
-            "guid": "https://feedland.org/?item=6966777",
-            "permalink": "https://feedland.org/?item=6966777",
-            "markdowntext": "Tesla's Cybertruck has a serious problem that only a complete redesign."
-        },
-        {
-            "description": "<p>Of course we have no privacy from Google, but they never say that part.</p>\n",
-            "pubDate": "2023-11-19T11:24:47.000Z",
-            "link": "https://www.bleepingcomputer.com/news/google/google-shares-plans-for-blocking-third-party-cookies-in-chrome/",
-            "guid": "https://feedland.org/?item=6966611",
-            "permalink": "https://feedland.org/?item=6966611",
-            "markdowntext": "Of course we have no privacy from Google, but they never say that part."
-        },
-        {
-            "description": "<p>There’s nothing new about Nazis.</p>\n",
-            "pubDate": "2023-11-19T01:49:59.000Z",
-            "link": "https://www.jsonline.com/story/news/politics/2023/11/18/neo-nazi-group-marches-on-state-capital/71636061007/",
-            "guid": "https://feedland.org/?item=6960839",
-            "permalink": "https://feedland.org/?item=6960839",
-            "markdowntext": "There’s nothing new about Nazis."
-        },
-        {
-            "description": "<p>This Louisiana Village Brought in $1 Million Through a Court Where the Mayor Is the Judge.</p>\n",
-            "pubDate": "2023-11-18T23:29:59.000Z",
-            "link": "https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court",
-            "guid": "https://feedland.org/?item=6959031",
-            "permalink": "https://feedland.org/?item=6959031",
-            "markdowntext": "This Louisiana Village Brought in $1 Million Through a Court Where the Mayor Is the Judge."
-        },
-        {
-            "description": "<p>You shouldn&#39;t be driving over 100 mph — and your car shouldn&#39;t let you.</p>\n",
-            "pubDate": "2023-11-18T22:59:58.000Z",
-            "link": "https://www.fastcompany.com/90985257/you-shouldnt-be-driving-over-100-mph-and-your-car-shouldnt-let-you",
-            "guid": "https://feedland.org/?item=6958674",
-            "permalink": "https://feedland.org/?item=6958674",
-            "markdowntext": "You shouldn't be driving over 100 mph — and your car shouldn't let you."
+            "description": "<p>Let&#039;s do a test post.</p>",
+            "pubDate": "2025-10-09T14:54:51.000Z",
+            "link": "https://scripting4.wordpress.com/2025/10/09/411/",
+            "guid": "http://scripting4.wordpress.com/2025/10/09/411/",
+            "author": "Dave Winer",
+            "comments": "https://scripting4.wordpress.com/2025/10/09/411/#respond",
+            "enclosure": {
+                "url": "https://1.gravatar.com/avatar/d1f026c099fa51d2957b1612f11412cd08dd69c2bb160968068ed0f337b8918b?s=96&d=identicon&r=G",
+                "type": "image"
+            }
         }
     ]
 }
