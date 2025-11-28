@@ -1,3 +1,7 @@
+#### 11/28/25; 10:50:41 AM by DW
+
+Fixed a <a href="https://github.com/scripting/reallysimple/blob/main/demos/feeder/worknotes.md#112825-102032-am-by-dw">bug</a> in the feeder app that was causing the Links page on scripting.com to look awful. There was a change in the way links.daveverse.org was formatting the description elements. 
+
 #### 11/18/25; 8:09:33 AM by DW
 
 In convertFeed, if there's a source:markdown element present in an item, we were changing the value of the item description to a rendered version of the markdown text. There's no comment explaining why we did this and it seems wrong. It might make some sense if there's no description element present. 
