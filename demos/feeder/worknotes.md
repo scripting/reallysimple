@@ -1,3 +1,7 @@
+#### 11/28/25; 10:20:32 AM by DW
+
+There was a problem in cleanDescription that made returnLinkblogHtml not work properly. 
+
 #### 1/11/25; 11:01:56 AM by DW
 
 In the jsonify template we were including http files when the app is served via https.

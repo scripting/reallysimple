@@ -1,3 +1,11 @@
+#### 11/18/25; 8:09:33 AM by DW
+
+In convertFeed, if there's a source:markdown element present in an item, we were changing the value of the item description to a rendered version of the markdown text. There's no comment explaining why we did this and it seems wrong. It might make some sense if there's no description element present. 
+
+This caused problems in the scripting.com/rss.xml feed because we were generating the markdown text from the description, and it was screwing up fediverse addresses that it thought was a mailto. Like @scripting@daveverse.org.
+
+I commented the line of code out. It seems it should be up to the source of the feed to decide what the relationship is between the markdown text and the description.  
+
 #### 10/10/25; 11:13:23 AM by DW
 
 We now look for site id and post id in wordpress-generated sites. 

@@ -1,4 +1,4 @@
-const myVersion = "0.5.0", myProductName = "feeder";      
+const myVersion = "0.5.1", myProductName = "feeder";      
 
 const fs = require ("fs");
 const utils = require ("daveutils");
@@ -152,10 +152,11 @@ function convertFeedToMarkdown (theOutline) { //3/29/23 by DW
 	}
 
 function cleanDescription (desc) { //4/19/23 by DW
+	desc = utils.trimWhitespace (desc); //11/28/25 by DW
 	if (utils.beginsWith (desc, "<p>")) {
 		desc = utils.stringDelete (desc, 1, 3);
 		}
-	if (utils.endsWith (desc, "</p>\n")) {
+	if (utils.endsWith (desc, "</p>")) {
 		desc = utils.stringMid (desc, 1, desc.length - 5);
 		}
 	return (desc);
