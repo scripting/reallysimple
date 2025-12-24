@@ -1,3 +1,7 @@
+#### 12/23/25; 12:27:22 PM by DW
+
+node subscriptionlistcleanup.js -u http://scripting.com/code/subscriptionlistcleanup/studentnews.opml
+
 #### 10/19/24; 11:24:25 AM by DW
 
 I took a few hours to try to turn this into an HTTP server. I preserved the code in discuss.root, under today's archive. 
@@ -8,7 +12,7 @@ To fix all that, I'd have to dig into code that hasn't been touched in a long ti
 
 So I punted. It was a nice idea, a utility that might have attracted exactly the kind of people I want to work with. 
 
-I must get back to WordLand where I am very well dug in, and making good progress. 
+I must get back to WordLand where I am very well dug in, and making good progress.  
 
 #### 12/21/22; 8:51:20 AM by DW
 

@@ -73,6 +73,7 @@ function cleanup (err, opmltext) {
 									reallysimple.readFeed (theNode.xmlUrl, function (err, theFeed) {
 										var secs = ", " + utils.secondsSince (whenstart) + " secs"
 										if (err) {
+											console.log (theNode.xmlUrl + ", err.message == " + err.message + secs);
 											}
 										else {
 											console.log (theFeed.title + secs);
