@@ -1,4 +1,4 @@
-var myProductName = "reallysimple", myVersion = "0.5.3";     
+var myProductName = "reallysimple", myVersion = "0.5.4";     
 
 exports.readFeed = readFeed;
 exports.convertFeedToOpml = convertFeedToOpml;
@@ -295,6 +295,20 @@ function convertFeed (oldFeed, whenstart) {
 				}
 			if (flFoundNamespace) {
 				newItem.wpPostId = stringToNum (linkToPostId ["#"]);
+				}
+			}
+		
+		if (item ["source:inreplyto"] !== undefined) { //7/29/26 by DW -- davefeedread lowercases element names
+			newItem.inReplyTo = item ["source:inreplyto"] ["#"];
+			}
+		
+		if (item ["source:comments"] !== undefined) { //7/29/26 by DW
+			const theAtts = item ["source:comments"] ["@"];
+			if (theAtts !== undefined) {
+				newItem.commentsFeed = {
+					count: Number (theAtts.count),
+					feedUrl: theAtts.feedurl //lowercased by davefeedread, restored here
+					};
 				}
 			}
 		

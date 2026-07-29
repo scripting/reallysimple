@@ -1,3 +1,7 @@
+#### 7/29/26; 11:51:56 AM by DW
+
+Add support for source:inreplyto and source:comments.
+
 #### 11/28/25; 10:50:41 AM by DW
 
 Fixed a <a href="https://github.com/scripting/reallysimple/blob/main/demos/feeder/worknotes.md#112825-102032-am-by-dw">bug</a> in the feeder app that was causing the Links page on scripting.com to look awful. There was a change in the way links.daveverse.org was formatting the description elements. 
